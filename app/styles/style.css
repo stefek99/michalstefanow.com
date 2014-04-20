@@ -8,8 +8,8 @@ html {
 
 body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 13px;
-	line-height: 18px;
+	font-size: 1em;
+	line-height: 1.8em;
 	color: #333;
 }
 
@@ -23,15 +23,19 @@ body {
 	position: relative;
 }
 
+.col3 {
+	text-align: center;
+	float:left;
+}
 
-@media (min-width: 600px) {
+@media (min-width: 768px) {
 	#avatars {
 		display: block;
-		width: 600px;
+		width: 660px;
 		margin: 0 auto;
 	}
 
-	#content {
+	#content, footer {
 		width:760px; 
 	}
 	.span3 {
@@ -42,12 +46,11 @@ body {
 	}
 
 	.col3 {
-	float:left;
-	width: 193px;
+	width: 213px;
 	margin-right: 10px
 	}
 	.col3 img {
-		width: 180px;
+		width: 200px;
 	}
 
 	.col3:nth-of-type(3n) {
@@ -55,7 +58,7 @@ body {
 	}
 }
 
-@media (max-width: 599px) {
+@media (max-width: 767px) {
 	#avatars {
 		width: 100%;
 	}
@@ -68,6 +71,13 @@ body {
 	}
 	.span3 {
 		width: 100%;
+	}
+
+	.col3 {
+		width: 50%;
+	}
+	.col3 img {
+		max-width: 100%;
 	}
 }
 
@@ -97,7 +107,6 @@ footer {
 	text-align: center;
 	font-size: 0.9em;
 	line-height: 1.4em;
-	width: 600px;
 }
 
 footer img {
@@ -107,6 +116,10 @@ footer img {
 
 footer img.icon {
 	height: 16px;
+}
+footer .links {
+	margin: 0 auto;
+	display: inline-block;
 }
 
 small {
@@ -152,9 +165,7 @@ width: 138px;
 background-position: -420px 0;
 }
 
-.footerlinks {
-	margin: 0 auto;
-}
+
 
 #bcf_logo {
 	visibility: hidden !important;
