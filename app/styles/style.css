@@ -23,8 +23,10 @@ body {
 	position: relative;
 }
 
+
 @media (min-width: 600px) {
-	#awatars {
+	#avatars {
+		display: block;
 		width: 600px;
 		margin: 0 auto;
 	}
@@ -32,26 +34,29 @@ body {
 	#content {
 		width:760px; 
 	}
-	#contentMain{
-		display: inline-block;
-		width: 720px;
-		margin: 0 auto;
-	}
 	.span3 {
-		width: 280px;
-
+		width: 360px;
 	}
 	.span3:first-of-type {
-		margin-left: 70px;
-		paddin
+		padding-right: 40px;
+	}
+
+	.col3 {
+	float:left;
+	width: 193px;
+	margin-right: 10px
+	}
+	.col3 img {
+		width: 180px;
+	}
+
+	.col3:nth-of-type(3n) {
+		margin-right: 0px;
 	}
 }
 
 @media (max-width: 599px) {
-	a.forkit {
-		display: none;
-	}
-	#awatars {
+	#avatars {
 		width: 100%;
 	}
 
@@ -66,6 +71,13 @@ body {
 	}
 }
 
+
+#avatars p {
+text-align: center;
+font-weight: bold;
+font-size: 1.2em;
+}
+
 .span3 {
 	float: left;
 }
@@ -74,46 +86,9 @@ body {
 	margin-bottom: 19px;
 }
 
-
-h1 {
-	cursor: pointer;
-	font-size: 2.8em;
-	margin: 10px;
-	padding-bottom: 10px;
-}
-
 h2 {
 	margin-bottom: 10px;
-}
-h1 span {
-	font-size: 0.7em;
-}
-h1 a {
-	text-decoration: none;
-	color: white;
-}
-
-header {
-	text-align: center;
-}
-
-h2 {
-	font-size: 1.9em;
-}
-nav {
-	font-size: 1.7em;
-	margin-bottom: 10px;
-}
-
-
-#avatars {
-margin: 0px auto;
-}
-
-#avatars p {
-text-align: center;
-font-weight: bold;
-font-size: 1.2em;
+	font-size: 1.8em;
 }
 
 footer {
@@ -148,18 +123,6 @@ a:hover  {
 
 .cleaner { clear: both; width: 100%; height: 5px; font-size: 0px;  }
 
-.col3 {
-	float:left;
-	width: 193px;
-	margin-right: 10px
-}
-.col3 img {
-	width: 180px;
-}
-
-.col3.last {
-	margin-right: 0px;
-}
 
 li {
 	margin-left: 20px;
@@ -190,6 +153,9 @@ background-position: -420px 0;
 }
 
 .footerlinks {
-	width: 240px;
 	margin: 0 auto;
+}
+
+#bcf_logo {
+	visibility: hidden !important;
 }
