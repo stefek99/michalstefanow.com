@@ -1,9 +1,5 @@
 html {
-	background: url(../images/background.jpg) no-repeat center center fixed; 
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
+	min-width: 360px;
 }
 
 body {
@@ -17,10 +13,35 @@ body {
 	color: white; 
 	background:#111; 
 	background:url(../images/background-black.png);
-	padding: 5%; 
+	padding: 5%;
 	margin:30px auto;
 	text-align:left;
 	position: relative;
+}
+
+#note {
+    background: #fde073;
+    text-align: center;
+    line-height: 2.5;
+    overflow: hidden; 
+    -webkit-box-shadow: 0 0 5px black;
+    -moz-box-shadow:    0 0 5px black;
+    box-shadow:         0 0 5px black;
+}
+
+#note.regular {
+	display: block;
+	height: 100px;
+	width: 100%;
+}
+
+#note.full {
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 99998;
 }
 
 .col3 {
@@ -28,11 +49,19 @@ body {
 	float:left;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 769px) {
+	html {
+		background: url(../images/background.jpg) no-repeat center center fixed; 
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	}
+
 	#avatars {
 		display: block;
 		width: 660px;
-		margin: 0 auto;
+		margin: 55px auto 0 auto;
 	}
 
 	#content, footer {
@@ -58,7 +87,10 @@ body {
 	}
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
+	html {
+		background: black;
+	}
 	#avatars {
 		width: 100%;
 	}
@@ -83,16 +115,19 @@ body {
 
 
 #avatars p {
-text-align: center;
-font-weight: bold;
-font-size: 1.2em;
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.2em;
 }
 
 .span3 {
 	float: left;
 }
 
-.media ul:first-of-type li {
+.media ul:nth-of-type(2) li {
+	margin-bottom: 19px;
+}
+.misc ul:nth-of-type(2) li {
 	margin-bottom: 19px;
 }
 
@@ -167,17 +202,4 @@ background-position: -420px 0;
 
 #bcf_logo {
 	visibility: hidden !important;
-}
-
-#note {
-	display: block;
-	height: 300px;
-	width: 100%;
-    background: #fde073;
-    text-align: center;
-    line-height: 2.5;
-    overflow: hidden; 
-    -webkit-box-shadow: 0 0 5px black;
-    -moz-box-shadow:    0 0 5px black;
-    box-shadow:         0 0 5px black;
 }
