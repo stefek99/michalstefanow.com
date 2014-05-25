@@ -10,8 +10,8 @@ body {
 }
 
 #content{
-	color: white; 
-	background:#111; 
+	color: white;
+	background:#111;
 	background:url(../images/background-black.png);
 	padding: 5%;
 	margin:30px auto;
@@ -23,7 +23,7 @@ body {
     background: #fde073;
     text-align: center;
     line-height: 2.5;
-    overflow: hidden; 
+    overflow: hidden;
     -webkit-box-shadow: 0 0 5px black;
     -moz-box-shadow:    0 0 5px black;
     box-shadow:         0 0 5px black;
@@ -33,6 +33,7 @@ body {
 	display: block;
 	height: 100px;
 	width: 100%;
+	position: absolute;
 }
 
 #note.full {
@@ -51,7 +52,7 @@ body {
 
 @media (min-width: 769px) {
 	html {
-		background: url(../images/background.jpg) no-repeat center center fixed; 
+		background: url(../images/background.jpg) no-repeat center center fixed;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		-o-background-size: cover;
@@ -65,7 +66,7 @@ body {
 	}
 
 	#content, footer {
-		width:760px; 
+		width:760px;
 	}
 	.span3 {
 		width: 360px;
@@ -96,7 +97,7 @@ body {
 	}
 
 	#content {
-		width: 90%; 
+		width: 90%;
 	}
 	#refer{
 		width: 100%;
@@ -162,7 +163,7 @@ small {
 }
 
 a {
-	font-weight: bold; 
+	font-weight: bold;
 	color:#CCC;
 }
 a:hover  {
@@ -194,7 +195,7 @@ background-position: -123px 0;
 #a3 {
 width: 129px;
 background-position: -291px 0;
-}      
+}
 #a4 {
 width: 138px;
 background-position: -420px 0;

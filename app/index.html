@@ -14,15 +14,63 @@
     <link rel="stylesheet" href="styles/reset.css">
     <link rel="stylesheet" href="styles/style.css">
     <!-- endbuild -->
+
+<style type="text/css">
+#overlay {
+    display: block;
+    position: fixed;
+    left: 25%;
+    top: 25%;
+    padding: 25px;
+    border: 2px solid black;
+    background-color: #ffffff;
+    width: 50%;
+    height: 50%;
+    z-index: 100;
+    opacity: 1;
+    -webkit-transition: opacity 1s ease-out;
+}
+
+#fade {
+    display: block;
+    position: fixed;
+    left: 0%;
+    top: 0%;
+    background-color: black;
+    -moz-opacity: 0.7;
+    opacity: .70;
+    filter: alpha(opacity=70);
+    width: 100%;
+    height: 100%;
+    z-index: 90;
+}
+
+.hidden {
+    opacity: 0;
+}
+
+
+</style>
+
 </head>
 <body>
-    <div id="note" class="full"> <!-- regular -->
+
+<div id="fade"></div>
+<div id="overlay">
+    <a href="#" onclick="document.getElementById('overlay').classList.add('hidden');document.getElementById('fade').style.display='none'">X</a>
+    This is where you will put your inline HTML for the content inside of the overlay
+
+</div>
+
+    <!-- <div id="note" class="regular">
         Thank you. Be happy.
-    </div>
+    </div> -->
 
     <div class="cleaner">&nbsp;</div>
 
     <div id="content">
+
+
 
         <div id="avatars">
           <div class="col3"><img src="images/2008.jpg"/><p>2008</p></div>
@@ -42,6 +90,10 @@
 
         <div id="contentMain">
             <div class="span3 media">
+
+<a href="#" onclick="document.getElementById('overlay').style.display='block';document.getElementById('fade').style.display='block'">Click here to open the overlay</a>
+
+
                 <h2>mission</h2>
                     <ul>
                         <li>To reclaim 1+ year of my life.</li>
@@ -208,6 +260,7 @@
         </footer>
     </div> <!-- content -->
 
+<!--
 <script> var bcf_settings = { buttonText:'I really like getting emails and helping people.', buttonTop:'0%', language:'en_US' }; (function (d, s, id) { if ('https:' == document.location.protocol || d.getElementById(id)) return; var js, fjs = d.getElementsByTagName(s)[0]; js = d.createElement(s); js.id = id; js.src = "http://bettercontactform.com/contact/media/e/e/ee73bd40bafdd20a841bb0da2ef63f5dc18a2da1.js"; fjs.parentNode.insertBefore(js, fjs); }(document, "script", "bcf-render"));</script> <a id="bcf_trigger" href="http://bettercontactform.com" rel="bcf_trigger">Free Contact Form</a>
 
 <script>
@@ -216,6 +269,6 @@ var _gaq=[['_setAccount','UA-28944594-1'],['_trackPageview']];
     g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
     s.parentNode.insertBefore(g,s)}(document,'script'));
 </script>
-
+-->
 </body>
 </html>
