@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width">
 
     <link rel="apple-touch-icon" href="apple-touch-icon.png" />
-    <link rel="shortcut icon" href="shortcut icon.png">
+    <link rel="icon" href="shortcut-icon.png">
 
     <!-- build:css styles/styles.css -->
     <link rel="stylesheet" href="styles/reset.css">
@@ -39,8 +39,8 @@
     top: 0%;
     background-color: black;
     -moz-opacity: 0.7;
-    opacity: .70;
-    filter: alpha(opacity=70);
+    opacity: .50;
+    filter: alpha(opacity=50);
     width: 100%;
     height: 100%;
     z-index: 90;
@@ -83,11 +83,9 @@
     <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo2OUQxNjM5RERBQTgxMUUzOEFBN0FEQzhCNzc1MThGNCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo2OUQxNjM5RURBQTgxMUUzOEFBN0FEQzhCNzc1MThGNCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjY5RDE2MzlCREFBODExRTM4QUE3QURDOEI3NzUxOEY0IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjY5RDE2MzlDREFBODExRTM4QUE3QURDOEI3NzUxOEY0Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+pf2f4gAABtFJREFUeNq0Vw1MlWUUPnz3CviDgAoCgQpKIj8y8CIkJH/NAAdoi8As+VGohhWWjK1Vmytqqy0t3U3WBQ3DtCXqktRJMCJFFFEB+Q1REAUUBUT5k3t7zjdp9PEBt0bv9o7Ld893znnPeZ7nvNfgwIEDxGvmzJl0/fp1ysnJIZ1OR6tXr6a+vj5qbm6mWbNmUWdnJz158sTs4cOH/vfv33cxNTV11Gq1VgYGBorh4eHO/v7+hunTp9f39vYW2tratioUCvGdZcuWkaGhIcGebty4Qenp6WRkZEQDAwNiXCVNsGbMmCFuBAzGy7FtbW3rEMxkaGiIWlpaxthPmzaN8P0gDpA/e/bsH4yNjX/EFg/EW26Nm4CJiQm1tra6Xbx4Mf3WrVvhpMfixLAMYR+Gv2Hm5ubvWVtbf2hpaXmak5NLQpA+YCO8SFVVVUkHDx68om9wufXgwQPVyZMnT127du1LbjG3QprEPyqAforBGxoavkDgVJqCxQFRxe2opjNwtZb9Ay/ic44n8AeAiQRBIDMzMwZO+lQFH71u374dVlJS8mtXV5cYmLfYAjELBGewXbhwIa6iouID+p/WzZs3QxMSEnb39PSIGBNj8wdHR0dCn6wyMjIy5V6cN2/elTlz5lTrGwhlroJ9pdx3OODWc+fOvcB44EQE8JrAXcrNzdVIQWllZTUQExMTAYceNjY2LqtWrXqHqzXRCg0NTbSwsHAD6pdHRUXFclulC1rw/ZEjRxSlpaUkgLdUUFDgWlxcvFZq6OTklIn9C4sG897Ozm43aPXWeMF37NgR6+vrq2lsbKSFCxfSpk2bsr29vXOkdtAVm7q6utfc3d1JYOcAR7KcQ6hZHdNny5YtBEfU0dHBvduLyoyxT0lJiQ8ODs6GY1q6dClt2LCBlZOxVSHnOz8/f9vZs2dJCVQaV1ZWRo3D41e9vLy+USqV5OfnJ8r01atXuTVqlFiHqqhHgq9Zs2Y/nxzfUUREBN29e5ceP35M1dXVsXK+m5qa3LGXK9EH1b179+bKGZWXl3tHRkZm4tSbOQnWcGYL0xb0/XbBggXW4eHhQ0FBQfvv3LkjgortWPfZRqPR5GK+OE+gtoFKZKmaCFTd3d0J2MNoRxKLCGs7CwmeEUD5MQ8tVIqY31yB+fPnc+sIQ+4wgq+fyDcESiXgZT89mJWIk+/FtBNPxqzh/vK0HBwcFEsNpRNVlCu0b9++Q6D1K5M5RQttlfX19Zb6cBt0fQMUNMLASUHAbn7GDEL7xDHOigpuW2RlZe2tqal5SR+feNfIACX9AyX11Vdk0PNgJFLAJ+dyo4wiRZnveLYOI/vovxDH8wqo4MvIxFEfa9AxGULzM8Cnc3NzE9sBBtGjR49ETKD39bgHdOP/F/XxB9smAZwt08c4KSnpzcDAQDX0XNve3k4YWCIYWcohUDR3rkgkLRiwE1Tcpo9Pe3v7TgHKVjopAhMTkxE8g4OOjFG+prGecxKMBU6A/2eAYg7sgnS/P5lfSPYVVsLzQPfAeEZQtK3+/v5qVkEOzugfQf7x48eLAbg8Lv/TO6PIAqYkhOgrVGc703a8hYP8rti4cWMfMOANGj0rNYD8HsJASWOkY56LJ2UxwiChM2fOZOLCGomkHAFKcwjQKU6QqYqqEhSUQkJCSpDsSoB0DMZwTWtLTk5+WxzHKpVKLZchwFbEdzmegBgg4ik5CaheFvQjYZRYvQtN2MUqyNVYsmQJpaamUlpaGmHgFMj5XrFihQb2OsXixYt53v+JUkYDvRajjdDXYZTwEA8kXLWpsLCQy/4dSrxZ6hCt9AEGTIGN0y4uLqwblJ2dTWVlZZ+CmvaSIadFhdZjFvQroqOjCYAhBweHiqKiovjRhiixExyYe3h41CCAXV5e3h6c/PXxeopyPwdq2ru6utaiUmZqtfozBB8z6HDHSAsLC/uND0bHjh2jEydOEO4D3Lc9fI+UbgBrCFnr5L6T28AJb63cd0iuDOpLtbW1dPnyZRK4t8xr8JvH6lboQok0YyBeyb3Xd/EdA9tA+hwAbQeo1/LJ2R9jRng6Wv8Wlbi4uCBg4tJUX0gB5nawgyW/nYHKcZm2wsgVmZHO/AUQ++Pj41d6enoenqrgixYtKgOOVuKQjawhI1fyMb+MOAlWMu6fj49PDHQgEXrd8V8Ds2Yg8OcBAQFeOHHz059uE/825CS4HYwNaLwGLx5FUilQtng8e4ZLN9lCr3tB75+cnZ2/5ps4q6b05JP+OGVjrgbA1ImLxkcQq0+ghiGg5vNokyf66AAgmYIdCvSyBzYtEK5LAFY5hsxRjOcuPggrKINOLjivvwQYAMq8vtVN3TOlAAAAAElFTkSuQmCC"/>
   </a>
 
-  Best viewed on Internet Explorer 5.5... <i>(just kidding)</i><br><br>
-
   Please have my email: <strong><a href="mailto:mstefanow@gmail.com">mstefanow@gmail.com</a></strong> <br><br>
 
-  Very ocassionally I'm sending an update about what I&nbsp;know and what I've learnt: <br><br>
+  Keep in touch:<br><br>
 
   <!-- Begin MailChimp Signup Form -->
   <style type="text/css">
