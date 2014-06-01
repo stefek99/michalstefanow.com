@@ -162,11 +162,11 @@ small {
 	font-size: 0.7em;
 }
 
-a {
+#content a {
 	font-weight: bold;
 	color:#CCC;
 }
-a:hover  {
+#content a:hover  {
 	text-decoration:none;
 }
 

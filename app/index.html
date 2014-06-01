@@ -28,6 +28,7 @@
     z-index: 100;
     opacity: 1;
     -webkit-transition: opacity 1s ease-out;
+    transition: opacity 1s ease-out;
     border-radius: 20px;
 }
 
@@ -61,47 +62,15 @@
   text-decoration: none;
 }
 
-#INPUT_1 {
+.closetext {
+    width: 100%;
     display: block;
-    height: 40px;
-    min-width: 130px;
-    text-indent: 5px;
-    width: 331.9375px;
-    border: 1px solid rgb(153, 153, 153);
-}/*#INPUT_1*/
-
-#INPUT_2 {
-    clear: both;
-    color: rgb(255, 255, 255);
-    cursor: pointer;
-    display: block;
-    height: 32px;
-    min-width: 90px;
+    font-size:0.8em;
     text-align: center;
-    text-decoration: none solid rgb(255, 255, 255);
-    vertical-align: top;
-    white-space: nowrap;
-    width: 200.296875px;
-    align-items: flex-start;
-    background: rgb(170, 170, 170) none repeat scroll 0% 0% / auto padding-box border-box;
-    border: 0px none rgb(255, 255, 255);
-    border-radius: 4px 4px 4px 4px;
-    font: normal normal bold 15px/32px HelveticaNeue-Light, 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
-    margin-top: 10px;
-    outline: rgb(255, 255, 255) none 0px;
-    padding: 0px;
+    position: absolute;
+    bottom: 30px;
+
 }
-
-#INPUT_2:hover {
-  background: #777;
-}
-#INPUT_2:active {
-  margin-top: 11px;
-  margin-left: 1px;
-}
-
-
-
 
 </style>
 
@@ -110,16 +79,57 @@
 
 <div id="fade"></div>
 <div id="overlay">
-
   <a href="#" id="closebutton" onclick="document.getElementById('overlay').classList.add('hidden');document.getElementById('fade').classList.add('hidden');setTimeout(function() { document.getElementById('overlay').classList.add('properlyhidden');document.getElementById('fade').classList.add('properlyhidden') }, 1000);">
     <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo2OUQxNjM5RERBQTgxMUUzOEFBN0FEQzhCNzc1MThGNCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo2OUQxNjM5RURBQTgxMUUzOEFBN0FEQzhCNzc1MThGNCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjY5RDE2MzlCREFBODExRTM4QUE3QURDOEI3NzUxOEY0IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjY5RDE2MzlDREFBODExRTM4QUE3QURDOEI3NzUxOEY0Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+pf2f4gAABtFJREFUeNq0Vw1M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"/>
   </a>
 
+  Best viewed on Internet Explorer 5.5... <i>(just kidding)</i><br><br>
 
-  Th is is w here you will put yo ur in li ne HT ML for the co nt ent in si de of the ov er lay
+  Please have my email: <strong><a href="mailto:mstefanow@gmail.com">mstefanow@gmail.com</a></strong> <br><br>
 
-  <input type="email" id="INPUT_1" placeholder="email address" required="">
-  <input type="submit" value="I want to stay in touch." id="INPUT_2" class="button">
+  Very ocassionally I'm sending an update about what I&nbsp;know and what I've learnt: <br><br>
+
+  <!-- Begin MailChimp Signup Form -->
+  <style type="text/css">
+    #mc_embed_signup form {display:block; position:relative; text-align:left; padding:10px 0 10px 3%}
+    #mc_embed_signup h2 {font-weight:bold; padding:0; margin:15px 0; font-size:1.4em;}
+    #mc_embed_signup input {border:1px solid #999; -webkit-appearance:none;}
+    #mc_embed_signup input[type=checkbox]{-webkit-appearance:checkbox;}
+    #mc_embed_signup input[type=radio]{-webkit-appearance:radio;}
+    #mc_embed_signup input:focus {border-color:#333;}
+    #mc_embed_signup .button {clear:both; background-color: #aaa; border: 0 none; border-radius:4px; color: #FFFFFF; cursor: pointer; display: inline-block; font-size:15px; font-weight: bold; height: 32px; line-height: 32px; margin: 0 5px 10px 0; padding:0; text-align: center; text-decoration: none; vertical-align: top; white-space: nowrap; width: auto;}
+    #mc_embed_signup .button:hover {background-color:#777;}
+    #mc_embed_signup .small-meta {font-size: 11px;}
+    #mc_embed_signup .nowrap {white-space:nowrap;}     
+    #mc_embed_signup .clear {clear:none; display:inline;}
+
+    #mc_embed_signup label {display:block; font-size:16px; padding-bottom:10px; font-weight:bold;}
+    #mc_embed_signup input.email {display:block; padding:8px 0; margin:0 4% 10px 0; text-indent:5px; width:58%; min-width:130px;}
+    #mc_embed_signup input.button {display:block; width:58%; margin:0 0 10px 0; min-width:90px;}
+
+    #mc_embed_signup div#mce-responses {float:left; top:-1.4em; padding:0em .5em 0em .5em; overflow:hidden; width:90%;margin: 0 5%; clear: both;}
+    #mc_embed_signup div.response {margin:1em 0; padding:1em .5em .5em 0; font-weight:bold; float:left; top:-1.5em; z-index:1; width:80%;}
+    #mc_embed_signup #mce-error-response {display:none;}
+    #mc_embed_signup #mce-success-response {color:#529214; display:none;}
+    #mc_embed_signup label.error {display:block; float:none; width:auto; margin-left:1.05em; text-align:left; padding:.5em 0;}
+
+  	#mc_embed_signup {background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+  </style>
+  <div id="mc_embed_signup">
+  <form action="http://stefanow.us4.list-manage.com/subscribe/post?u=f7d4defd21860779ebd2e03af&amp;id=e6e9f2a096" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+  	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+      <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+      <div style="position: absolute; left: -5000px;"><input type="text" name="b_f7d4defd21860779ebd2e03af_e6e9f2a096" tabindex="-1" value=""></div>
+      <div class="clear"><input type="submit" value="Count me in" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+  </form>
+  </div>
+  <!--End mc_embed_signup-->
+
+    <span class="closetext">
+      <a href="#"  onclick="document.getElementById('overlay').classList.add('hidden');document.getElementById('fade').classList.add('hidden');setTimeout(function() { document.getElementById('overlay').classList.add('properlyhidden');document.getElementById('fade').classList.add('properlyhidden') }, 1000);">
+        close this window
+      </a>
+    </span>
 
 </div>
 
