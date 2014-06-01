@@ -19,17 +19,31 @@
 #overlay {
     display: block;
     position: fixed;
-    left: 25%;
     top: 25%;
-    padding: 25px;
+    
     background-color: #ffffff;
-    width: 50%;
-    height: 50%;
     z-index: 100;
     opacity: 1;
     -webkit-transition: opacity 1s ease-out;
     transition: opacity 1s ease-out;
     border-radius: 20px;
+}
+
+@media (min-width: 769px) {
+    #overlay {
+        width: 50%;
+        height: 30%;
+        left: 25%;
+        padding: 25px;
+    }
+}
+@media (max-width: 768px) {
+    #overlay {
+        width: 80%;
+        height: 50%;
+        padding: 5%;
+        margin: 5%;
+    }
 }
 
 #fade {
@@ -85,7 +99,7 @@
 
   Please have my email: <strong><a href="mailto:mstefanow@gmail.com">mstefanow@gmail.com</a></strong> <br><br>
 
-  Keep in touch:<br><br>
+  Let's keep in touch:<br>
 
   <!-- Begin MailChimp Signup Form -->
   <style type="text/css">
