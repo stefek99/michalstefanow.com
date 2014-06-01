@@ -6,7 +6,7 @@
     <title>Michal Stefanow - mstefanow@gmail.com</title>
     <meta name="description" content="Michal Stefanow - web developer, software engineer. MSc in computer science. Has lived in Krakow, London, Dublin. Been to Burning Man, Glastonbury, Boom, Ozora. Currently in Cambridge, UK.">
     <!-- <meta name="viewport" content="width=device-width"> -->
-    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, width=device-width">
 
     <link rel="apple-touch-icon" href="apple-touch-icon.png" />
     <link rel="icon" href="shortcut-icon.png">
@@ -20,8 +20,6 @@
 #overlay {
     display: block;
     position: fixed;
-    top: 25%;
-    
     background-color: #ffffff;
     z-index: 100;
     opacity: 1;
@@ -32,6 +30,7 @@
 
 @media (min-width: 769px) {
     #overlay {
+        top: 25%;
         width: 50%;
         height: 30%;
         left: 25%;
@@ -40,8 +39,9 @@
 }
 @media (max-width: 768px) {
     #overlay {
+        top: 5%;
         width: 80%;
-        height: 50%;
+        height: 70%;
         padding: 5%;
         margin: 5%;
     }
@@ -84,7 +84,6 @@
     text-align: center;
     position: absolute;
     bottom: 30px;
-
 }
 
 </style>
