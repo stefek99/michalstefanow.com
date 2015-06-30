@@ -24,6 +24,10 @@ body {
 	float:left;
 }
 
+#avatars {
+	margin: 25px auto 0 auto;
+}
+
 @media (min-width: 769px) {
 	html {
 		background: url(../images/background.jpg) no-repeat center center fixed;
@@ -36,7 +40,6 @@ body {
 	#avatars {
 		display: block;
 		width: 660px;
-		margin: 55px auto 0 auto;
 	}
 
 	#content, footer {
@@ -101,7 +104,7 @@ body {
 	float: left;
 }
 
-h2 {
+h1 {
 	margin-bottom: 10px;
 	font-size: 1.8em;
 }
