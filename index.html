@@ -35,17 +35,31 @@
       });
     </script>
 
-    <div id="content">
-
-
+    <div class="container">
+        <div id="cube-wrapper">
+          <div id="cube" class="show-front">
+            <figure class="front">1 <a href="http://onet.pl">onet.pl</a></figure>
+            <figure class="back">2</figure>
+            <figure class="right">3</figure>
+            <figure class="left">4</figure>
+            <figure class="top">5</figure>
+            <figure class="bottom">6</figure>
+          </div>
+        </div>
     </div> 
 
-        <script src="http://genesis.re/cmdctrl/cmdctrl.js"></script>
-        <script>
-            window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
-            ga('create','UA-74839421-2','auto');ga('send','pageview')
-        </script>
-        <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+
+    <script src="js/jquery.js"></script>
+    <script src="js/rotate.js"></script>
+
+    <script src="http://genesis.re/cmdctrl/cmdctrl.js"></script>
+    <script>
+        window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
+        ga('create','UA-74839421-2','auto');ga('send','pageview')
+    </script>
+    <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+
+    <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
 
 </body>
 </html>

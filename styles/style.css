@@ -46,237 +46,87 @@ table {
 
 
 
-
-
-
 html {
-	min-width: 320px;
+	background: url(../images/background.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 
-body {
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	line-height: 1.8em;
-	color: #333;
-
-
- 	display: flex;
-  align-items: center;
-  justify-content: center;
-  /*height: 100vh;*/
+html, body {
+  height: 100%;
 }
 
-#content{
-	color: white;
-	background:rgba(0, 0, 0, 0.8);
-	padding: 5%;
+.container {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  margin: 0 auto;
+  perspective: 1000px;
+
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
-.col3 {
-	text-align: center;
-	float:left;
+#cube-wrapper {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  transform-style: preserve-3d;
 }
 
-#avatars {
-	margin: 25px auto 0 auto;
+#cube {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  transform-style: preserve-3d;
+  transition: transform 10s linear;
 }
 
-@media (min-width: 769px) {
-	html {
-		background: url(../images/background.jpg) no-repeat center center fixed;
-		-webkit-background-size: cover;
-		-moz-background-size: cover;
-		-o-background-size: cover;
-		background-size: cover;
-	}
-
-	#avatars {
-		display: block;
-		width: 660px;
-	}
-
-	#content, footer {
-		width:760px;
-	}
-	.span3 {
-		width: 360px;
-	}
-	.span3:first-of-type {
-		padding-right: 40px;
-	}
-
-	.col3 {
-	width: 213px;
-	margin-right: 10px
-	}
-	.col3 img {
-		width: 200px;
-	}
-
-	.col3:nth-of-type(3n) {
-		margin-right: 0px;
-	}
+#cube figure {
+  display: block;
+  position: absolute;
+  width: 190px;
+  height: 190px;
+  border: 5px solid black;
+  line-height: 190px;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  margin: 0;
+  backface-visibility: hidden;
+  -webkit-user-select: none; // OTHER PREFIXES? CAN I USE...
 }
 
-@media (max-width: 768px) {
-	html {
-		background: black;
-	}
-	#avatars {
-		width: 100%;
-	}
-
-	#content {
-		width: 90%;
-	}
-	#refer{
-		width: 100%;
-	}
-	.span3 {
-		width: 100%;
-	}
-
-	.col3 {
-		width: 50%;
-	}
-	.col3 img {
-		max-width: 90%;
-	}
+#cube.panels-backface-invisible figure {
+  backface-visibility: hidden;
 }
 
+#cube .front  { background: hsla(   0, 100%, 50%, 0.7 ); }
+#cube .back   { background: hsla(  60, 100%, 50%, 0.7 ); }
+#cube .right  { background: hsla( 120, 100%, 50%, 0.7 ); }
+#cube .left   { background: hsla( 180, 100%, 50%, 0.7 ); }
+#cube .top    { background: hsla( 240, 100%, 50%, 0.7 ); }
+#cube .bottom { background: hsla( 300, 100%, 50%, 0.7 ); }
 
-#avatars p {
-	text-align: center;
-	font-weight: bold;
-	font-size: 1.2em;
-	margin-top: -10px;
-	margin-bottom: 10px;
+#cube .front  {
+          transform: translateZ( 100px );
 }
-
-.span3 {
-	float: left;
+#cube .back   {
+          transform: rotateX( -180deg ) translateZ( 100px );
 }
-
-h1 {
-	margin-bottom: 15px;
-	font-size: 1.8em;
+#cube .right {
+          transform: rotateY(   90deg ) translateZ( 100px );
 }
-h2 {
-	margin-bottom: 20px;
-	font-size: 1.5em;
+#cube .left {
+          transform: rotateY(  -90deg ) translateZ( 100px );
 }
-
-footer {
-	margin: 0 auto;
-	margin-top: 10px;
-	text-align: center;
-	font-size: 0.9em;
-	line-height: 1.4em;
+#cube .top {
+          transform: rotateX(   90deg ) translateZ( 100px );
 }
-
-footer img {
-	height: 50px;
-	margin-right: 7px;
-}
-
-footer img.icon {
-	height: 16px;
-}
-footer .links {
-	margin: 0 auto;
-	display: inline-block;
-}
-
-small {
-	font-size: 0.7em;
-}
-
-#content a {
-	font-weight: bold;
-	color:#CCC;
-}
-#content a:hover  {
-	text-decoration:none;
-}
-
-.cleaner { clear: both; width: 100%; height: 5px; font-size: 0px;  }
-
-
-ul.ulmedia li {
-	margin-bottom: 35px;
-}
-
-ul.ulmedia li:last-of-type {
-	margin-bottom: 0px;
-}
-
-li {
-	margin-left: 20px;
-}
-
-.a {
-height: 50px;
-background: url(../images/hacker.png);
-display: block;
-float: left;
-margin-right: 7px;
-}
-
-#a1 {
-width: 123px;
-}
-#a2 {
-width: 168px;
-background-position: -123px 0;
-}
-#a3 {
-width: 129px;
-background-position: -291px 0;
-}
-#a4 {
-width: 138px;
-background-position: -420px 0;
-}
-
-#bcf_logo {
-	visibility: hidden !important;
-}
-
-
-
-.important {
-    font-size: 1.2em;
-    text-decoration: none;
-    padding-bottom: 2px;
-    border-bottom: 5px solid #CCC;
-}
-p {
-    margin-bottom: 15px;
-}
-i.small { font-size: 0.65em; }
-
-blockquote {
-	  font-style: italic;
-    margin-left: 20px;
-    line-height: 1.8em;
-    margin-bottom: 20px;
-    font-size: 1.4em;
-    font-weight: bold;
-}
-
-
-/* http://coolestguidesontheplanet.com/videodrome/youtube/ */
-.video-container {
-	position:relative;
-	padding-bottom:56.25%;
-	padding-top:30px;
-	height:0;
-	overflow:hidden;
-}
-
-.video-container iframe, .video-container object, .video-container embed {
-	position:absolute;
-	top:0;
-	left:0;
-	width:100%;
-	height:100%;
+#cube .bottom {
+          transform: rotateX(  -90deg ) translateZ( 100px );
 }
