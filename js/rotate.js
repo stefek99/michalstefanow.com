@@ -36,7 +36,7 @@ $(function() {
     .on("mouseup touchend", function(e) {
       cubeWrapperTransforms.push(latestCubeWrapperTransform);
       dragging = false;
-      _startRotation();
+      // _startRotation();
       // return false;
     })
     .on("mousemove touchmove", function(e) {
@@ -57,6 +57,6 @@ $(function() {
       return false;
     });
 
-  _startRotation();
+  //_startRotation();
 
 })

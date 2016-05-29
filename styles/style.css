@@ -88,10 +88,9 @@ html, body {
 #cube figure {
   display: block;
   position: absolute;
-  width: 190px;
-  height: 190px;
-  border: 5px solid black;
-  line-height: 190px;
+  width: 194px;
+  height: 194px;
+  border: 3px solid black;
   font-size: 20px;
   font-weight: bold;
   color: white;
@@ -105,12 +104,12 @@ html, body {
   backface-visibility: hidden;
 }
 
-#cube .front  { background: hsla(   0, 100%, 50%, 0.7 ); }
-#cube .back   { background: hsla(  60, 100%, 50%, 0.7 ); }
-#cube .right  { background: hsla( 120, 100%, 50%, 0.7 ); }
-#cube .left   { background: hsla( 180, 100%, 50%, 0.7 ); }
-#cube .top    { background: hsla( 240, 100%, 50%, 0.7 ); }
-#cube .bottom { background: hsla( 300, 100%, 50%, 0.7 ); }
+#cube .front  { background: rgba( 80,80,80, 0.9 ); }
+#cube .back   { background: rgba( 80,80,80, 0.9 ); }
+#cube .right  { background: rgba( 80,80,80, 0.9 ); }
+#cube .left   { background: rgba( 80,80,80, 0.9 ); }
+#cube .top    { background: rgba( 80,80,80, 0.9 ); }
+#cube .bottom { background: rgba( 80,80,80, 0.9 ); }
 
 #cube .front  {
           transform: translateZ( 100px );
