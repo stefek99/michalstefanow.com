@@ -9,7 +9,7 @@ $(function() {
       var newCSS = "rotateX(" + newX + "deg) rotateY(" + newY + "deg) rotateZ(" + newZ + "deg)";
       $("#cube").css({"transform": newCSS});
     };
-    rotateInterval = setInterval(_rotate, 10000);
+    rotateInterval = setInterval(_rotate, 9000); // interval is less than transition time... (in that way it appears smoother)
     _rotate(); 
   }
 
@@ -28,7 +28,7 @@ $(function() {
 
   $("html")
     .on("mousedown touchstart", function(e) {
-      initial = (e.type === "touchstart" ? e.originalEvent.touches[0] : e.page);
+      initial = (e.type === "touchstart" ? e.originalEvent.touches[0] : e);
       dragging = true;
       _pauseRotation();
       // return false; --> we want to allow particles interaction
@@ -57,6 +57,6 @@ $(function() {
       return false;
     });
 
-  //_startRotation();
+  // _startRotation();
 
 })

@@ -7,60 +7,60 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed,
-figure, figcaption, footer, header, hgroup,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  vertical-align: baseline; }
-
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+}
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure,
+article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
-  display: block; }
-
+	display: block;
+}
 body {
-  line-height: 1; }
-
+	line-height: 1;
+}
 blockquote, q {
-  quotes: none; }
-
+	quotes: none;
+}
 blockquote:before, blockquote:after,
 q:before, q:after {
-  content: '';
-  content: none; }
-
+	content: '';
+	content: none;
+}
 table {
-  border-collapse: collapse;
-  border-spacing: 0; }
+	border-collapse: collapse;
+	border-spacing: 0;
+}
 
-* {
-  box-sizing: border-box; }
 
-h3 {
-  font-size: 1.3em;
-  margin-bottom: 15px; }
-
-p {
-  margin-bottom: 15px; }
+* { box-sizing: border-box }
+h3 { font-size: 1.3em; margin-bottom: 15px }
+p { margin-bottom: 15px }
 
 html {
-  background: url(../images/background.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  font-family: sans-serif; }
+	background: url(../images/background.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+  font-family: sans-serif;
+}
 
 html, body {
-  height: 100%; }
+  height: 100%;
+}
+
 
 .video-container {
   width: 137px;
-  float: left; }
+  float: left;
+}
 
 /* http://coolestguidesontheplanet.com/videodrome/youtube/ 
 .video-container {
@@ -79,6 +79,8 @@ html, body {
   height:100%;
 }
 */
+
+
 /*
 .avatars {
   position: absolute;
@@ -95,6 +97,8 @@ html, body {
   width: 73.5px;
 }
 */
+
+
 footer {
   position: absolute;
   bottom: 0;
@@ -103,9 +107,21 @@ footer {
   text-align: center;
   color: white;
   padding: 5px;
-  /*border: 3px solid white;*/ }
-  footer .avatars img {
-    width: 73.5px; }
+    /*border: 3px solid white;*/
+
+  .avatars {
+    img {
+      width: 73.5px;
+    }
+  }
+
+}
+
+
+
+
+
+
 
 .container {
   width: 300px;
@@ -113,22 +129,26 @@ footer {
   position: relative;
   margin: 0 auto;
   perspective: 1000px;
+
   position: relative;
   top: 50%;
-  transform: translateY(-50%); }
+  transform: translateY(-50%);
+}
 
 #cube-wrapper {
   width: 100%;
   height: 100%;
   position: absolute;
-  transform-style: preserve-3d; }
+  transform-style: preserve-3d;
+}
 
 #cube {
   width: 100%;
   height: 100%;
   position: absolute;
   transform-style: preserve-3d;
-  transition: transform 10s linear; }
+  transition: transform 10s linear;
+}
 
 #cube figure {
   display: block;
@@ -142,41 +162,33 @@ footer {
   color: white;
   margin: 0;
   backface-visibility: visible;
-  -webkit-user-select: none;
-  user-select: none; }
+  -webkit-user-select: none; // http://caniuse.com/#feat=user-select-none
+  user-select: none;
+}
 
-#cube .front {
-  background: rgba(80, 80, 80, 0.9); }
 
-#cube .back {
-  background: rgba(80, 80, 80, 0.9); }
+#cube .front  { background: rgba( 80,80,80, 0.9 ); }
+#cube .back   { background: rgba( 80,80,80, 0.9 ); }
+#cube .right  { background: rgba( 80,80,80, 0.9 ); }
+#cube .left   { background: rgba( 80,80,80, 0.9 ); }
+#cube .top    { background: rgba( 80,80,80, 0.9 ); }
+#cube .bottom { background: rgba( 80,80,80, 0.9 ); }
 
+#cube .front  {
+          transform:                    translateZ( 150px );
+}
+#cube .back   {
+          transform: rotateX( -180deg ) rotateZ(180deg) translateZ( 150px );
+}
 #cube .right {
-  background: rgba(80, 80, 80, 0.9); }
-
+          transform: rotateY(   90deg ) translateZ( 150px );
+}
 #cube .left {
-  background: rgba(80, 80, 80, 0.9); }
-
+          transform: rotateY(  -90deg ) translateZ( 150px );
+}
 #cube .top {
-  background: rgba(80, 80, 80, 0.9); }
-
+          transform: rotateX(   90deg ) translateZ( 150px );
+}
 #cube .bottom {
-  background: rgba(80, 80, 80, 0.9); }
-
-#cube .front {
-  transform: translateZ(150px); }
-
-#cube .back {
-  transform: rotateX(-180deg) rotateZ(180deg) translateZ(150px); }
-
-#cube .right {
-  transform: rotateY(90deg) translateZ(150px); }
-
-#cube .left {
-  transform: rotateY(-90deg) translateZ(150px); }
-
-#cube .top {
-  transform: rotateX(90deg) translateZ(150px); }
-
-#cube .bottom {
-  transform: rotateX(-90deg) translateZ(150px); }
+          transform: rotateX(  -90deg ) translateZ( 150px );
+}
