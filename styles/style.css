@@ -59,6 +59,9 @@ blockquote {
   padding: 15px;
   border: 2px solid white; }
 
+strong {
+  font-size: 1.1em; }
+
 html {
   background: url(../images/background.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
@@ -74,11 +77,22 @@ html, body {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGwAAAAYCAMAAAAoC+goAAACdlBMVEW11O1Hk9JGk9I7jM86i88fgOUgf+Aif9oif9wkftUlftInfMkzleczleg0leU1lOA5neg5neo6nec7fclBp+pDf9pDgNxGfclHkslHsOxKnNpPp+BQkslSrOVTsOpWgNxWxvFXf9JXgNpYfslYptpaq9xdgNpeleBffspfxvNgxvFjnNJkgNplfsplqOpmk8pmp+BmxvJnnupnptVnp9ppq9ppy/Jpy/RrqORsk8ptnupvq9Vwv+xzf8p1y/J1y/R4x+96v+d6y/B7v+SBgMqGlcqIzPSM0/SNlcqN1/WPncqQzPSTsNuVncuX0/Kalsua3PibzfObzfScncufqMufw+Gf3Pigx+Wg3PWhlsui4/qjnsukqtylqMulqdemrMunsdSouOaoueGo4/io5Pqpvuup5/qtrcut5Puu0fOv5/u06Pu2uNS22Ou33fW44Pa55Pm66Pu8udS86Pu87Pu+wdfAyNzAzuzB0ezB6PjC0eLC7fvC7f3F4fbI0eLI0ebJ8fvK9P3M5ffN6ffQ7v3Q9PvQ9f3R3ezR3u/R3vTS4vTS4vbT6frUzuPVzdjV0d3V0d/V0ufV7vzW1ePX9fzX+P7Z5vbc0t/c1u3d1d/e3ufe3ure+f7f4urf4u3f/f7g5vLi7vHi8vzk+f7l/v7m5u3q+f7s3uPs/v7t5uru6vLv8vfv8vvw9vjx+v3x+v7y/v705un05ur06uv06u306u/16ur17u317/L17/X28/r39vX39vf39vj39vr4+vj4///76/H87+798/H99vP99vX+9vL++vX++vf++vj++vr++v3//vf///j///r///v///3///+MEcDFAAAABXRSTlNQz9Hf4YmwYxMAAAJ8SURBVHja7ZTnUxNBGMaPokdYG0bFrhDE2LvYEAs27L2BDUsM9t6xdyVET0XOrqioECWKStS1JsEE9vmP3NsQSnDki3PjOLyzH252n3t+O29ZSQojOkWEJEUQ3SJMIjpGI+y/hCV0JiR6mPEvwsbcM9U761qAyt2Go2CbyJzKqUHZWNi0LyvLaNB81i1i4bJQWCvqiQ2VNn3IrlFff3pDfdnE8bhaloLLwuhZWkOsJJTwO82uB7MA3+P3A2Vp8qmfRXBN4nvD8Xrg5hltaK7yalFFcrVsHt5T5JMln2aOKwYeaenNLL+PD4fBrhBZeLQu+FiMt4kK8NSK52B76sKmAbd3wnURnkQV7+z4yvdSwCM/SgH2OvJI+6BsMth5yuZbWbrK9tnZDi2lcNnBLlCf2So8BlPcfYBLB8GOWOE9DrepDqw5dbdT/clkF0tX/P2iVI9Zg30boVakRk8csMy/EbgZkPE05pH1LMPKVpwGe5EdqN/S7jxliqdbwGMdLSW9YBuEN/xog0HhbrVhMdTdVvWbSZYGM8tVsFKylq3UKpV77PN2n4nLBCxH6w6+upwoAnIEbHkSnAbVEy88OMzJ/7aloERTyorHFAJjZ0+icAv8fRUUbsUPXopmjspzjopUQrL8cYrT4jML2ZnpsAVgqx3eNdtgqw2LOyQ8RgVh3gO/g/EG9/W8CpSvkhVQlC/QNidQUdsOuE4yAWeVbG4Axnt6CgXKRgZgvVFi4KYthUeMgOW0eIIvlhBYzeh2HEKIrLhjE4xVVxCj3Gkxn4rxC41BWU1ED+1DQkJ41Jwb//yCyHd8Zv2eqx6jG1/9fxwWqR8rXJLC9WJFSr8AYCmQTYaJdysAAAAASUVORK5CYII=);
   display: inline-block;
   width: 108px;
-  height: 24px; }
+  height: 24px;
+  position: relative;
+  top: 6px; }
 
 .video-container {
   width: 137px;
   float: left; }
+
+#cube figure.top {
+  padding: 5px 0 0 0; }
+
+.domain {
+  word-break: break-all;
+  padding: 3px;
+  line-height: 29px;
+  background: rgba(200, 200, 200, 0.3); }
 
 /* http://coolestguidesontheplanet.com/videodrome/youtube/ 
 .video-container {
@@ -156,7 +170,7 @@ footer {
   border: 3px solid black;
   padding: 10px;
   font-size: 1em;
-  line-height: 1.1em;
+  line-height: 1.2em;
   color: white;
   margin: 0;
   backface-visibility: visible;

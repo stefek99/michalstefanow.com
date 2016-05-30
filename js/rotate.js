@@ -74,7 +74,8 @@ var playerInfoList = [
                       {id:'player1',height:'79',width:'140',videoId:'8MtvTd93e6U'},
                       {id:'player2',height:'79',width:'140',videoId:'bGp6LOBObiY'},
                       {id:'player3',height:'79',width:'140',videoId:'SDAXBUfCxKo'},
-                      {id:'player4',height:'79',width:'140',videoId:'ycBRWeFhnjs'}
+                      {id:'player4',height:'79',width:'140',videoId:'ycBRWeFhnjs'},
+                      {id:'player-rainbow',height:'155',width:'274',videoId:'_GK95SHotGQ'},
                      ];
 
 window.onYouTubeIframeAPIReady = function() {

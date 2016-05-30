@@ -45,6 +45,7 @@ p { margin-bottom: 15px }
 a { color: yellow; text-decoration: none; transition: all 0.5s;}
 a:hover { color: white; }
 blockquote { padding: 15px; border: 2px solid white;}
+strong { font-size:1.1em;}
 
 
 html {
@@ -65,11 +66,23 @@ html, body {
   display: inline-block;
   width: 108px;
   height: 24px;
+  position: relative;
+  top: 6px;
 }
 
 .video-container {
   width: 137px;
   float: left;
+}
+
+#cube figure.top {
+  padding: 5px 0 0 0;
+}
+.domain {
+  word-break: break-all;
+  padding: 3px;
+  line-height: 29px;
+  background: rgba(200, 200, 200, 0.3);
 }
 
 /* http://coolestguidesontheplanet.com/videodrome/youtube/ 
@@ -168,7 +181,7 @@ footer {
   border: 3px solid black;
   padding: 10px;
   font-size: 1em;
-  line-height: 1.1em;
+  line-height: 1.2em;
   color: white;
   margin: 0;
   backface-visibility: visible;
