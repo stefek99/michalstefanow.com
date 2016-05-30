@@ -55,7 +55,7 @@ $("html")
     return false;
   });
 
-// _startRotation();
+_startRotation();
 
 
 $(function() {
