@@ -7,7 +7,7 @@ var _startRotation = function() {
     var newCSS = "rotateX(" + newX + "deg) rotateY(" + newY + "deg) rotateZ(" + newZ + "deg)";
     $("#cube").css({"transform": newCSS});
   };
-  rotateInterval = setInterval(_rotate, 9000); // interval is less than transition time... (in that way it appears smoother)
+  rotateInterval = setInterval(_rotate, 19000); // interval is less than transition time... (in that way it appears smoother)
   _rotate(); 
 }
 
@@ -22,20 +22,23 @@ var cubeWrapperTransforms = [];
 var latestCubeWrapperTransform;
 
 var dragging = false;
-var initial;
+var initial = {};
 
 $("html")
   .on("mousedown touchstart", function(e) {
-    initial = (e.type === "touchstart" ? e.originalEvent.touches[0] : e);
+
+    var ev = (e.type === "touchstart" ? e.originalEvent.touches[0] : e);
+    initial.pageX = ev.pageX;
+    initial.pageY = ev.pageY; // I think event get updated so I'm just copying required values
+
     dragging = true;
     _pauseRotation();
-    // return false; --> we want to allow particles interaction
-  })        
+  })
   .on("mouseup touchend", function(e) {
     cubeWrapperTransforms.push(latestCubeWrapperTransform);
     dragging = false;
-    // _startRotation();
-    // return false;
+    initial = {};
+    _startRotation();
   })
   .on("mousemove touchmove", function(e) {
     if(dragging) {
@@ -64,7 +67,7 @@ $(function() {
 
 var _initYoutube = function() {
   var tag = document.createElement('script');
-    tag.src = "//www.youtube.com/iframe_api";
+    tag.src = "https://www.youtube.com/iframe_api";
     var firstScriptTag = document.getElementsByTagName('script')[0];
     firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 };
@@ -89,6 +92,13 @@ window.createPlayer = function(playerInfo) {
     return new YT.Player(playerInfo.id, {
        height: playerInfo.height,
        width: playerInfo.width,
-       videoId: playerInfo.videoId
+       videoId: playerInfo.videoId,
+       events: {
+        'onReady': onPlayerReady
+       }
     });
+}
+
+window.onPlayerReady = function(event) {
+  console.log("youtube says play")
 }
