@@ -18,7 +18,7 @@
     <img src="images/metatron.png" style="display:none">
 
     <div id="particles-js"></div>
-    <script src="js/particles.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
     <style>
         #particles-js {
           position: fixed;
@@ -28,14 +28,11 @@
           left: 0;
         }
         #content {
-            z-index: 1;
+          z-index: 1;
         }
     </style>
     <script type="text/javascript">
-      /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
-      particlesJS.load('particles-js', 'js/particlesjs-config.json', function() {
-        console.log('callback - particles.js config loaded');
-      });
+      particlesJS.load('particles-js', 'js/particlesjs-config.json');
     </script>
 
     <div class="container">
@@ -141,18 +138,16 @@
       </p>
     </footer>
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 
-    <script src="js/jquery.js"></script>
     <script src="js/rotate.js"></script>
 
-    <script src="http://genesis.re/cmdctrl/cmdctrl.js" async defer></script>
+    <script src="https://genesis.re/cmdctrl/cmdctrl.js" async defer></script>
     <script>
         window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
         ga('create','UA-74839421-2','auto');ga('send','pageview')
     </script>
     <script src="https://www.google-analytics.com/analytics.js" async defer></script>
-
-
 
 </body>
 </html>
