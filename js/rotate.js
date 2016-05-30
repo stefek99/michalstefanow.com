@@ -59,4 +59,36 @@ $(function() {
 
   // _startRotation();
 
+  _initYoutube(); // not loading YouTube initially to optimise loading of other stuff
+
 })
+
+var _initYoutube = function() {
+  var tag = document.createElement('script');
+    tag.src = "//www.youtube.com/iframe_api";
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+};
+
+var playerInfoList = [
+                      {id:'player1',height:'79',width:'140',videoId:'8MtvTd93e6U'},
+                      {id:'player2',height:'79',width:'140',videoId:'bGp6LOBObiY'},
+                      {id:'player3',height:'79',width:'140',videoId:'SDAXBUfCxKo'},
+                      {id:'player4',height:'79',width:'140',videoId:'ycBRWeFhnjs'}
+                     ];
+
+window.onYouTubeIframeAPIReady = function() {
+  if(typeof playerInfoList === 'undefined')
+     return; 
+
+  for(var i = 0; i < playerInfoList.length;i++) {
+    var curplayer = createPlayer(playerInfoList[i]);
+  }   
+}
+window.createPlayer = function(playerInfo) {
+    return new YT.Player(playerInfo.id, {
+       height: playerInfo.height,
+       width: playerInfo.width,
+       videoId: playerInfo.videoId
+    });
+}
