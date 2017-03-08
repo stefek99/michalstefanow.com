@@ -1,0 +1,402 @@
+﻿How to learn coding and find a job in IT?
+
+Mindset about learning. Mental toughness. Attitude...
+
+Your way will differ from my way - technolohy has moved forward and now we have completely new set of tools and learning platforms. I'll encouage you to do a lot of deliberate practice and stick to it.
+
+
+There are plenty of resources available - some of them are free but in reality you should find some quality one.
+
+
+
+
+
+
+
+In the past couple of years there is market demand for IT workers. Government announces the need for STEM (science, technology, engineering, mathematics) grafuades and top companies are competing for scarce talent.
+
+Back in 2005, when I was choosing my university the situation wasn't much different. I invested 5 years of my life into a Computer Science degree and from the time perspective I have no idea if that was the right choice. Actually it's been more than 5 years, due to fallacy of sunken cost. Once you have a degree it's typical to start working in field of study to recoup the investment. Fast forward a few years, a few promotions, a few new jobs - now I'm "six figure" salary has never been more difficult.
+
+I try to rationalise - it's a good job - it provides for education and experiences and I'll keep it as long as it serves me. 
+
+Making resonable of money in job changes my perception about time and money.
+
+First disclaimer about "a lot" - my father, university lecturer with PhD title was earning $10 (ten US dollars) per month. There were no passports, noone could leave the country (only those brave refugees who were claiming political asylum in other places).  I was born in 1986, the communism fell in 1989 (many consider Berlin Wall as a symbol). I don't remember the communism, food rationing and empty shelves in the shops... Some people made a lot of money during the transformation, it was a stormy time with a lot "party", special forces and hyperinflation.
+
+(I was a kid, don't ask me about details)
+
+1) Going to festivals, hitchhiking, working in a kitchen (carrying water)
+
+2) Trouble in a relationship, hoping that money will fix it
+
+Nope, money is only a multiplier. We traded one set of problems to another... I admit many mistakes and if you meet my wife tell them I'm sorry.  This book is about coding and finding job as a programmer but I share some "pearls of wisdom" when comes to relationships as well.
+
+
+
+********************************
+
+I was searching for job many times. Yes, I was fired a number of times... It's never a pleasurable experience but it happens. It was the initial period of the job and I had some difficulties in a relationship... Oh no - do I sounds as if I was justifying myself? So be it, I'm accepting responsibility and take everything as a learning experience. If you allow me - I'm here to help people who are decade younger. I've spend my fair share of "chair hours" writing code, being a parent, working on a countless side projects. I still don't own the ultimate recipe - it's unique for each individual circumstances - but I have a vast body of knowledge. Be critical, use your thinking, I do not have a degree in writing - and I do not want to posses a degree (see the part about university) - all I have a deep core belief that I can add some value. If I dedicate 500 hours towards creating and promoting this thing and someone becomes a successful programmer - that's 8 hours per day multiplied by weeks, months and years. I'll have the impression that I did something right and world has become a better place.
+
+Another motivation is selfish - don't get me wrong - I'm the egoist. Furthermore - I believe morther Terese was selfish and she was doing all her work for the joy of helping. Same applies to me, give money to homeless is a selfish act:
+* it makes me happy
+* they have more money, so they can help others (including me)
+* they are less likely to commit a crime
+
+(not accusing or anything but being desperate sometimes require desperate measures - to steal a wallet might seem like an immediatete relief of financial needs but causes a lot of distress - to apply for new ID and payment cards is a serious hassle and cost much more in terms of wasted time - that is why I have a principle to always give money)
+
+YES - helping homeless (or any other cause) is a selfish act. Another "concept" is paradox of choice - <<< WATCH THE TED TALK >>> - in essence - if there are 2 flavours of icecream we are much more likely to be happy with the choice.
+
+Yet another, slightly related - mental fatigue - when we wake up we have mental power to do 100 decisions - choosing your breakfast is a decision and then during a day you may not have enough power to be sharp when it really matters. That's why Steve jobs - always the same black turtle neck, Barrack Obama - same suit, Mark Zuckerberg - same T-shirt. I'm having same eggs and beans in my work canteene. I'd love to go vegan but I don't have enough support network and the canteene does not provide enough options.
+
+(I have some tips about protein intake when going vegan - sufficient protein intake - Engevita, Chlorella, Hemp Seeds - but that is a subject for another book - not right now, not in this climate)
+
+
+
+
+********************************
+
+The million dollar question I would like to ask - are you going to learn programming to get a job in the field?
+
+My advice would be to reframe your mindset - learn programming to be super efficient when performing your existing tasks.
+
+IFTTT
+Zapier
+Google Docs
+Excel
+Extracting data from websites
+Marketing automation
+
+
+
+
+********************************
+
+Something with immediate rewards.
+
+It worked for me.
+Working on the web is visually pleasing experience.
+I save the file - autoreload - next second I see updated version on the screen.
+When I was working with terminal - that black screen and blobs of text - it was more difficult to establish whether the work I do is working or not.
+I highly encourage you to have some visual result of your work. 
+
+Programming can often be frustrating and to persevere you need to have many wins during the day.
+
+
+
+Currently I work in a job - highly regulated environemnt - so many different system and process isn't fully automated. Even the simplest change such as changing text here or there is 15 minutes. Of course I'm able to find the place in code that needs in no time. But... So 
+
+
+Tracking progress.
+Source control repository.
+Build + deployment.
+Veryfying that fix has been applied.
+
+15 minutes is the bare minumum, physicla limit of our systems.
+That was the super-simple example, usually changes are much involved and require testing in a series of browsers.
+On my best day I was able to close 4 different issues.
+
+Small win every time - allow yourself a boost of happiness - your work is progressing.
+
+
+
+
+
+
+
+********************************
+1. Don't go to University
+
+It takes too long. '
+
+Or if you really have to:
+* Take a gap year first
+* Be sure the field of study
+* Don't pay for it: scholarhips, or a different country
+
+
+I made several mistakes in my approach to university. Probably the biggest one was sense of entitlement - because I graduated from the top high school and was attending top degree I thought I'll get new jobs easily.
+
+> Hard work beats talent, when talent doesn't work.
+
+University could be good in terms of making friends, expanding your network but... I bet you can make friends anyway. I highly encourage you to watch a few video about "daygame" (approaching people of opposite gender) and you'll have social anxiety. One Jedi trick to make it work - be certain (absolutely convinced) about your self-worth and think in terms "I'm the best thing that could happen to that person".
+
+
+
+
+Social skills, positive attitude, equally important at work.
+
+I can tell you that some of the best programmers I know have mild spectrum of autism - asperberg syndrome. What it emans in plain english - deep interest in particilar subject, being very detailed, etc... These qualities are super useful when programming so no wonder why they are so good! There is an element of social awkwardness but they cope very well.
+
+
+
+
+
+********************************
+
+Get a job
+
+The best what could happen - to learn on the job.
+In reality - there will be always some entry exam / recruitment test.
+So you need to know some basics.
+It should be clear, it should be obvious - as an employer I would rather hire someone who has already some skills. No such thing as free launch... I was a bad employee - I always saw 'what's in it for me' - I should think more about the value I provide to the company.
+
+
+
+
+
+********************************
+2. Set your mind on a (realistic) project
+
+
+The best project is one that is slighly beyond your current level of ability - outside of your comfort zone - but not impossible. 
+
+
+It doesn't have to be realistic at first - soon you'll get a lot of feedback forcing you to re-asses, soon you'll realise that some of the features are not feasible.
+
+
+I really like programming test for ThoughtWorkds (very well known consultancy) - create your online portfolio. It's broad, it's generic, everyone needs it. It's a good way of testing candidate abilities in a multiple ways.
+
+1) Are they creative
+2) Are they able to work without supervision
+3) Ability to learn about the accomplishments
+
+I didn't pass this test but the experience itself was very positive.
+
+
+
+
+********************************
+
+3. Choose the line of work that suits you
+
+I will tell you my way of thinking - I wanted to do things independently. 
+
+
+
+
+********************************
+3.5 See what programming languages
+
+I know JavaScript very well.
+
+I know Python is very good for learning and is widely supported.
+
+The dealbreaker about JavaScript - it is used on the web and it is super easy to get started. You already have the device capable of running JavaScript out of the box - no need to install anything - if you are able to read this book, you alread have a web browser.
+
+
+********************************
+
+Bit about web developement
+
+
+Every single piece of software comes with 30 days trial. Try a few and make your own opinion - see what works for you best. Good editor or IDE (integrated development environment) will save you thousands of hours in the long run.
+
+
+
+<<< XKCD configure >>>
+
+Personally I don't like spending time configuring stuff. It should work out of the box, without fiddling in the settings. Very often I'm disappointed when some tool / framework / library doesn not have a working demo. It happens way too often and quite literally - I'm frustrated, I'm tired, by the time I solve the mystery I don't have much energy to use the actual product.
+
+If it happens to you - don't worry - I've been in a similar position infinite number of times. Trying out new thing and banging head against the wall. With experience you'll learn how to troubleshoot typical problems and how to ask better questions.
+
+StackOverflow
+Create your profile now.
+You know this website anyway.
+Any Google search for a certain coding error gets you there.
+Even Google itself in their documentation is linking to StackOverflow when asking for support.
+It's effectiely a "go to" place for progoramming community.
+So get your profile set up, full stop.
+
+Some amazing thing about Stack Overflow:
+
+1) As you start typing your question you'll be presented with some suggestions - to related topics.
+
+Always mention what you have tried already what was the output.
+
+Don't post "here is my code, doesn't work" - other people on the site are programmers too. 
+
+<<<< SECREt >>>>
+Actually in one of my previous jobs - I was bored at work - 1 hour each day solving other peoplre 
+
+2) Precise language
+
+3) Isolated case
+
+
+Rubber duck progremming.
+
+
+********************************
+
+Become independent
+
+Successful companies have teams and various methods of managing complexity. I challenge you to become independent - of course at some point you'll be dependent on your customers but the point still stands - to be able to deliver something from start to finish. It doesn't have to be next Mona Lisa, something "good enough" is good enough. To be independent and be able to do stuff without communication overhead, waiting for other people, not to mention hiring other people - massive plus.
+
+I suggest you have a look at Firebase. I started using them back in 2013 while they were still in private beta - they were sponsoring a hackathon (weekend event dedicated where designers and developers build stuff). In 2016 they were acquired by Google which means "we are here to stay" and if you learn these skills it's a huge
+
+<<< Facebook Break Fast and Stable Infra>>>
+
+
+Knowing a little bit of everyting (full stack) will give you a competetive edge.
+
+I use JavaScript
+
+
+Heroku
+
+Node
+
+Debugger
+
+
+********************************
+
+4. Choose a few tools and know them well
+
+A) EDITOR
+Sublime Text
+Visual Studio Code (FREE)
+WebStorm (and other)
+
+
+B) COMMUNITIES
+
+Github:
+
+
+BitBucket / GitLab
+
+
+StackOverflow:
+
+JSFiddle
+JsBin
+Plnkr
+Codepen
+
+Dribble:
+Mostly for designers.
+Sometimes I push some pixels here and there but I'm not a designer.
+I asked for invite a number of times and eventually I didn't get it - I wasn't determined enough.
+
+
+********************************
+
+5. Go to a bootcamp ()if you can easily afford it)
+
+Personally I've never been to such facility but it seems legit.
+
+
+********************************
+
+
+6. Signup for the online course on Udemy, Coursera, EdX or any other platofmr
+
+I remember the ver first course of this type. It was still a novelty. The professor went on to establish one of successful in the space
+
+<<< RESEARCH CORRELATION >>>
+
+And you know what? The most successful programmers are doing this. 
+
+
+********************************
+
+
+
+
+
+
+
+
+
+********************************
+
+XX) ML snd AI (machine learning and artifical intelligence)
+
+Some related fields would be CV (computer vision) and NLP (natural language procesing).
+
+We have AI - artifical intelligence - there is also IA - intelligent assistant - Amazon Alexa and Google Home - I should actually try it out.
+
+It must be a great experience to actually ask computer about the weather. I'm pretty sure I'd be able to mention a number of idea, too bad my programming skills (and ability to focus) are not that good anymore.
+
+
+
+********************************
+
+Bush - Nazi.
+In the era of internet
+
+
+
+Building 7
+
+
+
+Fluoride in the water.
+
+
+War on drugs + Private prison system.
+
+
+Sugar industry sponsoring research
+
+
+Exxon Mobil and climate denial.
+
+
+
+BE REBELIOUS - BE HAPPY
+
+
+
+********************************
+
+GLOSSARY:
+
+Hackathon
+IDE
+
+
+
+
+
+
+
+
+
+
+*******************************
+
+VICES:
+
+Cannabis - not serving me
+Clarity.
+Energised Euphoric.
+And then recovery, brain chemistry restoring the balance.
+I'm consistently 'high on life' anyway, extra stimulation not required.
+
+Veganism
+
+
+
+Relationships
+
+
+Time is the new currency
+
+
+I have such a healthy body, healthy spirit and I bet you are popular.
+
+I was alway fascinted by the US - I was 2011 to Burning Man, 2014 two weeks in San Diego (working fo for Qualcomm), few days in 2016 to Symbiosis Gathering, and just for the weekend in February 2017 because flights were £200 and the difference in price when buying a laptop was £500.
+
+Now I'll rephrase the "vices" into a positive form
+
+
+
+21 August 2017 - Solar Eclipse.
+
+
+The most stable address is the chapel - place that we convert.
+
+
+
