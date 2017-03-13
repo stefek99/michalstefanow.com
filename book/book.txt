@@ -2,7 +2,9 @@
 
 Mindset about learning. Mental toughness. Attitude...
 
-Your way will differ from my way - technolohy has moved forward and now we have completely new set of tools and learning platforms. I'll encouage you to do a lot of deliberate practice and stick to it.
+Your way will differ from my way - technolohy has moved forward and now we have completely new set of tools and learning platforms. 
+
+I'll encouage you to do a lot of deliberate, systematic practice and stick to it.
 
 
 There are plenty of resources available - some of them are free but in reality you should find some quality one.
@@ -15,13 +17,13 @@ There are plenty of resources available - some of them are free but in reality y
 
 In the past couple of years there is market demand for IT workers. Government announces the need for STEM (science, technology, engineering, mathematics) grafuades and top companies are competing for scarce talent.
 
-Back in 2005, when I was choosing my university the situation wasn't much different. I invested 5 years of my life into a Computer Science degree and from the time perspective I have no idea if that was the right choice. Actually it's been more than 5 years, due to fallacy of sunken cost. Once you have a degree it's typical to start working in field of study to recoup the investment. Fast forward a few years, a few promotions, a few new jobs - now I'm "six figure" salary has never been more difficult.
+Back in 2005, when I was choosing my university the situation was the same. I invested 5 years of my life into a Computer Science degree and from the time perspective I have no idea if that was the right choice. Actually it's been more than 5 years, due to fallacy of sunken cost. Once you have a degree it's typical to start working in field of study to recoup the investment. Fast forward a few years, a few promotions, a few new jobs - now I'm "six figure" salary and quitting has never been more difficult.
 
 I try to rationalise - it's a good job - it provides for education and experiences and I'll keep it as long as it serves me. 
 
 Making resonable of money in job changes my perception about time and money.
 
-First disclaimer about "a lot" - my father, university lecturer with PhD title was earning $10 (ten US dollars) per month. There were no passports, noone could leave the country (only those brave refugees who were claiming political asylum in other places).  I was born in 1986, the communism fell in 1989 (many consider Berlin Wall as a symbol). I don't remember the communism, food rationing and empty shelves in the shops... Some people made a lot of money during the transformation, it was a stormy time with a lot "party", special forces and hyperinflation.
+First disclaimer about "resonable" - my father, university lecturer with PhD title was earning $10 (ten US dollars) per month. There were no passports, noone could leave the country (only those brave refugees who were claiming political asylum in other places).  I was born in 1986, the communism fell in 1989 (many consider Berlin Wall as a symbol). I don't remember the communism, food rationing and empty shelves in the shops... Some people made a lot of money during the transformation, it was a stormy time with a lot "communist party", secret service  and hyperinflation.
 
 (I was a kid, don't ask me about details)
 
@@ -63,9 +65,15 @@ IFTTT
 Zapier
 Google Docs
 Excel
-Extracting data from websites
+Extracting data from websites - import.io
 Marketing automation
 
+
+Sprinkling some programming knowledge over traditional problems gives you an edge. Even knowing some programming terms allows you to better communicate with technical people.
+
+I guess that's not what you wanted to hear, me encouraging you to mantain your current profession.
+
+Good news is - automation is taking over - people don't have to work. See what percentage of population works in agriculture - 1% maybe. Nature already knows how to grow food, there is abundant energy from the Sun, and in my reality people don't have to work... It will take some time until it will happen but have a look at Universal Basic Income.
 
 
 
@@ -183,6 +191,14 @@ I know Python is very good for learning and is widely supported.
 
 The dealbreaker about JavaScript - it is used on the web and it is super easy to get started. You already have the device capable of running JavaScript out of the box - no need to install anything - if you are able to read this book, you alread have a web browser.
 
+In the moment of writing this book Google is making big push around Tensor Flow - framework dedicated towards machine learning.
+
+Another good choice when learning new technology (this is something I'll probably do) it to learn smart contracts - Ethereum, Blockchain, Solidity... At this point in time I have only a general idea what's involved but I feel intuitively that in the future people will less depend on government but will create their own jurisdictions. It is already happening and Blockchain programmers are in high demand. 
+
+<<< NOTE TO SELF: JUST FUCKING DO IT >>>
+
+Another note to self - I'm alread a programmer - spending 8 hours a day in front of a computer coding. I don't have much energy for programming, as opposed to writing a book which seems a relaxing activity. Offloading my intellectual property - everything I know about modern world and how to navigate the reality.
+
 
 ********************************
 
@@ -218,12 +234,26 @@ Don't post "here is my code, doesn't work" - other people on the site are progra
 <<<< SECREt >>>>
 Actually in one of my previous jobs - I was bored at work - 1 hour each day solving other peoplre 
 
-2) Precise language
+2) Precise communication
+
+You are describing problem to other people. 
+Need to be precise, specific.
+Soon you'll discover that in the process you are starting answering your own question.
+As you start explaining what have you tried, you'll  discover "but I haven't tried that" and before posting the question you'll have a chance to discover other options.
 
 3) Isolated case
 
+Don't just post 100+ lines of code.
+Minimise the code that is problematic.
+It is another great exercise - simplifying the problem.
+Sometimes there are some "unrelated" unintended consequences and by reducing the problem it may start working - then you'll know the offending bits of code.
 
-Rubber duck progremming.
+
+
+
+Rubber duck debugging
+
+There process of talking your problem to another person - when there is no another person around - use a rubber duck instead. It's similar to StackOverflow in a way that you explain your problem in a detailed manner.
 
 
 ********************************
@@ -251,7 +281,40 @@ Debugger
 
 ********************************
 
+
+********************************
+
+Test your work
+
+
+CHROME, FIREFOX, EDGE
+
+You'll have to test in each browser anyway :)
+
+Chrome is the most popular browser.
+
+Historically Firefox was a dominant website for developers
+
+
+
+TEST ON MOBILE
+
+iOS, Android and Windows Phone potentially.
+
+
+
+It happened to me many times that it worked for me, sent it to the client and it wasn't that great :)
+
+Usually what I do this time is to record 1 minute walkthrough video - me showing stuff. To record 1 minute video takes exactly 1 minute, then a few seconds to upload to Youtube, set as "unlisted" and add [unlisted] in the title so your client doesn't freak out :)
+
+(of course the privacy option is visible but not immediately obvious for everyone)
+
+Recording short videos goes a long way. Sometimes I do it instead of writing email, maybe I should do this instead of writing this book? So here is what I do - quote this fragment - and if 10 people pre-pay Kickstarter style video course based on this book I'll do it. It won't be reading the stuff, it will be probably new content :)
+
+
+
 4. Choose a few tools and know them well
+
 
 A) EDITOR
 Sublime Text
@@ -262,9 +325,13 @@ WebStorm (and other)
 B) COMMUNITIES
 
 Github:
+By far the largest
 
 
-BitBucket / GitLab
+BitBucket / GitLab:
+Github is very popular but private repositories require a monthly fee. Other competetors occupy this niche and offer them for free.
+What is a private respoistory?
+
 
 
 StackOverflow:
@@ -273,6 +340,15 @@ JSFiddle
 JsBin
 Plnkr
 Codepen
+
+I use them equally. JSFiddle was probably the first one and is traditionally 
+
+
+HackerX
+HackerWall
+InterviewStreet
+TopCoder
+
 
 Dribble:
 Mostly for designers.
@@ -286,6 +362,86 @@ I asked for invite a number of times and eventually I didn't get it - I wasn't d
 
 Personally I've never been to such facility but it seems legit.
 
+It ticks all the boxes. What could possibly go wrong? The reality is most of the people cannot afford thousands of dollars / pounds and several weeks out of their life.
+
+(it's not only cost of tuition but cost of the lost income)
+
+Some people take loans (banks, friends, family) to undertake such education. It is defnitely an option - using money as a tool, as an enabler.
+
+I can honestly tell you - in the times when I was using bank loans I didn't feel well.
+
+******************************
+
+Buying a house
+
+I did some research.
+What are the associated costs: stamp duty, solicitor fees, valuation costs
+In the UK there are some special options for first-time buyers so I asked if it is allowed to rent such a property.
+
+
+
+
+Maybe I could maximise my salary, organise the deposit, and buy some shoebox. But do I want to invest in real estate? I'm actually doing it in Wales... Refurbishing old chapel (built in 1838). The chapel is huge and we cannot afford to work on the main space. There is a vestry - small building attached to the chapel that doesn't have so many restrictions and we don't need that much money to make it work.
+
+(London is a place where all the money form Asia, China, Russia, Middle East is invested and I don't want to compete with these guys)
+
+(also the old fashioned concept of working in an office is coming to an end)
+
+Historically real-estate prices has been going up but I'd much rather place a bet on options that provide more independence.
+
+
+
+*******************************
+
+Polyamory.
+
+I'm ont qualified. I was popular at school but I was never dating more than a single girl at time. These days I feel attraction towards opposite sex and I'm allowing the following concept:
+* sexual partner
+* business partner
+* yoga partner
+* running partner
+
+We can pick and choose our relationship
+
+
+*******************************
+
+
+Having kids.
+
+You must be really bored.
+Do yourself a favour - borrow kids of your friends and relief them.
+You'll see what is it like to be permamnenly responsible.
+I did a major mistake - rather than read books and ask people how to better parent, I was trying to maximise my productivity and per hour output.
+RIDICOLOUS. That was a flawed thinking.
+
+ 
+
+
+My kids are super cool. They are smart, clever, adventerous, no medical conditions... Every parent can say that so I'm not even attemping to measure "coolness of kids" - they are all fantastic. Especially these days - with so many crystal, indigo, rainbow  children coming to this plaet.
+
+
+
+Honest conversation and sexual manipulation.
+
+
+
+
+
+Would a guy lie to a girl to have sex with her? Potentially... That's what worries me.
+
+
+I'm worried that some people fight each other because their agressions is not released, testosterone is too high.
+
+
+Sasha Daygame - they wouldn't fight if they had sex, beautiful viwes and children. 
+
+Coming from the position of infinite abundance - there is always enough of everything for everyone. Even if something is available in very limited quantities the price goes up and the product is available at higher price, and other mid-range and low-end product appear.
+
+
+
+
+
 
 ********************************
 
@@ -297,6 +453,26 @@ I remember the ver first course of this type. It was still a novelty. The profes
 <<< RESEARCH CORRELATION >>>
 
 And you know what? The most successful programmers are doing this. 
+
+I did this.
+
+But I'm not doing it right now.
+
+You may ask why?
+
+1) writing this book
+2) in my area of expertise I'm already specialist, courses target mostly newcommers
+3) bit tired to code after long day at work
+
+(probably a few other reasons)
+
+
+
+********************************
+
+Have a code repository with your code samples.
+
+Majority of the recruiters ask for it and I agree to that - if I was hiring I'd always require to see code samples.
 
 
 ********************************
@@ -345,7 +521,17 @@ Exxon Mobil and climate denial.
 
 
 
+In the world that takes advantage
 BE REBELIOUS - BE HAPPY
+
+
+
+Develop your own judgement about mind altering substances.
+
+Cannabis is leading the way.
+
+
+
 
 
 
@@ -353,8 +539,13 @@ BE REBELIOUS - BE HAPPY
 
 GLOSSARY:
 
+Hacker
 Hackathon
 IDE
+
+
+
+
 
 
 
