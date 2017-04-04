@@ -1,19 +1,17 @@
-﻿How to learn coding and find a job in IT?
-
-Mindset about learning. Mental toughness. Attitude...
-
-Your way will differ from my way - technolohy has moved forward and now we have completely new set of tools and learning platforms. 
-
-I'll encouage you to do a lot of deliberate, systematic practice and stick to it.
+﻿How to learn coding and find a well-paid job in IT?
 
 
-There are plenty of resources available - some of them are free but in reality you should find some quality one. 
+My both parents were studying CS (Computer Science) and ever since I had computer at home. 
 
 
 
-ROB PERCIVAL...
+Your way will differ from my way - technology has moved forward and now we have completely new set of tools and learning platforms.
 
-Quality.
+
+There are plenty of resources available - some of them are free but in reality you should invest in finding quality ones. But how to find them?
+
+Look no further: ROB PERCIVAL
+
 
 Experience.
 
@@ -21,27 +19,33 @@ Professionalism.
 
 Second Edition.
 
-Look no further.
-
 Save your energy on actually doing stuff, rather than hesitating which course to choose.
 
-I did his training about Swift, iOS, Apple Watch - STELLAR - cannot possibly make it any better.
+And if you stop reading this book in favour of doing the actual course - well done to you. Action speak louder than words, you've chosen rightly.
+
+(...you can always resume couple weeks later, once the course is completed...)
+
+Thank you for bearing with me. One way or another you either see what is it like to solve technical problems or you are genuinely curious what are skills and qualities are practical in the job of web developer.
+
+
+(make your own judgement, out of 100 competing options I'm offering you a decent one that should be immediately placed in your shortlist)
 
 Enough of the praise, see ______ reviews.
 
 <<<< because I'm recommending him here a voucher code >>>>
 
+Actually... His prices are so low it would be unfair to drive them any further...
 
 
 
+==============================
 
 
-
-In the past couple of years there is market demand for IT workers. Government announces the need for STEM (science, technology, engineering, mathematics) grafuades and top companies are competing for scarce talent.
+In the past couple of years there is market demand for IT workers. Government announces the need for STEM (science, technology, engineering, mathematics) graduades and top companies are competing for scarce talent.
 
 Back in 2005, when I was choosing my university the situation was the same. I invested 5 years of my life into a Computer Science degree and from the time perspective I have no idea if that was the right choice. Actually it's been more than 5 years, due to fallacy of sunken cost. Once you have a degree it's typical to start working in field of study to recoup the investment. Fast forward a few years, a few promotions, a few new jobs - now I'm "six figure" salary and quitting has never been more difficult.
 
-I try to rationalise - it's a good job - it provides for education and experiences and I'll keep it as long as it serves me. 
+I try to rationalise - it's a good job - it provides for education and experiences and I'll keep it as long as it serves me.
 
 Making resonable of money in job changes my perception about time and money.
 
@@ -59,7 +63,7 @@ Nope, money is only a multiplier. We traded one set of problems to another... I 
 
 ********************************
 
-I was searching for job many times. Yes, I was fired a number of times... It's never a pleasurable experience but it happens. It was the initial period of the job and I had some difficulties in a relationship... Oh no - do I sounds as if I was justifying myself? So be it, I'm accepting responsibility and take everything as a learning experience. If you allow me - I'm here to help people who are decade younger. I've spend my fair share of "chair hours" writing code, being a parent, working on a countless side projects. I still don't own the ultimate recipe - it's unique for each individual circumstances - but I have a vast body of knowledge. Be critical, use your thinking, I do not have a degree in writing - and I do not want to posses a degree (see the part about university) - all I have a deep core belief that I can add some value. If I dedicate 500 hours towards creating and promoting this thing and someone becomes a successful programmer - that's 8 hours per day multiplied by weeks, months and years. I'll have the impression that I did something right and world has become a better place.
+I was searching for job many times. Yes, I was fired a number of times... I've spend my fair share of "chair hours" writing code, being a parent, working on a countless side projects. I still don't own the ultimate recipe - it's unique for each individual circumstances - but I have a vast body of knowledge. Be critical, use your thinking, I do not have a degree in writing - and I do not want to posses a degree (see the part about university) - all I have a deep core belief that I can add some value. If I dedicate 500 hours towards creating and promoting this thing and someone becomes a successful programmer - that's 8 hours per day multiplied by weeks, months and years. I'll have the impression that I did something right and world has become a better place.
 
 Another motivation is selfish - don't get me wrong - I'm the egoist. Furthermore - I believe morther Terese was selfish and she was doing all her work for the joy of helping. Same applies to me, give money to homeless is a selfish act:
 * it makes me happy
@@ -107,13 +111,13 @@ It worked for me.
 Working on the web is visually pleasing experience.
 I save the file - autoreload - next second I see updated version on the screen.
 When I was working with terminal - that black screen and blobs of text - it was more difficult to establish whether the work I do is working or not.
-I highly encourage you to have some visual result of your work. 
+I highly encourage you to have some visual result of your work.
 
 Programming can often be frustrating and to persevere you need to have many wins during the day.
 
 
 
-Currently I work in a job - highly regulated environemnt - so many different system and process isn't fully automated. Even the simplest change such as changing text here or there is 15 minutes. Of course I'm able to find the place in code that needs in no time. But... So 
+Currently I work in a job - highly regulated environemnt - so many different system and process isn't fully automated. Even the simplest change such as changing text here or there is 15 minutes. Of course I'm able to find the place in code that needs in no time. But... So
 
 
 Tracking progress.
@@ -138,9 +142,9 @@ Small win every time - allow yourself a boost of happiness - your work is progre
 ********************************
 1. Don't go to University
 
-It takes too long. '
+It takes too long. It's too expensive. In the UK and US studing is a costly activity - students tend to take loans so when they leave university they are in debt. Hurray! ou got a degree, now you have to work to pay off your loan - welcome to the modern age of slavery.
 
-Or if you really have to:
+I have nothing against education and learning. You should always learn. ddddddddddddddddddOr if you really have to:
 * Take a gap year first
 * Be sure the field of study
 * Don't pay for it: scholarhips, or a different country
@@ -180,19 +184,26 @@ It should be clear, it should be obvious - as an employer I would rather hire so
 2. Set your mind on a (realistic) project
 
 
-The best project is one that is slighly beyond your current level of ability - outside of your comfort zone - but not impossible. 
+The best project is one that is slighly beyond your current level of ability - outside of your comfort zone - but not impossible.
 
 
 It doesn't have to be realistic at first - soon you'll get a lot of feedback forcing you to re-asses, soon you'll realise that some of the features are not feasible.
 
 
-I really like programming test for ThoughtWorkds (very well known consultancy) - create your online portfolio. It's broad, it's generic, everyone needs it. It's a good way of testing candidate abilities in a multiple ways.
+I really like programming test for ThoughtWorks (very well known consultancy) - create your online portfolio. It's broad, it's generic, everyone needs it. It's a good way of testing candidate abilities in a multiple ways.
 
 1) Are they creative
 2) Are they able to work without supervision
 3) Ability to learn about the accomplishments
 
 I didn't pass this test but the experience itself was very positive.
+
+Lessons learnt - when you want the job - go the extra mile.
+Lessons learnt - be specific with your expectations. I don't like when I have too much time - it raises the bar and it suggests I should deliver something outstanding.
+
+60 tasks, 60 minutes. These are cannot be massive tasks. I can quickly read, understand, process, answer or make notes for future reference and solve it rather well.
+
+I made a note to try some IQ and MENSA test - <<< TODO: MENSA TESTS RESULTS >>>
 
 
 
@@ -201,13 +212,11 @@ I didn't pass this test but the experience itself was very positive.
 
 3. Choose the line of work that suits you
 
-I will tell you my way of thinking - I wanted to do things independently. 
+I will tell you my way of thinking - I wanted to do things independently.
 
 There are many technical areas that require different mindset - such as testing, database design, system administration.
 
 My feeling is that web is most versatile and super easy to get started/
-
-
 
 
 ********************************
@@ -215,18 +224,32 @@ My feeling is that web is most versatile and super easy to get started/
 
 I know JavaScript very well.
 
-I know Python is very good for learning and is widely supported.
+I know Python is very good for learning and is widely supported - every too, has
 
 The dealbreaker about JavaScript - it is used on the web and it is super easy to get started. You already have the device capable of running JavaScript out of the box - no need to install anything - if you are able to read this book, you alread have a web browser.
 
 In the moment of writing this book Google is making big push around Tensor Flow - framework dedicated towards machine learning.
 
-Another good choice when learning new technology (this is something I'll probably do) it to learn smart contracts - Ethereum, Blockchain, Solidity... At this point in time I have only a general idea what's involved but I feel intuitively that in the future people will less depend on government but will create their own jurisdictions. It is already happening and Blockchain programmers are in high demand. 
+Another good choice when learning new technology (this is something I'll probably do) it to learn smart contracts - Ethereum, Blockchain, Solidity... At this point in time I have only a general idea what's involved but I feel intuitively that in the future people will less depend on government but will create their own jurisdictions. It is already happening and Blockchain programmers are in high demand.
 
 <<< NOTE TO SELF: JUST FUCKING DO IT >>>
 
 Another note to self - I'm alread a programmer - spending 8 hours a day in front of a computer coding. I don't have much energy for programming, as opposed to writing a book which seems a relaxing activity. Offloading my intellectual property - everything I know about modern world and how to navigate the reality.
 
+
+********************************
+
+
+Use libraries and APIs platforms
+
+Sometimes I say my job is plumbing thing together.
+
+Everything has been done already, many problems has been solved. Opportunities lives on the intersection of things. Tinder for dogs - voilla! And there is the thing:
+- no need to build a phone
+- no need to develop fast-charfing battery system
+- no need to worry about WiFi congfiguration and cellurar connectivty
+
+You take existing tools and use them. Standing on the shoulders of the giants.
 
 ********************************
 
@@ -257,14 +280,14 @@ Some amazing thing about Stack Overflow:
 
 Always mention what you have tried already what was the output.
 
-Don't post "here is my code, doesn't work" - other people on the site are programmers too. 
+Don't post "here is my code, doesn't work" - other people on the site are programmers too.
 
 <<<< SECREt >>>>
-Actually in one of my previous jobs - I was bored at work - 1 hour each day solving other peoplre 
+Actually in one of my previous jobs - I was bored at work - 1 hour each day solving other peoplre
 
 2) Precise communication
 
-You are describing problem to other people. 
+You are describing problem to other people.
 Need to be precise, specific.
 Soon you'll discover that in the process you are starting answering your own question.
 As you start explaining what have you tried, you'll  discover "but I haven't tried that" and before posting the question you'll have a chance to discover other options.
@@ -369,7 +392,7 @@ JsBin
 Plnkr
 Codepen
 
-I use them equally. JSFiddle was probably the first one and is traditionally 
+I use them equally. JSFiddle was probably the first one and is traditionally
 
 
 HackerX
@@ -443,7 +466,7 @@ You'll see what is it like to be permamnenly responsible.
 I did a major mistake - rather than read books and ask people how to better parent, I was trying to maximise my productivity and per hour output.
 RIDICOLOUS. That was a flawed thinking.
 
- 
+
 
 
 My kids are super cool. They are smart, clever, adventerous, no medical conditions... Every parent can say that so I'm not even attemping to measure "coolness of kids" - they are all fantastic. Especially these days - with so many crystal, indigo, rainbow  children coming to this plaet.
@@ -462,7 +485,7 @@ Would a guy lie to a girl to have sex with her? Potentially... That's what worri
 I'm worried that some people fight each other because their agressions is not released, testosterone is too high.
 
 
-Sasha Daygame - they wouldn't fight if they had sex, beautiful viwes and children. 
+Sasha Daygame - they wouldn't fight if they had sex, beautiful viwes and children.
 
 Coming from the position of infinite abundance - there is always enough of everything for everyone. Even if something is available in very limited quantities the price goes up and the product is available at higher price, and other mid-range and low-end product appear.
 
@@ -480,7 +503,7 @@ I remember the ver first course of this type. It was still a novelty. The profes
 
 <<< RESEARCH CORRELATION >>>
 
-And you know what? The most successful programmers are doing this. 
+And you know what? The most successful programmers are doing this.
 
 I did this.
 
@@ -527,62 +550,54 @@ It must be a great experience to actually ask computer about the weather. I'm pr
 
 ********************************
 
-Truth bombs
+Truth bombs and other things I don't like
 
-Do you know Bush family was doing business with Hitler?
+Bush family was doing business with Hitler?
 
-In the era of free information such association would be seriously uncool. For some reason it didn't stop them becoming president of the United States.
+In the era of free information such association would be seriously uncool. For some reason it didn't stop them becoming president of the United States - much respect to them!
 
-
-
-You sure know 9/11 - some airplanes hitting some buildings that consequently fell down. Have you heard of Building 7? That is completely bonkers - please apply some critical, rational thinking 
-
+You sure know 9/11 - some airplanes hitting some buildings that consequently fell down. Have you heard of Building 7? That is completely bonkers - please apply some critical, rational thinking
 
 Fluoride in the water.
-
 
 War on drugs + Private prison system + Cash for kids scandal.
 
 (Lowcy Skor in Poland - selling information about deceased people to funeral homes - too bad people haven't died yet so medical stuff was feeding them with a drug causing death)
 
-
-Sugar industry sponsoring research stating 
-
+Sugar industry sponsoring research stating that fat is leading cause of obesity.
 
 Exxon Mobil and climate denial.
-
 
 Fashion Models.
 
 Consuption.
 
-Advertisements of loans, debts and various para-medicals.
+Advertising of loans, debts and buying stuff that you can pay later.
 
 
 
+********************************
 
 
 In the world that takes advantage
 BE REBELIOUS - BE HAPPY
 
 
+********************************
 
 
 
-
-
+WAR ON DRUGS
 
 Develop your own judgement about mind altering substances.
 
 Cannabis is leading the way.
 
-Did they make drugs illegal because they harm you, while keeping alcohol widely available?
+Did they make drugs illegal because it can harm you, while keeping alcohol widely available?
 
 (writing about mind altering substances still remain controversial subject and this book is not about psychedelics)
 
-
-<<<<<   NAAN PLANT >>>>>>>
-
+I can only tell you in every 
 
 
 
@@ -594,52 +609,3 @@ GLOSSARY:
 Hacker
 Hackathon
 IDE
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-*******************************
-
-VICES:
-
-Cannabis - not serving me
-Clarity.
-Energised Euphoric.
-And then recovery, brain chemistry restoring the balance.
-I'm consistently 'high on life' anyway, extra stimulation not required.
-
-Veganism
-
-
-
-Relationships
-
-
-Time is the new currency
-
-
-I have such a healthy body, healthy spirit and I bet you are popular.
-
-I was alway fascinted by the US - I was 2011 to Burning Man, 2014 two weeks in San Diego (working fo for Qualcomm), few days in 2016 to Symbiosis Gathering, and just for the weekend in February 2017 because flights were £200 and the difference in price when buying a laptop was £500.
-
-Now I'll rephrase the "vices" into a positive form
-
-
-
-21 August 2017 - Solar Eclipse.
-
-
-The most stable address is the chapel - place that we convert.
-
-
-
