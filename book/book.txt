@@ -210,21 +210,48 @@ I made a note to try some IQ and MENSA test - <<< TODO: MENSA TESTS RESULTS >>>
 
 ********************************
 
-3. Choose the line of work that suits you
+Choose the line of work that suits you
 
-I will tell you my way of thinking - I wanted to do things independently.
+My way of thinking - to do things independently. You probably saw some pictures of guys sitting on the beach with their laptop... If your skills are valuable only as part of a larger team - say PM (Project Manager) - then it will be difficult to become independent. Web development is different - pretty much every business and every person requires an online presence in one shape or another - there is a demand web development services and there is huge chance you'll find a job too, and if finding regular job is not something for you - you'll be able to work on freelance basis with your selected clients.
+
+ 
 
 There are many technical areas that require different mindset - such as testing, database design, system administration.
 
-My feeling is that web is most versatile and super easy to get started/
+My feeling is that web is most versatile and super easy to get started
 
 
 ********************************
-3.5 See what programming languages
+
+How to find your first client?
+
+Just ask around. Word of mouth can go a long way. There are so many people - self-employed independent contractors who are just about to start their own thing but require a website... Because you are starting and they are starting - you can form a symbiotic relationship, a winning team - and keep the relationship growing.
+
+Working for free shouldn't be an option - assuming you did your homework - you are perfectly able of delivering some value. People who get stuff for free - do not appreciate it. On the other hand - people who pay - have expectations, regardless the actual monery value. Paying £100 or £1000 is categorised in the same mental category as "payment" so I encourage you to follow the following formula:
+1) think about the amount that you think is on the upper side what you think is fair
+2) multiply the number by two
+
+
+********************************
+
+Communication with client
+
+Have in writing, standard terms, letter of intent.
+- scope
+- date
+- assets (images, text)
+- maintenance
+
+
+********************************
+
+See what programming languages, frameworks, technologies are relevant
 
 I know JavaScript very well.
 
-I know Python is very good for learning and is widely supported - every too, has
+I know Python is very good for learning and is widely supported.
+
+
 
 The dealbreaker about JavaScript - it is used on the web and it is super easy to get started. You already have the device capable of running JavaScript out of the box - no need to install anything - if you are able to read this book, you alread have a web browser.
 
@@ -242,7 +269,7 @@ Another note to self - I'm alread a programmer - spending 8 hours a day in front
 
 Use libraries and APIs platforms
 
-Sometimes I say my job is plumbing thing together.
+Sometimes I say my job is plumbing things together.
 
 Everything has been done already, many problems has been solved. Opportunities lives on the intersection of things. Tinder for dogs - voilla! And there is the thing:
 - no need to build a phone
