@@ -1,8 +1,7 @@
-﻿How to learn coding and find a well-paid job in IT?
+﻿How to learn code and find a well-paid job in IT?
 
 
 My both parents were studying CS (Computer Science) and ever since I had computer at home. 
-
 
 
 Your way will differ from my way - technology has moved forward and now we have completely new set of tools and learning platforms.
@@ -25,7 +24,10 @@ And if you stop reading this book in favour of doing the actual course - well do
 
 (...you can always resume couple weeks later, once the course is completed...)
 
-Thank you for bearing with me. One way or another you either see what is it like to solve technical problems or you are genuinely curious what are skills and qualities are practical in the job of web developer.
+
+By doing the course you'll see what is it like to solve actual technical problems. You'll also see what skills and qualities are practical in the job of web developer.
+
+There is no secret to programming - the best programmers I know encounter problems in their work - they have experience and knowledge allowing them to handle them more officienly.
 
 
 (make your own judgement, out of 100 competing options I'm offering you a decent one that should be immediately placed in your shortlist)
@@ -43,27 +45,33 @@ Actually... His prices are so low it would be unfair to drive them any further..
 
 In the past couple of years there is market demand for IT workers. Government announces the need for STEM (science, technology, engineering, mathematics) graduades and top companies are competing for scarce talent.
 
-Back in 2005, when I was choosing my university the situation was the same. I invested 5 years of my life into a Computer Science degree and from the time perspective I have no idea if that was the right choice. Actually it's been more than 5 years, due to fallacy of sunken cost. Once you have a degree it's typical to start working in field of study to recoup the investment. Fast forward a few years, a few promotions, a few new jobs - now I'm "six figure" salary and quitting has never been more difficult.
+Back in 2005, when I was choosing my university the situation was the same. I invested 5 years of my life into a Computer Science degree and from the time perspective I have no idea if that was the right choice. Actually it's been more than 5 years, due to fallacy of sunken cost. Once you have a degree it's typical to start working in field of study to recoup the investment. Fast forward a few years, a few promotions, a few new jobs - now I'm "six figure" salary and moving on has never been more difficult.
 
-I try to rationalise - it's a good job - it provides for education and experiences and I'll keep it as long as it serves me.
+Back in a day my father, university lecturer with PhD title was earning $10 (ten US dollars) per month. There were no passports, noone could leave the country (only those brave refugees who were claiming political asylum in other places).  I was born in 1986, the communism fell in 1989 (many consider Berlin Wall as a symbol). I don't remember the communism, food rationing and empty shelves in the shops... Some people made a lot of money during the transformation - mostly those related to previous government, communist party and secret service. I'm the first generation who has the privilege to live in a free country and I try to use my time wisely...
 
-Making resonable of money in job changes my perception about time and money.
-
-First disclaimer about "resonable" - my father, university lecturer with PhD title was earning $10 (ten US dollars) per month. There were no passports, noone could leave the country (only those brave refugees who were claiming political asylum in other places).  I was born in 1986, the communism fell in 1989 (many consider Berlin Wall as a symbol). I don't remember the communism, food rationing and empty shelves in the shops... Some people made a lot of money during the transformation, it was a stormy time with a lot "communist party", secret service  and hyperinflation.
-
-(I was a kid, don't ask me about details)
-
-1) Going to festivals, hitchhiking, working in a kitchen (carrying water)
-
-2) Trouble in a relationship, hoping that money will fix it
-
-Nope, money is only a multiplier. We traded one set of problems to another... I admit many mistakes and if you meet my wife tell them I'm sorry.  This book is about coding and finding job as a programmer but I share some "pearls of wisdom" when comes to relationships as well.
+(sharing my knowledge and everything I know is the best use of my energy)
 
 
 
 ********************************
 
-I was searching for job many times. Yes, I was fired a number of times... I've spend my fair share of "chair hours" writing code, being a parent, working on a countless side projects. I still don't own the ultimate recipe - it's unique for each individual circumstances - but I have a vast body of knowledge. Be critical, use your thinking, I do not have a degree in writing - and I do not want to posses a degree (see the part about university) - all I have a deep core belief that I can add some value. If I dedicate 500 hours towards creating and promoting this thing and someone becomes a successful programmer - that's 8 hours per day multiplied by weeks, months and years. I'll have the impression that I did something right and world has become a better place.
+I was searching for a job many times. Never really understood the concept of "permament" employment... What does it mean? There are some universal laws - gravity for instance - but in a market economy where goal of the business is to make some money - how come employment be a "permanent" thing?
+
+My attitude towards work got me fired a number of times - but because I knew how to navigate the process of finding jobs - I was always immediately re-hired. Sometimes it required tweaking 
+
+
+
+I still don't own the ultimate recipe - it's unique for each individual circumstances - all I have a deep core belief that I can add a lot of value. 
+
+
+If I dedicate 500 hours towards creating and promoting this thing and someone becomes a successful programmer - that's 8 hours per day multiplied by weeks, months and years. I'll have the impression that I did something right and world has become a better place.
+
+(always acting with integrity)
+
+
+********************************
+
+RANDOM
 
 Another motivation is selfish - don't get me wrong - I'm the egoist. Furthermore - I believe morther Terese was selfish and she was doing all her work for the joy of helping. Same applies to me, give money to homeless is a selfish act:
 * it makes me happy
@@ -83,14 +91,26 @@ Yet another, slightly related - mental fatigue - when we wake up we have mental 
 
 ********************************
 
-The million dollar question I would like to ask - are you going to learn programming to get a job in the field?
+The million dollar question I would like to ask - what is your main motivation of learning to code? Some options immediately come to mind:
+* to find a job as programmer
+* to build your own startup
+* to use programming skills in your existing mission (becoming super efficient when performing tasks)
 
-My advice would be to reframe your mindset - learn programming to be super efficient when performing your existing tasks.
 
-IFTTT
-Zapier
-Google Docs
+There is a number of services that will give you superpowers:
+IFTTT, Zapier
+
+
+Google Drive, Google Docs, Google Forms
+
+I just had a meeting with a lawyer and showed him option to share his documents with the clients, even when they do not have Google account.
+
 Excel
+
+Slack, Trello
+Communication in the team. Prioritising tasks.
+
+
 Extracting data from websites - import.io
 Marketing automation
 
@@ -99,23 +119,25 @@ Sprinkling some programming knowledge over traditional problems gives you an edg
 
 I guess that's not what you wanted to hear, me encouraging you to mantain your current profession.
 
-Good news is - automation is taking over - people don't have to work. See what percentage of population works in agriculture - 1% maybe. Nature already knows how to grow food, there is abundant energy from the Sun, and in my reality people don't have to work... It will take some time until it will happen but have a look at Universal Basic Income.
+Good news is - automation is taking over - people don't have to work. See what percentage of population works in agriculture in the US or the UK: 1% maybe. Nature already knows how to grow food, there is abundant energy from the Sun, and in my reality people don't have to work... It will take some time until it will happen but have a look at Universal Basic Income - the change is there...
 
 
 
 ********************************
 
-Something with immediate rewards.
+Working on the web is a visually pleasing experience - you can see the button, forms, websites forming. 
 
-It worked for me.
-Working on the web is visually pleasing experience.
-I save the file - autoreload - next second I see updated version on the screen.
-When I was working with terminal - that black screen and blobs of text - it was more difficult to establish whether the work I do is working or not.
-I highly encourage you to have some visual result of your work.
+Is also has an immediate reward and tight feedback loop - it's easy to tell if something is working or not.
+
+Save the file - autoreload - next second I see updated version on the screen.
+
+When I was working with terminal - that black screen and blobs of text - it was more difficult to establish whether some code I wrote is working or not.
+
+I highly encourage you to have some visual result of your work, an easy way to tell if your code is working or not.
 
 Programming can often be frustrating and to persevere you need to have many wins during the day.
 
-
+********************************* RANDOM *****************
 
 Currently I work in a job - highly regulated environemnt - so many different system and process isn't fully automated. Even the simplest change such as changing text here or there is 15 minutes. Of course I'm able to find the place in code that needs in no time. But... So
 
@@ -128,9 +150,8 @@ Veryfying that fix has been applied.
 (sorry if I'm using difficult workds, see glossary)
 
 15 minutes is the bare minumum, physicla limit of our systems.
-That was the super-simple example, usually changes are much involved and require testing in a series of browsers.
+That was the super-simple example, usually changes are much involved and require testing.
 On my best day I was able to close 4 different issues.
-
 Small win every time - allow yourself a boost of happiness - your work is progressing.
 
 
@@ -140,28 +161,30 @@ Small win every time - allow yourself a boost of happiness - your work is progre
 
 
 ********************************
-1. Don't go to University
+Don't go to University
 
-It takes too long. It's too expensive. In the UK and US studing is a costly activity - students tend to take loans so when they leave university they are in debt. Hurray! ou got a degree, now you have to work to pay off your loan - welcome to the modern age of slavery.
+It takes too long. It's too expensive. In the UK and US it's s a costly activity - students tend to take loans so when they leave university they are in debt. Hurray! You got a degree, now you have to work to pay off your loan - welcome to the modern age of slavery.
 
-I have nothing against education and learning. You should always learn. ddddddddddddddddddOr if you really have to:
+(not happy)
+
+I have nothing against education and learning. You should always learn. If you really think that going to university is something you really have to do:
 * Take a gap year first
 * Be sure the field of study
-* Don't pay for it: scholarhips, or a different country
+* Don't pay for it: scholarhips, or maybe a different country with free education?
+
+(you may need to learn the language first)
 
 
-I made several mistakes in my approach to university. Probably the biggest one was sense of entitlement - because I graduated from the top high school and was attending top degree I thought I'll get new jobs easily.
+I made several mistakes in my approach to university. Probably the biggest one was sense of entitlement - because I graduated from the top degree in the top high school - I thought I'll get new jobs easily.
 
 > Hard work beats talent, when talent doesn't work.
 
-University could be good in terms of making friends, expanding your network but... I bet you can make friends anyway. I highly encourage you to watch a few video about "daygame" (approaching people of opposite gender) and you'll have social anxiety. One Jedi trick to make it work - be certain (absolutely convinced) about your self-worth and think in terms "I'm the best thing that could happen to that person".
-
-
+University could be good in terms of making friends, expanding your network but... I bet you can make friends anyway. I highly encourage you to watch a few video about "daygame" (approaching people of opposite gender) and you'll never have social anxiety. One Jedi trick to make it work - be certain (absolutely convinced) about your self-worth and think in terms "I'm the best thing that could happen to that person".
 
 
 Social skills, positive attitude, equally important at work.
 
-I can tell you that some of the best programmers I know have mild spectrum of autism - asperberg syndrome. What it emans in plain english - deep interest in particilar subject, being very detailed, etc... These qualities are super useful when programming so no wonder why they are so good! There is an element of social awkwardness but they cope very well.
+I can tell you that some of the best programmers I know have mild spectrum of autism - asperberg syndrome. What it emans in plain English - deep interest in particilar subject, being very detailed, etc... These qualities are super useful when programming so no wonder why they are so good! There is an element of social awkwardness but they cope very well, I'm an unconventional weirdo too and I'm quite open about it!
 
 
 
@@ -171,14 +194,13 @@ I can tell you that some of the best programmers I know have mild spectrum of au
 
 Get a job
 
-The best what could happen - to learn on the job.
-In reality - there will be always some entry exam / recruitment test.
-So you need to know some basics.
-It should be clear, it should be obvious - as an employer I would rather hire someone who has already some skills. No such thing as free launch... I was a bad employee - I always saw 'what's in it for me' - I should think more about the value I provide to the company.
+The best what could happen to you - to learn on the job.
+In reality - even if it is entry-level, "all training provided" apprentice type of job - there will be always some entry exam / recruitment test.
+So you need to know some basics anyway. Or at least show some initiative and interest. Of course there is infinite abundance but still - in certain areas there is still disproportion of supply and demand.
 
+It should be clear, it should be obvious - as an employer I would rather hire someone who has already some skills. No such thing as free launch... I was actually a bad employee - I always saw 'what's in it for me' - I should think more about the value I provide to the company. Too bad the incentives were not stated in the employment contracts - all obligations, reponsibilities and no upside potential. That is why in my current project (astralship.org) we don't want employees - we want to have partners, collaborators, supporters and when hiring professionals we pay 50% cash 50% equity.
 
-
-
+(not sure if that arrangements will work everywhere but we act with the highest integrity and it works for us)
 
 ********************************
 2. Set your mind on a (realistic) project
@@ -192,33 +214,20 @@ It doesn't have to be realistic at first - soon you'll get a lot of feedback for
 
 I really like programming test for ThoughtWorks (very well known consultancy) - create your online portfolio. It's broad, it's generic, everyone needs it. It's a good way of testing candidate abilities in a multiple ways.
 
-1) Are they creative
-2) Are they able to work without supervision
-3) Ability to learn about the accomplishments
+1) Are they creative?
+2) Are they able to work without supervision?
+3) To know their accomplishments
 
-I didn't pass this test but the experience itself was very positive.
+I didn't pass this test this one but the experience itself was very positive.
 
 Lessons learnt - when you want the job - go the extra mile.
 Lessons learnt - be specific with your expectations. I don't like when I have too much time - it raises the bar and it suggests I should deliver something outstanding.
 
 60 tasks, 60 minutes. These are cannot be massive tasks. I can quickly read, understand, process, answer or make notes for future reference and solve it rather well.
 
-I made a note to try some IQ and MENSA test - <<< TODO: MENSA TESTS RESULTS >>>
-
-
-
 
 ********************************
 
-Choose the line of work that suits you
-
-My way of thinking - to do things independently. You probably saw some pictures of guys sitting on the beach with their laptop... If your skills are valuable only as part of a larger team - say PM (Project Manager) - then it will be difficult to become independent. Web development is different - pretty much every business and every person requires an online presence in one shape or another - there is a demand web development services and there is huge chance you'll find a job too, and if finding regular job is not something for you - you'll be able to work on freelance basis with your selected clients.
-
- 
-
-There are many technical areas that require different mindset - such as testing, database design, system administration.
-
-My feeling is that web is most versatile and super easy to get started
 
 
 ********************************
@@ -337,6 +346,19 @@ There process of talking your problem to another person - when there is no anoth
 ********************************
 
 Become independent
+
+
+
+Choose the line of work that suits you
+
+My way of thinking - to do things independently. You probably saw some pictures of guys sitting on the beach with their laptop... If your skills are valuable only as part of a larger team - say PM (Project Manager) - then it will be difficult to become independent. Web development is different - pretty much every business and every person requires an online presence in one shape or another - there is a demand web development services and there is huge chance you'll find a job too, and if finding regular job is not something for you - you'll be able to work on freelance basis with your selected clients.
+
+ 
+
+There are many technical areas that require different mindset - such as testing, database design, system administration.
+
+My feeling is that web is most versatile and super easy to get started
+
 
 Successful companies have teams and various methods of managing complexity. I challenge you to become independent - of course at some point you'll be dependent on your customers but the point still stands - to be able to deliver something from start to finish. It doesn't have to be next Mona Lisa, something "good enough" is good enough. To be independent and be able to do stuff without communication overhead, waiting for other people, not to mention hiring other people - massive plus.
 
@@ -473,23 +495,24 @@ Historically real-estate prices has been going up but I'd much rather place a be
 
 Polyamory.
 
-I'm ont qualified. I was popular at school but I was never dating more than a single girl at time. These days I feel attraction towards opposite sex and I'm allowing the following concept:
+I'm not qualified. I was popular at school but I was never dating more than a single girl at time. These days I feel attraction towards opposite sex and I'm allowing the following concept:
 * sexual partner
 * business partner
 * yoga partner
 * running partner
 
-We can pick and choose our relationship
+We can pick and choose our relationships
 
 
 *******************************
+
 
 
 Having kids.
 
 You must be really bored.
 Do yourself a favour - borrow kids of your friends and relief them.
-You'll see what is it like to be permamnenly responsible.
+You'll see what is it like to be permamnenly responsible (for period of time), without going through 
 I did a major mistake - rather than read books and ask people how to better parent, I was trying to maximise my productivity and per hour output.
 RIDICOLOUS. That was a flawed thinking.
 
