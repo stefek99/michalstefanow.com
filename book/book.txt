@@ -1,12 +1,10 @@
-﻿How to learn code and find a well-paid job in IT?
+﻿How to learn coding and find a well-paid job in IT?
 
-I 2016 wrote a book about finding a job - preparing for interview, tweaking the CV - and the most common question I was getting - how do I learn the skills in the first place? 
+In 2016 wrote a book about finding a job - preparing for interview, tweaking the CV - and the most common question I got - how do I learn the skills in the first place? 
 
 I have lifetime of experience working with computers and your way of learning will differ from mine - technology has moved forward. There are plenty of resources available - some of them are free, in reality you should invest in finding quality ones.
 
-============================
-
-Look no further: ROB PERCIVAL
+# Look no further: Rob Percival
 
 Experience.
 Professionalism.
@@ -22,11 +20,13 @@ By doing the course you'll see what is it like to solve actual technical problem
 
 There is no secret to programming - the best programmers I know encounter roadblocks in their work - they have experience, knowledge, tools, process allowing them to handle them more officienly.
 
-Enough of the praise, see ______ reviews.
+Enough of the praise, see the reviews.
 
 Here is the promo code too:
 
 The prices are so low it would be unfair to drive them any further, so now it's complete no-brainer.
+
+He has released a series of courses - choose the one that you find most appealing. Don't choose iOS if you don't have an iPhone - that would make testing somehow complicated.
 
 ==============================
 ### SIDENOTE
