@@ -160,24 +160,21 @@ Knowing a little bit of everyting (full stack) will give you a competetive edge,
 
 Universe rewards brawery, https://en.wikipedia.org/wiki/Fortune_favours_the_bold
 
-The best project is one that is slighly beyond your current level of ability - outside of your comfort zone - but not impossible.
-
+The best project is one that is slighly beyond your current level of ability - outside of your comfort zone - but not completely impossible. Self-driving car - not just yet. Robot following black line - more like to come to fruition.
 
 It doesn't have to be realistic at first - soon you'll get a lot of feedback (either from people or technology itself) forcing you to re-asses, pivot, change strategy.
 
-You might realise that some of the features are too optimistic at this stage - that you require more people, new skills - that's expected, it's all learning experience.
+You might realise that some of the features are too optimistic at this stage - that you require more people and new skills - that's expected, it's all part of the learning experience.
 
 ### Exaple project: home page
 
-I really like programming test for ThoughtWorks (well known consultancy) - create your online portfolio. It's broad, it's generic, everyone needs it. It's a good way of testing candidate abilities in a multiple ways.
+I really like programming test for ThoughtWorks (well known consultancy) - create your online portfolio. It's broad, it's generic, everyone needs it. It's a good way of testing candidate abilities in multiple ways.
 
 1) Are they creative?
 2) Are they able to work without supervision?
 3) To know their accomplishments
 
-I didn't pass this test this one but the overal experience itself was positive - they are specialists, they know it's difficult to hire experienced programmers. This might be a hint for you - market is hiring 
-
-Lessons learnt - when you want the job - go the extra mile - go above and beyond. 
+I didn't pass this test (should go extra mile, go above and beyond) this one but the experience was positive - they are specialists, they treat candidates with respect because it's never easy to hire. This might be a hint for you - market is hiring, technical skills are in high demand.
 
 ********************************
 
@@ -198,21 +195,21 @@ Have in writing, standard terms, letter of intent.
 - date of completion
 - milestone
 - assets (images, text)
-- maintenance
+- ongoing maintenance and fixes
 
-*************************
+If you have a flair for marketing these might be the source of extra income:
+- submitting website to online catalogues similar to Yellow Pages
+- managing social media profiles
 
 SIDE NOTE:
 
-I went full circle - from having clients, using that work in my portfolio, to corporate job, to building own products. Your path path probably will be different - I encourage you to take a leap of faith and starting from building your own product. A little tool that solves a problem, ideally using Lean Startup methodology - read the book by Eric Ries.
-
-*************************
-
-*******************************
+I went full circle - from having clients, using that work in my portfolio, to corporate job, to building own products. Your path path probably will be different - I encourage you to take a leap of faith and starting from building your own product. A little tool that solves a problem, ideally using "lean startup" methodology (Lean Startup" is book by Eric Ries). Even if the project isn't succesful, chances are you'll showcase it in your portfolio and reuse the code for other projects.
 
 #### Test your work
-- Chrome (most popular)
-- Internet Explorer
+It happened to me many times that it worked for me, sent it to the client and it wasn't that great. Cross-browser testing is essential.
+
+- Chrome(most popular)
+- Internet Explorer on Windows
 - Safari on iOS
 - Android browser 
 
@@ -220,18 +217,15 @@ If you don't have access to physical devices - there are online tools allowing t
 
 Chrome is the most popular browser.
 
-Historically Firefox was a dominant website for developers
-
-
-It happened to me many times that it worked for me, sent it to the client and it wasn't that great :)
+Historically Firefox was a popular browser for developers, these days Chrome is most popular across the board.
 
 #### Showcasing your work
 
-Usually what I do this time is to record 1 minute walkthrough video - me showing stuff. To record 1 minute video takes exactly 1 minute, then a few seconds to upload to Youtube, set as "unlisted" and add [unlisted] in the title so your client doesn't freak out :)
+Usually what I do this time is to record 1 minute walkthrough video - me showing stuff. To record 1 minute video takes exactly 1 minute, then a few seconds to upload to Youtube, set as "unlisted" and add [unlisted] in the title so your client doesn't freak out.
 
-(of course the privacy option is visible but not immediately obvious for everyone)
+(of course the privacy option is indicated by an icon but not immediately obvious for everyone)
 
-Recording short videos goes a long way. Sometimes I do it instead of writing email, maybe I should do this instead of writing this book? So here is what I do - quote this fragment - and if 10 people pre-pay Kickstarter style video course based on this book I'll do it. It won't be reading the stuff, it will be probably new content :)
+Recording short videos goes a long way. Sometimes I do it instead of writing email, maybe I should do this instead of writing this book? So here is what I do - quote me on that - and if 10 people pre-pay Kickstarter style video course based on this book I'll do it - genesis.re/videobook
 
 ### Code samples
 
@@ -239,7 +233,6 @@ Recording short videos goes a long way. Sometimes I do it instead of writing ema
 Majority of the employers and recruiters ask for them and I agree to that - if I was hiring I'd always require to see code samples.
 
 If you don't have it - start working on it - see projects above.
-
 
 ## Other areas of interest
 
@@ -259,11 +252,7 @@ https://en.wikipedia.org/wiki/Money_for_Nothing_(song)#Music_video
 "The groundbreaking video was the first to be aired on MTV Europe when the network launched on 1 August 1987."
 
 
-
-
 ****************** SIDENOTE
-
-
 Now the Virtual Reality is so advanced I dare to introduce a new concept:
 
 **Reality Check**
@@ -272,29 +261,26 @@ How can you define real?
 
 Elon Musk discussing "base reality", sufficiently advanced civilisation could create: https://www.youtube.com/watch?v=2KK_kzrJPS8
 
-Touring test has been passed. Now time for "REALITY CHECK" - an experiment where test subjects observe and interact with environment and their goal is to estrablish - is it a simulation or base reality?
-
-
+Touring test has been passed. Now time for **Reality Check** - an experiment where test subjects observe and interact with environment and their goal is to estrablish - is it a simulation or base reality?
 ************************
 
-#### Blockchain
+#### Blockchain + Ethereum
 
-Blockchain is the underlying piece 
+Blockchain is the underlying piece of technology powering Bitcoin. Distributed ledger - exact same copy of the database stored across multitude computers on the network. Almost impossible (search for "51% attack") to tamper with - that's the biggest asset - no government, no bank, noone really can mess with it therefore it's so resilient.
 
-
-Another good choice when learning new technology is to learn smart contracts - Ethereum, Blockchain, Solidity... At this point in time I have only a general idea what's involved but I feel intuitively that in the future people will less depend on government but will create their own jurisdictions. It is already happening and Blockchain programmers are in high demand.
+Another good choice - learn smart contracts, Ethereum,, Solidity... It is already happening and Blockchain programmers are in high demand.
 
 
 #### Data visualisation
 
-See demos on D3 page. There is much data being generated, but how to make sense out of it? Data analysis and visualisation come to the rescue.
+See demos on D3 page. There is much data being generated, but how to make sense out of it? Data analysis and visualisation come to the rescue. It's logical - more data - difficult to grasp - we need tools and skillful operators using them.
 
 
 ********************************* RANDOM WAR STORY *****************
 
-Currently I work in a job - highly regulated environemnt - so many different system and process isn't fully automated. Even the simplest change such as changing text here or there is 15 minutes.
+Currently I work in a job - highly regulated environemnt - so many different systems - granular access ("need to know" basis). Processes aren't fully automated. Even the simplest change such as changing text here or there is 15 minutes.
 
-orry if I'm using difficult workds, see glossary
+Sorry if I'm using difficult words:
 
 Project management software
 Source control repository.
@@ -323,7 +309,7 @@ Everything has been done already, many problems has been solved. Opportunities l
 - no need to develop fast-charging battery system
 - no need to worry about WiFi congfiguration and cellurar connectivty
 
-You take existing tools and use them. Standing on the shoulders of the giants.
+You take existing tools and use them. Standing on the shoulders of the giants. Use tools provided by Google, Facebook, Apple - they all work extra hard to attract developers to their ecosystem. Additional benefit of choosing your favourite platform - chances of getting hired by these companies. It's a good deal for them as well - they don't have to train you in using the internal tool - you've already proven that you are proficient.
 
 ********************************
 
@@ -333,7 +319,7 @@ Every single piece of software comes with 30 days trial. Try a few and make your
 
 <<< XKCD configure >>>
 
-Personally I don't like spending time configuring stuff. It should work out of the box, without fiddling in the settings. Very often I'm disappointed when some tool / framework / library doesn not have a working demo. It happens way too often and quite literally - I'm frustrated, I'm tired, by the time I solve the mystery I don't have much energy to use the actual product.
+Personally I don't like spending time configuring stuff. It should work out of the box, without fiddling in the settings. Very often I'm disappointed when some tool / framework / library does not have a working demo. It happens way too often and quite literally - I'm frustrated, I'm tired, by the time I solve the mystery I don't have much energy to use the actual product.
 
 If it happens to you - don't worry - I've been in a similar position infinite number of times. Trying out new thing and banging head against the wall. With experience you'll learn how to troubleshoot typical problems and how to ask better questions.
 
@@ -341,37 +327,36 @@ Quality of the demo / tutorial / example is good estimation of quality of the pr
 
 ********************************
 
-# Tools
+Know your toolbbox, choose a few tools and know them well
 
-Choose a few tools and know them well
-
-## StackOverflow
-Create your profile - you'll inevitably start using this website.'.
-Any search result for a certain coding error will get you there.
+### StackOverflow
+Create your profile - you'll inevitably start using this website.
+Any search result for a certain coding error message will get you there
 Even Google in their official documentation is linking to StackOverflow when asking for support.
 It's effectiely a "go to" place for solving technical problems.
 So get your profile set up, full stop.
 
+Hint for effective Google queries: rather then searching for "Error: calculateKittens function is undefined" remove quotes and calculateKittens from the search question. Do I need to explain why? It's unlikely anyone else were to use `calculateKittens` as the function name and you will be unlikely to find an results.
+
 #### Related topics
 
 As you start typing your question you'll be presented with some suggestions.
-
-Don't just post "here is my code, doesn't work" - mention what you have tried already what was the output - very often as you describe your attempts you'll realise some other, unexplored ways.
-
 As you provide more information about your problem, Stack Oveflow is smart enough to suggest some answers related to the topic.
 
 #### Precise communication
 
-You are describing problem to other people - need to be precise, specific.
+You are describing problem to other people over the internet, in the text form - need to be precise, specific.
 Soon you'll discover that in the process you are starting answering your own question.
 As you start explaining what have you tried, you'll  discover "but I haven't tried that" and before posting the question you'll have a chance to discover other options.
+Don't just post "here is my code, doesn't work" - mention what you have tried already what was the output - very often as you describe your attempts you'll realise some others, unexplored ways.
+
 
 #### Isolated case
 
-Don't just post 100+ lines of code.
+Don't just post 100+ lines (a few screens) of code across multiple files.
 Minimise the code that is problematic.
 It is another great exercise - simplifying the problem.
-Sometimes there are some "unrelated" unintended consequences and by reducing the problem it may start working - then you'll know the offending bits of code.
+Sometimes there are some "unrelated" unintended consequences and by reducing the problem it may start working - then you'll be much close to find offending bits of code.
 
 #### Rubber duck debugging
 
@@ -384,11 +369,13 @@ There process of talking your problem to another person - when there is no anoth
 Choose your weapon:
 - Sublime Text
 - Atom
-- Notepad++ popular among Windows programmers
-- WebStorm - developed by JetBrains
-- Visual Studio Code (FREE)
+- Notepad++ (popular among Windows programmers)
+- WebStorm
+- Visual Studio Code
 
-All of them have plugin system - do not overconfigure stuff. Make a note "something would be useful" and only if it required for the third time.
+All of them have plugin system - do not overconfigure stuff. Make a note "something would be useful" anf when you need it for the third time - now it's time to do the time investment.
+
+Pick the one that suits you best, no good or bad answers here. Sometiems there are specific IDEs (Integrated Desktop Environments) for specific languages, such as Android Studio for Android.
 
 
 ## Source control
@@ -398,7 +385,7 @@ Until you've becomme a programmer you were storing files the "regular way". In o
 (further down the line you'll observe that automated test serve a safeguard role against regressions)
 
 ### Github:
-Github is very popular but private repositories require a monthly fee. In means that only your public code can be stored for free (be cautious when storing passwords in the codebase). Other competetors occupy this niche and offer them for free private repositories: BitBucker and GitLab.
+Github is very popular but private repositories require a monthly fee. In means that only your public code can be stored for free (be cautious when storing passwords in the codebase). Other competetors occupy this niche and offer them for free private repositories: BitBucket and GitLab.
 
 Many popular open-source projects are hosted on Github - anyone can contribute code or report an issue. It is unlikely to happen at first but as your project becomes more popular, other people start using it and help you out.
 
@@ -417,25 +404,21 @@ If you feel competetive and want to participare in challenges here are some good
 - InterviewStreet
 - TopCoder
 
+These days it's not only algorithmic challenges but real-life problems - some of them are submitted by reputable companies seeking to solve their problems. Great way to level up and learn from the best in business.
+
+EAXMPLE: The other day Netflix ran $1m competition 
 
 ## Uncategorised
-- HackerX
-- HackerWall
+- HackerX: recruitment evnets
+- HackerWall: collection of handy code snippets
 - AirPair: watching people coding live! 
 - Dribble: for designers. Sometimes I push some pixels here and there but I'm not a designer.
 
+## White hat hacking and security bounties
+Pretty much every company out there offers healthy cash payments.
+
 
 ********************************
-
-#  Programming Bootcamp
-
-...if you can easily afford it. What could possibly go wrong? The reality is most of the people cannot afford thousands of dollars / pounds and several weeks out of their life.
-
-(it's not only cost of tuition but cost of the lost income)
-
-Some people take loans (banks, friends, family) to undertake such education. It is defnitely an option - using money as a tool, as an enabler.
-
-Personally I've never been to such facility but it seems legit - you need to do your own research. Make an effort to find a balanced opinion of all the participants - not only schools (marketing) or those who were successful in landing well paid jobs. Seek opinions of people who realised being a computer programmer is not their line of work.
 
 
 # Online course on Udemy, Coursera, EdX or any other platform
@@ -443,6 +426,25 @@ Personally I've never been to such facility but it seems legit - you need to do 
 See the first page.
 Low risk high reward.
 I highly recommend course by Rob Percival.
+
+Once you are done you should be able to find your first client, find a job and / or customise one of the sample projects to serve your needs and promote it.
+
+TRUISM: Great programmers are not always great marketeers. That is why successful companies consists of multidisciplinary teams.
+HINT: My typical question during a job interview is "what is the size of technical team" - that gives me a better understanding of the company's DNA and also shows that I'm more than a coding monkey, but someone who understands the ecosystem.
+
+#  Programming Bootcamp
+
+...if you can easily afford it. What could possibly go wrong? The reality is most of the people cannot afford thousands of dollars / pounds and several weeks out of their life.
+
+(it's not only cost of tuition but the opportunity cost - not making money in other ways)
+
+Some people take loans (banks, friends, family) to commence such education. It is defnitely an option - using money as a tool, as an enabler.
+
+Personally I've never been to such facility but it seems legit - you need to do your own research. Make an effort to find a balanced opinion of all the participants - not only schools (marketing) or those who were successful in landing well paid jobs. 
+
+Seek opinions of people who realised being a computer programmer is not their line of work.
+
+Do your own research, don't be lured by colorful marketing.
 
 # University
 
