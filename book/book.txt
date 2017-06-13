@@ -1,6 +1,6 @@
 ﻿How to learn coding and find a well-paid job in IT?
 
-In 2016 wrote a book about finding a job - preparing for interview, tweaking the CV - and the most common question I got - how do I learn the skills in the first place? 
+In 2016 wrote a book about finding a job - preparing for interview, tweaking the CV - and the most common question I got - how do I learn to code in the first place? 
 
 I have lifetime of experience working with computers and your way of learning will differ from mine - technology has moved forward. There are plenty of resources available - some of them are free, in reality you should invest in finding quality ones.
 
@@ -20,19 +20,23 @@ By doing the course you'll see what is it like to solve actual technical problem
 
 There is no secret to programming - the best programmers I know encounter roadblocks in their work - they have experience, knowledge, tools, process allowing them to handle them more officienly.
 
-Enough of the praise, see the reviews.
+See the reviews of the Rob Percival's course:
+
+<<< IMAGE >>>
 
 Here is the promo code too:
 
+<<< TWEET >>>
+
 The prices are so low it would be unfair to drive them any further, so now it's complete no-brainer.
 
-He has released a series of courses - choose the one that you find most appealing. Don't choose iOS if you don't have an iPhone - that would make testing somehow complicated.
+He has released a series of courses - choose the one that you find most appealing. Just don't choose iOS if you don't have an iPhone - that would make your workflow somehow complicated.
 
 ==============================
 ### SIDENOTE
 
 
-In the past couple of years there is market demand for IT workers. Government if constantly annoncing  need for STEM (science, technology, engineering, mathematics) graduades and top companies are competing for scarce talent.
+In the past couple of years there is market demand for IT workers. Government is constantly annoncing  need for STEM (science, technology, engineering, mathematics) graduades and top companies are competing for scarce talent.
 
 Back in 2005, when I was choosing my university the situation was the similar. I invested 5 years of my life into a Computer Science degree and from the time perspective I still have no idea if that was the right choice.
 
@@ -40,24 +44,21 @@ To be precise - it's more than 5 years. Once you have a degree it's typical to s
 
 *********************************
 ### SIDE NOTE
-Back in a day my father, university lecturer with PhD title was earning $10 (ten US dollars) per month. There were no passports, noone could leave the country (only those brave refugees who were claiming political asylum in other places).  I was born in 1986, the communism fell in 1989 (many consider Berlin Wall as a symbol). I don't remember these times - food rationing and empty shelves in the shops... Some people made a lot of money during the transformation - mostly those related to previous government, communist party and secret service. I'm the first generation who has the privilege to live in a free country and I try to use my time wisely.
+Back in a day my father, university lecturer with PhD title was earning $10 (ten US dollars) per month. There were no passports, noone could leave the country (only those brave refugees who were claiming political asylum in other places). I was born in 1986, the communism fell in 1989 (many consider Berlin Wall as a symbol). I don't remember these times - food rationing and empty shelves in the shops... Some people made a lot of money during the transformation - mostly those related to previous government, communist party and secret service. I'm the first generation who has the privilege to live in a free world.
 
 ********************************
 
 ### SIDENOTE
 
-I was searching for a job many times - my attitude towards work got me fired - but because I knew how to navigate the process of finding jobs and my skills were in demand - I was always re-hired. Sometimes it required tweaking my CV and telling a convincing story.. Never really understood the concept of "permament" employment... What does it mean? There are some universal laws - karma, gravity - but in a free market economy where goal of the business is to make money - to call employment "permanent" is a major misconception.
+I was searching for a job many times - my attitude towards work got me fired - but because I knew how to navigate the process of finding jobs and my skills were in demand - I was always re-hired. Sometimes it required tweaking my CV and telling a convincing story. Never really understood the concept of "permament" employment... What does it mean? There are some universal laws - intention, karma, gravity - but in a free market economy where goal of a business is to make money - to call employment "permanent" is a major misconception, a strangle linguistical concept.
 
 ("permanent" in my language means 1 month notice period")
 
-I actually wrote a book about finding jobs as an attempt of "content marketing" for the recruitment agency but I didn't succeed in that venture. "Easy money" with no higher purpose... Does not work in my reality.
+The book about finding jobs was an attempt of "content marketing" for the recruitment agency but I didn't succeed in that venture. "Easy money" with no higher purpose... Does not work in my reality.
 
-Currently I'm focusing on the ASTRALSHIP - this is the ultimate project. It will be never finished - it will be always "work in progress" - the sheer joy and energy coming from working on the chapel - IMMENSE. We own a church from 1838 into a visionary space to realise human potential and heal the planet. As much as possible we will avoid employees - only supporter, partners, collaborators compensated partially with equity. Go to our website, by the time you read this words we should be sailing!
+Currently I'm focusing on the ASTRALSHIP - this is the best outlet for my time, money and energy now right. It will be never finished - it will be always "work in progress" - the sheer joy and energy coming from working on the chapel - IMMENSE. We own a church from 1838 into a visionary space to realise human potential and heal the planet. As much as possible we will avoid employees (employee mentality sucks) - only committed supporters, partners, collaborators compensated partially with equity. Go to our website, by the time you read this words we should be sailing!
 
 While I'm focusing on the ASTRALSHIP, I want to get this piece of writting out of the door - done is better than perfect. I have a deep core belief that I can add a lot of value. If I dedicate some hours towards creating and promoting this publication and someone becomes a successful programmer - that's 8 hours per day multiplied by weeks, months and years - it means that I did something right. See also 80000hours - an organisation that helps people upgrade their careers.
-
-
-********************************
 
 
 ********************************
@@ -70,13 +71,15 @@ While I'm focusing on the ASTRALSHIP, I want to get this piece of writting out o
 * to use programming skills in your current role (becoming super efficient)
 
 The good news is - you can perform some tasks without learning how to code. There is a number of services that will give you superpowers right off the bat:
+
 #### IFTTT, Zapier
 
-Connecting, glueing various services together. If new submission to the form 
-
+Connecting various services together. If a new submission to the form then send the email. If new email with attachment save it to the Dropbox. Ever expanding list of services and potential combinations.
 
 #### Google Drive, Google Docs, Google Forms
-I just had a meeting with a lawyer and showed him option to share his documents with the clients, even when they do not have Google account. "Anyone with the link can view" - easy win. 
+I just had a meeting with a lawyer and showed him option to share his documents with the clients, even when they do not have Google account. "Anyone with the link can view" - easy win. Efficiently managing your files, having access from any location, ability to manage permissions, searching across all documents. I don't have Word on my computer, even if someone sends me .doc or .docx I open in Google Docs.
+
+(don't worry about privacy - Google is like oxygen - the most powerful company on the planet - they have a lot of reputation to lose - they are not interested in your meeting notes)
 
 #### Excel
 Google Sheets, Open Office, any other product of this kind. Input numbers, apply some built-in functions, generate good looking charts. No programming skills required.
@@ -85,29 +88,28 @@ Google Sheets, Open Office, any other product of this kind. Input numbers, apply
 Communication in the team. Super efficient, super popular, one of the fastest companies to achieve billion dollar valuation.
 
 #### Trello
-Super simple task management. Have a few lists (ie. todo, doing, done) and drag tasks between them.
+Super simple task management. Have a few lists (ie. todo, doing, done) and drag tasks between them. Versatile - practical for all sorts of projects - even as a personal TODO list. 
 
 #### Basecamp, Asana, Jira
-More advanced task management. There are so many project management tools, it just blews my mind. As if every software company wanted to reinveny the wheel and build their own. Eventually some leaders emerge and I'm naming just a few notable ones. Make sure you and your team are on the same page.
+More advanced task management. There are so many project management tools, it just blews my mind. As if every software company wanted to reinveny the wheel and build their own. Eventually some leaders emerge and I'm naming just a few notable ones. Pick and choose your favourite ones.
 
 #### Various tools
-Extracting (scraping) data from websites - import.io
-Marketing automation
-Newsletters
-Follow up emails
-Scheduling posts on FB via Buffer
+There are many tools that for free (or $5 a month) do exactly what you want try to achieve. Sometimes ability to use proper search query or knowing where to ask (Reddit, Hacker News, Twitter)
 
-There are many tools that for free (or $5 a month) do exactly what you want try to achieve
-
-
+* Extracting (scraping) data from websites via import.io
+* Marketing automation + Newsletters + Follow up emails
+* Scheduling posts on social media via Buffer
 
 ## Why everyone should be technical?
 
-Sprinkling some programming knowledge over traditional problems gives you an edge. Even knowing some programming terms allows you to better communicate with technical people. There is a number of freelancers who charge in region $10 per hour and eager (on fire) to find new client. 
+Sprinkling some programming knowledge over traditional problems gives you an edge. Even knowing some programming terms allows you to better communicate with technical people. There is a number of freelancers who charge in region $10 per hour and eager (on fire) to find new clients.
 
-Programming yes, becoming full-time programmer maybe
-I guess that's not what you wanted to hear - me encouraging you to mantain your current profession and become world class.
+**Programming yes, becoming full-time programmer maybe?**
+
+I guess that's not what you wanted to hear - me encouraging you to mantain your current profession and become super efficient at what you do.
 If you want to find a job a computer programmer only because it pays well - I'm not convinced if that is the best idea. If you are technical with a flair fo computers - go for it, however if your main motivation is to find a job - my genuine recommendation is beocome better with tehcnology and use it will at your current endeavours.
+
+<< HACKING FOR CHARITY >>
 
 ********************************
 
@@ -115,7 +117,7 @@ If you want to find a job a computer programmer only because it pays well - I'm 
 
 I work as web developer so I might be biased here - JavaScript, HTML, CSS.
 
-Working on the web is a visually pleasing experience - you can see the buttons, forms, images - website forming. 
+Working on the web is a visually pleasing experience - you can see the buttons, forms, images - website is forming and getting into shape.
 
 Is also has an immediate reward and tight feedback loop - it's easy to tell if something is working or not.
 
@@ -129,23 +131,19 @@ Programming can often be frustrating and to persevere you need to have many wins
 
 
 ### Python
-
-
 Another good choice is Python - easy to learn and widely supported.
 
 The dealbreaker about JavaScript - it is used on the web. You already have the device capable of running JavaScript out of the box - no need to install anything - if you are able to read this book, you already have a web browser.
 
-*******************************
-
 ### Become independent
 
-Choose the line of work that suits you
+Choose the line of work that suits your lifestyle.
 
-My way of thinking - to do things independently. You probably saw some pictures of guys sitting on the beach with their laptop... If your skills are valuable only as part of a larger team - say PM (Project Manager, Business Analyst) - then it will be difficult to become independent. Web development is different - pretty much every business and every person requires an online presence in one shape or another - there is a demand web development services and there is huge chance you'll find a job too, and if finding regular job is not something for you - you'll be able to work on freelance basis with your selected clients.
+My way of thinking - to do things independently. You probably saw some pictures of guys sitting on the beach with their laptop... If your skills are valuable only as part of a larger team - Project Manager, Business Analyst - then it will be difficult to become independent. Web development is different - pretty much every business and every person requires an online presence in one shape or another. There is a demand for web development services and there is a chance you'll find a job. If finding regular job is not something for you - you'll be able to work on freelance basis with your selected clients.
 
-There are many technical areas that require different mindset - such as testing, database design, system administration. My feeling is that web is most versatile and super easy to get started - if you have a computer then you have already have text editor and a browser. That's pefectly enough to get started!
+There are many technical areas that require different mindset - such as testing, database design, system administration, white hat hacking. My feeling is that web is most versatile and super easy to get started - if you have a computer then you have already have text editor and a browser. You can always build the expertise in the surrounding areas and web development is always a good start.
 
-Successful companies have teams and various methods of managing complexity. I challenge you to become independent - of course at some point you'll be dependent on your customers but the point still stands - to be able to deliver something from start to finish. It doesn't have to be next Mona Lisa, something "good enough" is good enough. To be independent and be able to do stuff without communication overhead, waiting for other people, not to mention hiring other people - massive plus.
+I challenge you to become independent - of course at some point you'll be dependent on your customers but the point still stands - to be able to deliver something from start to finish. It doesn't have to be next Mona Lisa, something "good enough" is good enough. To be independent and be able to do stuff without communication overhead, waiting for other people, not to mention hiring other people - massive plus.
 
 I suggest you have a look at Firebase. I started using them back in 2013 while they were still in private beta - they were sponsoring a hackathon (weekend event dedicated where designers and developers build stuff). In 2016 they were acquired by Google which means "we are here to stay", you can rely on them as stable platform.
 
@@ -160,11 +158,11 @@ Knowing a little bit of everyting (full stack) will give you a competetive edge,
 
 Universe rewards brawery, https://en.wikipedia.org/wiki/Fortune_favours_the_bold
 
-The best project is one that is slighly beyond your current level of ability - outside of your comfort zone - but not completely impossible. Self-driving car - not just yet. Robot following black line - more like to come to fruition.
+The best project is one that is slighly beyond your current level of ability - outside of your comfort zone - but not completely impossible. Self-driving car - maybe not just yet. Robot following black line - more like to come to fruition.
 
 It doesn't have to be realistic at first - soon you'll get a lot of feedback (either from people or technology itself) forcing you to re-asses, pivot, change strategy.
 
-You might realise that some of the features are too optimistic at this stage - that you require more people and new skills - that's expected, it's all part of the learning experience.
+You might realise that some of the features are too optimistic - that you require more people and new skills - that's expected, it's all part of the learning experience.
 
 ### Exaple project: home page
 
@@ -203,7 +201,7 @@ If you have a flair for marketing these might be the source of extra income:
 
 SIDE NOTE:
 
-I went full circle - from having clients, using that work in my portfolio, to corporate job, to building own products. Your path path probably will be different - I encourage you to take a leap of faith and starting from building your own product. A little tool that solves a problem, ideally using "lean startup" methodology (Lean Startup" is book by Eric Ries). Even if the project isn't succesful, chances are you'll showcase it in your portfolio and reuse the code for other projects.
+I went full circle - from having clients, using that work in my portfolio, to corporate job, to building own products. Your path path probably will be different - I encourage you to take a leap of faith and starting from building your own product. A little tool that solves a problem, ideally using lean startup methodology ("Lean Startup" - book by Eric Ries). Even if the project isn't succesful, chances are you'll showcase it in your portfolio and reuse the code for other projects.
 
 #### Test your work
 It happened to me many times that it worked for me, sent it to the client and it wasn't that great. Cross-browser testing is essential.
@@ -225,10 +223,9 @@ Usually what I do this time is to record 1 minute walkthrough video - me showing
 
 (of course the privacy option is indicated by an icon but not immediately obvious for everyone)
 
-Recording short videos goes a long way. Sometimes I do it instead of writing email, maybe I should do this instead of writing this book? So here is what I do - quote me on that - and if 10 people pre-pay Kickstarter style video course based on this book I'll do it - genesis.re/videobook
+Recording short videos goes a long way. Sometimes I do it instead of writing email, maybe I should do this instead of writing this book? So here is what I do - quote me on that - and if 10 people pre-pay Kickstarter style video course based on this book I'll do it. Here is the link -  https://genesis.re/videobook - 10 payments and I'll commit.
 
 ### Code samples
-
 
 Majority of the employers and recruiters ask for them and I agree to that - if I was hiring I'd always require to see code samples.
 
@@ -251,7 +248,6 @@ https://www.youtube.com/watch?v=wTP2RUD_cL0
 https://en.wikipedia.org/wiki/Money_for_Nothing_(song)#Music_video
 "The groundbreaking video was the first to be aired on MTV Europe when the network launched on 1 August 1987."
 
-
 ****************** SIDENOTE
 Now the Virtual Reality is so advanced I dare to introduce a new concept:
 
@@ -268,13 +264,11 @@ Touring test has been passed. Now time for **Reality Check** - an experiment whe
 
 Blockchain is the underlying piece of technology powering Bitcoin. Distributed ledger - exact same copy of the database stored across multitude computers on the network. Almost impossible (search for "51% attack") to tamper with - that's the biggest asset - no government, no bank, noone really can mess with it therefore it's so resilient.
 
-Another good choice - learn smart contracts, Ethereum,, Solidity... It is already happening and Blockchain programmers are in high demand.
-
+Another good choice - learn smart contracts, Ethereum, Solidity... It is already happening and blockchain programmers are in high demand.
 
 #### Data visualisation
 
 See demos on D3 page. There is much data being generated, but how to make sense out of it? Data analysis and visualisation come to the rescue. It's logical - more data - difficult to grasp - we need tools and skillful operators using them.
-
 
 ********************************* RANDOM WAR STORY *****************
 
@@ -292,7 +286,6 @@ Veryfying that fix has been applied.
 That was the super-simple example, usually changes are much involved and require testing.
 On my best day I was able to close 4 different issues.
 Small win every time - allow yourself a boost of happiness - your work is progressing.
-
 
 
 ********************************
@@ -315,7 +308,7 @@ You take existing tools and use them. Standing on the shoulders of the giants. U
 
 ### Tools
 
-Every single piece of software comes with 30 days trial. Try a few and make your own opinion - see what works for you best. Good editor or IDE (integrated development environment) will save you thousands of hours in the long run.
+Every single piece of software comes with 30 days trial. Try a few and make your own opinion - see what works for you best. 
 
 <<< XKCD configure >>>
 
@@ -325,18 +318,16 @@ If it happens to you - don't worry - I've been in a similar position infinite nu
 
 Quality of the demo / tutorial / example is good estimation of quality of the product. It's the first impression that counts and good companies simply get it!
 
-********************************
-
 Know your toolbbox, choose a few tools and know them well
 
 ### StackOverflow
 Create your profile - you'll inevitably start using this website.
-Any search result for a certain coding error message will get you there
+Any search result for a certain coding error message will get you there.
 Even Google in their official documentation is linking to StackOverflow when asking for support.
 It's effectiely a "go to" place for solving technical problems.
 So get your profile set up, full stop.
 
-Hint for effective Google queries: rather then searching for "Error: calculateKittens function is undefined" remove quotes and calculateKittens from the search question. Do I need to explain why? It's unlikely anyone else were to use `calculateKittens` as the function name and you will be unlikely to find an results.
+Hint (kind of obvious) for effective Google queries: rather then searching for "Error: calculateKittens function is undefined" remove the `calculateKittens` from the search question. Do I need to explain why? It's unlikely anyone else were to use `calculateKittens` as the function name and you will be unlikely to find an results.
 
 #### Related topics
 
@@ -350,7 +341,6 @@ Soon you'll discover that in the process you are starting answering your own que
 As you start explaining what have you tried, you'll  discover "but I haven't tried that" and before posting the question you'll have a chance to discover other options.
 Don't just post "here is my code, doesn't work" - mention what you have tried already what was the output - very often as you describe your attempts you'll realise some others, unexplored ways.
 
-
 #### Isolated case
 
 Don't just post 100+ lines (a few screens) of code across multiple files.
@@ -362,21 +352,17 @@ Sometimes there are some "unrelated" unintended consequences and by reducing the
 
 There process of talking your problem to another person - when there is no another person around - use a rubber duck instead. It's similar to StackOverflow in a way that you explain your problem in a detailed manner.
 
-
-
-
 ## Editor
-Choose your weapon:
+Good editor or IDE (integrated development environment) will save you plenty of hours in the long run. Choose your weapon:
 - Sublime Text
 - Atom
-- Notepad++ (popular among Windows programmers)
+- Notepad++ (popular among old-school Windows programmers)
 - WebStorm
 - Visual Studio Code
 
-All of them have plugin system - do not overconfigure stuff. Make a note "something would be useful" anf when you need it for the third time - now it's time to do the time investment.
+All of them have plugin system - do not overconfigure stuff. Make a note "something would be useful" and when you need it for the third time - now it's time to do the time investment.
 
 Pick the one that suits you best, no good or bad answers here. Sometiems there are specific IDEs (Integrated Desktop Environments) for specific languages, such as Android Studio for Android.
-
 
 ## Source control
 
@@ -406,13 +392,15 @@ If you feel competetive and want to participare in challenges here are some good
 
 These days it's not only algorithmic challenges but real-life problems - some of them are submitted by reputable companies seeking to solve their problems. Great way to level up and learn from the best in business.
 
-EAXMPLE: The other day Netflix ran $1m competition 
+EAXMPLE: The other day Netflix ran $1m competition to enhance their movie recommendation algorithm. 
 
-## Uncategorised
+## Some more links that happen to stick in my mind and are worthy
 - HackerX: recruitment evnets
 - HackerWall: collection of handy code snippets
 - AirPair: watching people coding live! 
-- Dribble: for designers. Sometimes I push some pixels here and there but I'm not a designer.
+- Dribble: for designers. Sometimes I push some pixels here and there but I'm not a designer
+
+If you know some other good resources let me know - I'll happily update this publication.
 
 ## White hat hacking and security bounties
 Pretty much every company out there offers healthy cash payments.
@@ -427,12 +415,14 @@ See the first page.
 Low risk high reward.
 I highly recommend course by Rob Percival.
 
+<<< LINK >>>
+
 Once you are done you should be able to find your first client, find a job and / or customise one of the sample projects to serve your needs and promote it.
 
 TRUISM: Great programmers are not always great marketeers. That is why successful companies consists of multidisciplinary teams.
 HINT: My typical question during a job interview is "what is the size of technical team" - that gives me a better understanding of the company's DNA and also shows that I'm more than a coding monkey, but someone who understands the ecosystem.
 
-#  Programming Bootcamp
+# Programming Bootcamp
 
 ...if you can easily afford it. What could possibly go wrong? The reality is most of the people cannot afford thousands of dollars / pounds and several weeks out of their life.
 
