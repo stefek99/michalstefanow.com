@@ -34,22 +34,18 @@ He has released a series of courses - choose the one that you find most appealin
 
 ==============================
 ### SIDENOTE
-
-
 In the past couple of years there is market demand for IT workers. Government is constantly annoncing  need for STEM (science, technology, engineering, mathematics) graduades and top companies are competing for scarce talent.
 
 Back in 2005, when I was choosing my university the situation was the similar. I invested 5 years of my life into a Computer Science degree and from the time perspective I still have no idea if that was the right choice.
 
 To be precise - it's more than 5 years. Once you have a degree it's typical to start working in field of study to recoup the investment. Fast forward a few years, a few promotions, a few new jobs - now I'm at "six figure" level and moving on has never been more difficult.
 
-*********************************
+========================================
 ### SIDE NOTE
 Back in a day my father, university lecturer with PhD title was earning $10 (ten US dollars) per month. There were no passports, noone could leave the country (only those brave refugees who were claiming political asylum in other places). I was born in 1986, the communism fell in 1989 (many consider Berlin Wall as a symbol). I don't remember these times - food rationing and empty shelves in the shops... Some people made a lot of money during the transformation - mostly those related to previous government, communist party and secret service. I'm the first generation who has the privilege to live in a free world.
 
-********************************
-
+========================================
 ### SIDENOTE
-
 I was searching for a job many times - my attitude towards work got me fired - but because I knew how to navigate the process of finding jobs and my skills were in demand - I was always re-hired. Sometimes it required tweaking my CV and telling a convincing story. Never really understood the concept of "permament" employment... What does it mean? There are some universal laws - intention, karma, gravity - but in a free market economy where goal of a business is to make money - to call employment "permanent" is a major misconception, a strangle linguistical concept.
 
 ("permanent" in my language means 1 month notice period")
@@ -59,13 +55,11 @@ The book about finding jobs was an attempt of "content marketing" for the recrui
 Currently I'm focusing on the ASTRALSHIP - this is the best outlet for my time, money and energy now right. It will be never finished - it will be always "work in progress" - the sheer joy and energy coming from working on the chapel - IMMENSE. We own a church from 1838 into a visionary space to realise human potential and heal the planet. As much as possible we will avoid employees (employee mentality sucks) - only committed supporters, partners, collaborators compensated partially with equity. Go to our website, by the time you read this words we should be sailing!
 
 While I'm focusing on the ASTRALSHIP, I want to get this piece of writting out of the door - done is better than perfect. I have a deep core belief that I can add a lot of value. If I dedicate some hours towards creating and promoting this publication and someone becomes a successful programmer - that's 8 hours per day multiplied by weeks, months and years - it means that I did something right. See also 80000hours - an organisation that helps people upgrade their careers.
+-----------
 
+# What is your main motivation?
 
-********************************
-
-# Million dollar question...
-
-...what is your main motivation of learning to code? Some options immediately come to mind:
+That's a million dollar question - what is your main motivation of learning to code? Some options immediately come to mind:
 * to find a job as programmer
 * to build your own startup
 * to use programming skills in your current role (becoming super efficient)
@@ -110,6 +104,7 @@ I guess that's not what you wanted to hear - me encouraging you to mantain your 
 If you want to find a job a computer programmer only because it pays well - I'm not convinced if that is the best idea. If you are technical with a flair fo computers - go for it, however if your main motivation is to find a job - my genuine recommendation is beocome better with tehcnology and use it will at your current endeavours.
 
 << HACKING FOR CHARITY >>
+<< Free code bootcamp >>
 
 ********************************
 
@@ -117,7 +112,7 @@ If you want to find a job a computer programmer only because it pays well - I'm 
 
 I work as web developer so I might be biased here - JavaScript, HTML, CSS.
 
-Working on the web is a visually pleasing experience - you can see the buttons, forms, images - website is forming and getting into shape.
+Working on the web is a visually pleasing experience - you can see the buttons, forms, images - website is forming into shape.
 
 Is also has an immediate reward and tight feedback loop - it's easy to tell if something is working or not.
 
@@ -151,9 +146,7 @@ I suggest you have a look at Firebase. I started using them back in 2013 while t
 
 Knowing a little bit of everyting (full stack) will give you a competetive edge, now you are able to delived project from start to finish and bedome independent. 
 
-********************************
 ## Set your mind on a  project
-
 (could be realistic or not)
 
 Universe rewards brawery, https://en.wikipedia.org/wiki/Fortune_favours_the_bold
@@ -362,13 +355,15 @@ Good editor or IDE (integrated development environment) will save you plenty of 
 
 All of them have plugin system - do not overconfigure stuff. Make a note "something would be useful" and when you need it for the third time - now it's time to do the time investment.
 
-Pick the one that suits you best, no good or bad answers here. Sometiems there are specific IDEs (Integrated Desktop Environments) for specific languages, such as Android Studio for Android.
+Pick one that suits you best, no good or bad answers here. Sometiems there are specific IDEs (Integrated Desktop Environments) for specific languages, such as Android Studio for Android or Visual Studio for Windows.
+
+SIDENOTE: For many people Microsoft is associated with Windows and being an evil company. In reality they have a universe of neatly integrated services - it's not just the operating system, it's the thousands of products that run on top.
 
 ## Source control
 
-Until you've becomme a programmer you were storing files the "regular way". In order to keep track of change in progamming projects we use source control - each change is recorded and we can restore revision from any point in time. It is extremely practical when something stops to wotk and you can tavel back in time to find a version that was working and find the code that is causing regression.
+Until you've becomme a programmer you were storing files the "regular way". In order to keep track of change in progamming projects we use source control - each change is recorded and we can restore revision from any point in time. It is extremely practical when something stops to work and you can tavel back in time to find a version that was working and find the code that is causing regression.
 
-(further down the line you'll observe that automated test serve a safeguard role against regressions)
+(further down the line you'll observe that automated test serve a safeguard role against regressions but that's slightly more advanced)
 
 ### Github:
 Github is very popular but private repositories require a monthly fee. In means that only your public code can be stored for free (be cautious when storing passwords in the codebase). Other competetors occupy this niche and offer them for free private repositories: BitBucket and GitLab.
@@ -403,7 +398,7 @@ EAXMPLE: The other day Netflix ran $1m competition to enhance their movie recomm
 If you know some other good resources let me know - I'll happily update this publication.
 
 ## White hat hacking and security bounties
-Pretty much every company out there offers healthy cash payments.
+Pretty much every company out there offers sizeable cash payments.
 
 
 ********************************
@@ -469,7 +464,6 @@ So you need to know some basics anyway. Or at least show some initiative and int
 
 It should be clear, it should be obvious - as an employer I would rather hire someone who has already some skills. No such thing as free launch... I was actually a bad employee - I always saw "what's in it for me" - I should have thought more about the value I provide to the company. Too bad the incentives were not aligned  in the employment contracts - all obligations, reponsibilities and no upside potential. As an employee I couldn't escape employee mentality" - doign just enough not to get fired and not engaged
 
-
 That is why in my current project (astralship.org) we don't want employees - we want to have partners, collaborators, supporters and when hiring professionals we pay 50% cash 50% equity.
 
 # Try it first
@@ -494,6 +488,7 @@ IDE
 Bootcamp
 MOOC - Massive online course
 Open-source
+
 Paradox of choice
 <<< WATCH THE TED TALK >>> - in essence - if there are 2 flavours of icecream we are much more likely to be happy with the choice.
 Mental fatigue
@@ -505,24 +500,14 @@ Mark Zuckerberg - same T-shirt.
 I'm having same breakfast everyday so that I preserve mental energy for moments where it really matters.
 
 
-
-******************************
-
-
-
-
-
-
-
-
-
-
 ********************************
 
 In the world that takes advantage
 BE REBELIOUS - BE HAPPY
 
 ********************************
+
+
 
 
 
