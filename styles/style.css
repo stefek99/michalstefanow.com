@@ -121,7 +121,7 @@ footer {
   height: 100%;
   position: absolute;
   transform-style: preserve-3d;
-  transition: transform 20s linear; }
+  transition: transform 40s linear; }
 
 #cube figure {
   display: block;
