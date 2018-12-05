@@ -1,0 +1,2332 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Oh__BIw8VnPzgrroYMjQUPpYJxw\"",
+ "nextPageToken": "CJYBEAA",
+ "prevPageToken": "CGQQAQ",
+ "pageInfo": {
+  "totalResults": 155,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/wacKgRD9XddvMjnsqTdba8yzVzs\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmVldXVHLW54VlBB",
+   "snippet": {
+    "publishedAt": "2016-12-18T18:00:42.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Restarting - relacje uczestników",
+    "description": "---------------------------------------www.nelumbo.pl----------------------------------------\n-----------------------------------www.totalhealing.com---------------------------------\n\nRealizacja: Tomek Pawlik",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/eeuuG-nxVPA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/eeuuG-nxVPA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/eeuuG-nxVPA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/eeuuG-nxVPA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/eeuuG-nxVPA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 100,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "eeuuG-nxVPA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "eeuuG-nxVPA",
+    "videoPublishedAt": "2016-12-18T18:00:42.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/nCsbfZNjC6Wz8w0tpqoEyaCdaTc\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLldsNWYzUFJhZy13",
+   "snippet": {
+    "publishedAt": "2016-11-28T23:43:14.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Lęk przed OCENĄ, jak sobie radzić",
+    "description": "Witaj, nazywam się Izabela Kopaniszyn. Jestem psychologiem transpersonalnym, ze stopniem doktora socjologii. Założyłam Nelumbo Institute True Self Inquiry. Jestem też autorką książki \"Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka (...)\". Opracowałam autorską metodę szybkich zmian, zwaną Restartingiem®. Pracuję także od wielu lat metodą ustawień hellingerowskich, które nazywam Mandalami Systemowymi. \n\n--------------------\nW tym filmiku radzę jak można przekroczyć lęk przed tym, jak oceniają nas inni. To, co socjologia nazywa \"jaźnią odzwierciedloną\" a psychologia \"superego\" sprawia wiele problemów w swobodnej ekspresji swojego istnienia i tańcu zwanym życiem.\n\n------------------\nJeżeli chcesz wziąć udział w prowadzonych przez Nelumbo Institute sesjach, ceremoniach Ayahuasca lub warsztatach albo umówić się ze mną na sesję skype, napisz na nelumbo.institute@gmail.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Wl5f3PRag-w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Wl5f3PRag-w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Wl5f3PRag-w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 101,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Wl5f3PRag-w"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Wl5f3PRag-w",
+    "videoPublishedAt": "2016-11-28T23:43:14.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/FVh3ezJlhajpMpYPR3PqokHqOXM\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLnljYW5pNGdhVkNr",
+   "snippet": {
+    "publishedAt": "2016-10-17T22:26:41.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Związek, Ona i On - Instrukcja obsługi",
+    "description": "Witaj, nazywam się Izabela Kopaniszyn. Jestem psychologiem transpersonalnym, ze stopniem doktora socjologii. Założyłam Nelumbo Institute True Self Inquiry. Jestem też autorką książki \"Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka (...)\". Opracowałam autorską metodę szybkich zmian, zwaną Restartingiem®. Pracuję także od wielu lat metodą ustawień hellingerowskich, które nazywam Mandalami Systemowymi. \n\n--------------------\nTen filmik jest rejestracją spotkania w Krakowie 3 października 2016 w klubie Pauza in Garden. Rozmawiam z Markiem i Agnieszką Palkami o tym, w czym tkwi tajemnica udanych relacji mężczyzny i kobiety. Dlaczego tak często trudno nam się porozumieć? Co można zrobić, aby nasz związek nie tylko przetrwał ale też był harmonijny? \n------------------\nJeżeli chcesz wziąć udział w prowadzonych przez Nelumbo Institute sesjach, ceremoniach Ayahuasca lub warsztatach albo umówić się ze mną na sesję skype, napisz na nelumbo.institute@gmail.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ycani4gaVCk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ycani4gaVCk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ycani4gaVCk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ycani4gaVCk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ycani4gaVCk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 102,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ycani4gaVCk"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ycani4gaVCk",
+    "videoPublishedAt": "2016-10-17T22:26:41.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/T6cQR7gLXqz6LDTcSUIrbidXbk0\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLjZjNmpsdlkwUVNN",
+   "snippet": {
+    "publishedAt": "2016-10-15T16:45:03.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Wszechświat w sercu, czyli 40 lat zen w 1 tydzień",
+    "description": "Witaj, nazywam się Izabela Kopaniszyn. Jestem psychologiem transpersonalnym, ze stopniem doktora socjologii. Założyłam Nelumbo Institute True Self Inquiry. Jestem też autorką książki \"Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka (...)\". Opracowałam autorską metodę szybkich zmian, zwaną Restartingiem®. Pracuję także od wielu lat metodą ustawień hellingerowskich, które nazywam Mandalami Systemowymi. \n\n--------------------\nTen filmik jest rejestracją spotkania w Krakowie 10 października 2016.  Rozmawiam tu z Sylwią Kocoń na temat skutków treningu fal mózgowych alfa w Biocybernaut Institute i możliwości zwiększania w pełni wykorzystanego potencjału ludzkiego mózgu. Granice świadomości, eksploracja, poznanie, doświadczanie, wszechświat zamknięty w kilku metrach komory treningowej to niektóre z tematów naszej rozmowy.\n------------------\nJeżeli chcesz wziąć udział w prowadzonych przez Nelumbo Institute sesjach, ceremoniach Ayahuasca lub warsztatach albo umówić się ze mną na sesję skype, napisz na nelumbo.institute@gmail.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6c6jlvY0QSM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6c6jlvY0QSM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6c6jlvY0QSM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/6c6jlvY0QSM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 103,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "6c6jlvY0QSM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "6c6jlvY0QSM",
+    "videoPublishedAt": "2016-10-15T16:45:03.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/8-yhdTG0Fak_Dd0dr2A7NmWkvXM\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLnVIU0hwV3BaTmFv",
+   "snippet": {
+    "publishedAt": "2016-08-12T14:03:13.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Samopoznanie - ścieżka \"neti-neti\"",
+    "description": "Witaj, nazywam się Izabela Kopaniszyn. Jestem psychologiem transpersonalnym, ze stopniem doktora socjologii. Założyłam Nelumbo Institute True Self Inquiry. Jestem też autorką książki \"Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka (...)\". Opracowałam autorską metodę szybkich zmian, zwaną Restartingiem®. Pracuję także od wielu lat metodą ustawień hellingerowskich, które nazywam Mandalami Systemowymi. \n--------------------\nTen filmik jest rejestracją spotkania w sierpniu 2016, w ośrodku buddyjskim w Falenicy. Mówię tutaj o samopoznaniu jako drodze rozwoju duchowego i wykorzystaniu na tej drodze metody \"neti-neti\", czyli inaczej \"nie to - nie to\". Jeżeli przestajemy uznawać, że jakiekolwiek fenomeny, zdarzenia, słowa, doświadczenia są \"o nas\" wówczas w tej przestrzeni czystej obserwacji pojawia się akceptacja tego, co jest. Znika potrzeba tworzenia tożsamości, kompulsja łączenia czegoś ze sobą przez awersję lub pożądanie. \n------------------\nJeżeli chcesz wziąć udział w prowadzonych przez Nelumbo Institute sesjach, ceremoniach Ayahuasca lub warsztatach albo umówić się ze mną na sesję skype, napisz na nelumbo.institute@gmail.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uHSHpWpZNao/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uHSHpWpZNao/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uHSHpWpZNao/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/uHSHpWpZNao/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/uHSHpWpZNao/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 104,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "uHSHpWpZNao"
+    }
+   },
+   "contentDetails": {
+    "videoId": "uHSHpWpZNao",
+    "videoPublishedAt": "2016-08-12T14:03:13.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/9Mloyqyqk_TWXHUkZ7rtfxi6nvw\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmNWdGtlTDRpdnow",
+   "snippet": {
+    "publishedAt": "2016-08-08T09:39:36.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Sacrum, psychoterapia, szamanizm, rośliny mocy część 3",
+    "description": "Sacrum, psychoterapia, szamanizm, rośliny mocy. Wywiad Anny Zadrożnej z dr Izabelą Kopaniszyn, cz. 3. Więcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cVtkeL4ivz0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cVtkeL4ivz0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cVtkeL4ivz0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/cVtkeL4ivz0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 105,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "cVtkeL4ivz0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "cVtkeL4ivz0",
+    "videoPublishedAt": "2016-08-08T09:39:36.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/puX3pNKytheUMzmSpbspGLr2FWM\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLnV6QTVnV1NtVlpZ",
+   "snippet": {
+    "publishedAt": "2016-08-08T09:16:10.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Sacrum, psychoterapia, szamanizm, rośliny mocy część 2",
+    "description": "Sacrum, psychoterapia, szamanizm, rośliny mocy. Wywiad Anny Zadrożnej z dr Izabelą Kopaniszyn, cz. 2, Więcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uzA5gWSmVZY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uzA5gWSmVZY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uzA5gWSmVZY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/uzA5gWSmVZY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 106,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "uzA5gWSmVZY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "uzA5gWSmVZY",
+    "videoPublishedAt": "2016-08-08T09:16:10.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/QFM_Ty37KE6fy2e7wCZi54MEFt0\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLnVQZWppU2o2eDVR",
+   "snippet": {
+    "publishedAt": "2016-08-08T07:57:50.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Sacrum, psychoterapia, szamanizm, rośliny mocy, część 1",
+    "description": "Witaj, nazywam się Izabela Kopaniszyn. Jestem psychologiem transpersonalnym, ze stopniem doktora socjologii. Założyłam Nelumbo Institute True Self Inquiry. Jestem też autorką książki \"Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka (...)\". Opracowałam autorską metodę szybkich zmian, zwaną Restartingiem®. Pracuję także od wielu lat metodą ustawień hellingerowskich, które nazywam Mandalami Systemowymi. \n--------------------\nTo nagranie jest rejestracją wywiadu przeprowadzonego ze mną przez Annę Zadrożną, antropologa i badaczkę zwyczajów związanych z używaniem substancji psychoaktywnych w celu poszerzenia percepcji, uzdrowienia, czy też rozmów z istotami z innych wymiarów. Mówimy o ceremoniach Ayahuasca prowadzonych w Portugalii, o uzdrowieniach dokonywanych podczas tych ceremonii oraz o stosowaniu metod zachodniej psychoterapii w połączeniu z poszerzonymi stanami świadomości.\n------------------\nJeżeli chcesz wziąć udział w prowadzonych przez Nelumbo Institute sesjach, ceremoniach Ayahuasca lub warsztatach albo umówić się ze mną na sesję skype, napisz na nelumbo.institute@gmail.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uPejiSj6x5Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uPejiSj6x5Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uPejiSj6x5Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/uPejiSj6x5Q/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 107,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "uPejiSj6x5Q"
+    }
+   },
+   "contentDetails": {
+    "videoId": "uPejiSj6x5Q",
+    "videoPublishedAt": "2016-08-08T07:57:50.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/YE2lhx7uvRbCGMFLQApwuATBSMk\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLkhYb09fWXJFQkpB",
+   "snippet": {
+    "publishedAt": "2016-08-08T05:03:46.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Dr Izabela Kopaniszyn - Panel on Consciousness, la consapevolezza",
+    "description": "Dr Izabela Kopaniszyn - Panel on Consciousness, Rome.\nTranslating - Jonas di Gregorio. For more go to www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HXoO_YrEBJA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HXoO_YrEBJA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HXoO_YrEBJA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/HXoO_YrEBJA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 108,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "HXoO_YrEBJA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "HXoO_YrEBJA",
+    "videoPublishedAt": "2016-08-08T05:03:46.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Ksgr13yCCvgO6cH1EhCK9iQ8YMg\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLi1LNGMxeEh4dFJN",
+   "snippet": {
+    "publishedAt": "2016-08-05T15:44:06.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "20 sto-sekundowy oddech, twoje relacje z obfitością",
+    "description": "Nelumbo Institute True Self Inquiry przedstawia ćwiczenie oddechowe służące biegłemu kierowaniu energią. Sposób, w jaki oddychamy jest dokładnym i pełnym narzędziem diagnostycznym naszych gier energetycznych, tego co robimy z życiem, z praną, z seksualnością i z obfitością. Kierowanie oddechem to kierowanie swoim życiem. Tutaj uczymy jak wyrównać wszystkie deficyty energetyczne.\n\nwww.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-K4c1xHxtRM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-K4c1xHxtRM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-K4c1xHxtRM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-K4c1xHxtRM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-K4c1xHxtRM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 109,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-K4c1xHxtRM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "-K4c1xHxtRM",
+    "videoPublishedAt": "2016-08-05T15:44:06.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/TEpwwnR2scM_yHL-_jlydbBx-Lc\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmgtNHNkcnhPU1Vj",
+   "snippet": {
+    "publishedAt": "2016-08-05T15:46:34.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "NAJSZYBSZE DOŚWIADCZENIE PUSTKI - Jesteś!",
+    "description": "Ta ekstremalnie krótka dynamiczna medytacja pozwoli Ci natychmiast i bez koncepcji odczuć stan pozbawiony myślenia i intencji, a jednocześnie... w pełny obecny i radosny. Tybetańska praktyka Wadżry jest sposobem stosowanych od wieków przez mnichów w celu szybkiego \"zrestartowania\" umysłu. Stajesz, wstrzymujesz oddech, padasz. To wszystko. Enjoy & łapki w górę!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/h-4sdrxOSUc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/h-4sdrxOSUc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/h-4sdrxOSUc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/h-4sdrxOSUc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/h-4sdrxOSUc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 110,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "h-4sdrxOSUc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "h-4sdrxOSUc",
+    "videoPublishedAt": "2016-08-05T15:46:34.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ZH4PsfNOoEqqGL_4QOIwJYo0rpg\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmZzWE1PUnU1ZzNF",
+   "snippet": {
+    "publishedAt": "2016-08-02T02:21:47.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Nelumbo, Studium Mandali Systemowych i Psychosomatyki",
+    "description": "Roczne Studium Mandali Systemowych i Psychosomatyki, prowadzone w latach 2015-2016. Jedyny kurs łączący naukę ustawień systemowych z wiedzą psychosomatyczną. Prowadzący: dr Izabela Kopaniszyn, Rinaldo Betkiewicz. Rozwinięciem Studium jest pierwsza Europejska Szkoła Psychologii Transpersonalnej. Na temat zakresu, tematyki oraz założeń programowych Szkoły można przeczytać na www.nelumbo.pl\n\nRealizacja filmu: Tomek Pawlik",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fsXMORu5g3E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fsXMORu5g3E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fsXMORu5g3E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/fsXMORu5g3E/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/fsXMORu5g3E/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 111,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fsXMORu5g3E"
+    }
+   },
+   "contentDetails": {
+    "videoId": "fsXMORu5g3E",
+    "videoPublishedAt": "2016-08-02T02:21:47.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/au9nDmXGbI47PRnAkD0P9_1zC2Y\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLkZsejZkakZ6dDJr",
+   "snippet": {
+    "publishedAt": "2016-02-13T10:10:46.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Innocence game. By Easy Grace (Izabela Kopaniszyn)",
+    "description": "\"Innocence Game\" by Easy Grace (dr Izabela Kopaniszyn) is been read by the author, the founder of Nelumbo Institute True Self Inquiry. More about Easy and Nelumbo Institute: www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Flz6djFzt2k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Flz6djFzt2k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Flz6djFzt2k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Flz6djFzt2k/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Flz6djFzt2k/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 112,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Flz6djFzt2k"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Flz6djFzt2k",
+    "videoPublishedAt": "2016-02-13T10:10:46.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/V1MNARhY9Z3DMyuZExjJvWxPDqQ\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLnhqVUZCQUpxY2lJ",
+   "snippet": {
+    "publishedAt": "2016-02-12T21:45:28.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Gra w niewinność. Tekst własny czyta: Izabela Kopaniszyn (Easy Grace)",
+    "description": "\"Gra w niewinność\" - tekst własny czyta Easy Grace, dr Izabela Kopaniszyn, założycielka Instytutu Nelumbo True Self Inquiry. Więcej o Easy oraz o Instytucie Nelumbo możecie dowiedzieć się na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xjUFBAJqciI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xjUFBAJqciI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xjUFBAJqciI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/xjUFBAJqciI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/xjUFBAJqciI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 113,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "xjUFBAJqciI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "xjUFBAJqciI",
+    "videoPublishedAt": "2016-02-12T21:45:28.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/KQ68e-k8A1e9OC0vATWYMO6gc-Q\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLllpMExKWjlnM2RF",
+   "snippet": {
+    "publishedAt": "2016-01-05T23:02:56.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "NELUMBO INSTITUTE, nasze przesłanie",
+    "description": "Film opowiada o naszej pasji i pracy jako twórców Instytutu Nelumbo w Polsce, w Portugalii i innych miejscach na świecie. O ludziach, którzy przychodzą do nas i ich doświadczaniu siebie. \n\nO odkrywaniu Kim naprawdę Jesteśmy i o co w tym wszystkim chodzi. O przepływach jedności i miłości w trakcie ustawień systemowych, Restartingu®, czy podczas ceremonii Ayahuasca na plaży… \n\nMówimy o ty, że jesteśmy Tym Samym Oceanem w różnorodności jego fal…Wiemy, że przychodząc do nas, przyjdziesz do Siebie.\n________________________\n\nThe film tells the story about passion and work of Nelumbo Institute  in Poland, Portugal and other places. About people and their experience of Themselves. About discovering who we really are, regardless of whether we feel the flow of unity during the Mandala System or Restarting Group or during Ayahuasca Ceremony on the beach ... \n\nWe are the Same Ocean in the diversity of its waves ... We are sure  that coming to us makes you comming to Yourself!\n\nwww.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Yi0LJZ9g3dE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Yi0LJZ9g3dE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Yi0LJZ9g3dE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Yi0LJZ9g3dE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Yi0LJZ9g3dE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 114,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Yi0LJZ9g3dE"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Yi0LJZ9g3dE",
+    "videoPublishedAt": "2016-01-05T23:02:56.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/aoJkTGr2mPDA5kEKCWdrSFjZStg\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLldFOGxMX1IzZTdN",
+   "snippet": {
+    "publishedAt": "2015-12-25T20:57:38.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Metoda Berta Hellingera, relacja uczestnika ustawień",
+    "description": "Uczestnik ustawień w Instytucie Nelumbo opowiada o swoich doświadczeniach po tym, jak brał udział w procesie po raz pierwszy. Ustawienia rodzinne, biznesowe i na podosobowości mogą zmienić życie, realnie poprawić relacje ze sobą i z bliskimi. Nierzadkie są przypadki wyzdrowień, pojednań i rozwoju biznesu, których nie można wytłumaczyć inaczej, niż potężnym oddziaływaniem miłości i jedności serc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WE8lL_R3e7M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WE8lL_R3e7M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WE8lL_R3e7M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/WE8lL_R3e7M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/WE8lL_R3e7M/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 115,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "WE8lL_R3e7M"
+    }
+   },
+   "contentDetails": {
+    "videoId": "WE8lL_R3e7M",
+    "videoPublishedAt": "2015-12-25T20:57:38.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/db8s4VFfKAvkHRxT7klojtm1lzU\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmRnaTNVSkh0b3cw",
+   "snippet": {
+    "publishedAt": "2015-11-09T07:44:56.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "AYAHUASCA - o co chodzi?",
+    "description": "Easy Grace (dr Izabela Kopaniszyn), założycielka Nelumbo Institute True Self Inquiry z siedzibą w Portugalii opowiada o oczyszczającej mocy tradycyjnej peruwiańskiej mieszanki roślin, zwanej Ayahuascą. O oczyszczeniu z niepotrzebnych koncepcji, zrzuceniu kłamstwa umysłu, odrywaniu na nowo Kim Jesteś.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dgi3UJHtow0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dgi3UJHtow0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dgi3UJHtow0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/dgi3UJHtow0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 116,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "dgi3UJHtow0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "dgi3UJHtow0",
+    "videoPublishedAt": "2015-11-09T07:44:56.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/lnCJHeBjjx2CB-9sOeo2OPO2clU\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLkNyVXlHeDVUaS1v",
+   "snippet": {
+    "publishedAt": "2015-11-09T00:16:54.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "MANDALE SYSTEMOWE, ustawienia Hellingera - czym są?",
+    "description": "Ustawienia rodzinne, biznesowe, zdrowotne i na podosobowości. Prowadzi Easy Grace, dr Izabela Kopaniszyn, założycielka Instytutu Nelumbo True Self Inquiry. Działanie w polu jako sposób udrażniania kanałów energetycznych i odblokowywania przepływu miłości w systemie.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CrUyGx5Ti-o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CrUyGx5Ti-o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CrUyGx5Ti-o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/CrUyGx5Ti-o/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/CrUyGx5Ti-o/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 117,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "CrUyGx5Ti-o"
+    }
+   },
+   "contentDetails": {
+    "videoId": "CrUyGx5Ti-o",
+    "videoPublishedAt": "2015-11-09T00:16:54.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/3W_wGg__AKM0eAWyPFh4kROsVhs\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLlJteFMwTGVSSmJz",
+   "snippet": {
+    "publishedAt": "2015-11-06T21:45:07.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "RESTARTING - czym jest i jak działa?",
+    "description": "Restarting jako metoda autorska Easy Grace, dr Izabeli Kopaniszyn,  założycielka Instytutu  Nelumbo True Self Inquiry. Terapia transpersonalna, której celem jest maksymalne otworzenie wrót percepcji na tego, kto doświadcza rzeczywistości. Jak pozbyć się blokad i ograniczeń? Jak sprawić, że tańczysz swój taniec z lekkością?",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RmxS0LeRJbs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RmxS0LeRJbs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RmxS0LeRJbs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/RmxS0LeRJbs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/RmxS0LeRJbs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 118,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "RmxS0LeRJbs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "RmxS0LeRJbs",
+    "videoPublishedAt": "2015-11-06T21:45:07.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/e1HF-1F0Ly-quigFtgULBqNn-Is\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLnJyTWFlMjl5MnJ3",
+   "snippet": {
+    "publishedAt": "2015-09-06T13:00:02.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Nelumbo-Combo Intensive 2015, LOVE WITHIN US",
+    "description": "A one week Intensive in Portugal on the Silver Coast, near Lizbon. Ayahuasca on beach, family and other constelations, restarting group sessions, satsangs, relax, meditations, fun, joy, chilling and other heart opening activities. For more information please look at the website www.nelumbo.pl\n\nTygodniowy Nelumbo-Combo Intensive w Portugalii, na wybrzeżu Silver Coast, w okolicach Lizbony. Ayahuasca na plaży, ustawienia rodzinne i nie tylko, restarting grupowy, satsangi, relaks, medytacje, radość, zabawa, odpoczynek i inne otwierające serca  aktywności. Więcej informacji na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rrMae29y2rw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rrMae29y2rw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rrMae29y2rw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 119,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "rrMae29y2rw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "rrMae29y2rw",
+    "videoPublishedAt": "2015-09-06T13:00:02.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Nq8C5GBthGNNMS17yiH0HH2CAnI\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLkFTS3llTG9HNEVN",
+   "snippet": {
+    "publishedAt": "2015-07-02T10:43:45.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "ZMIANA NELUMBO - LOTOS ZDROWIA ZAKWITA! - konkurs",
+    "description": "Prezentacja Moniki opowiada o przemianie, która dotyczy najgłębszych relacji z życiem i śmiercią, zdrowiem i chorobą, z miłością do siebie i innych...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ASKyeLoG4EM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ASKyeLoG4EM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ASKyeLoG4EM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 120,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ASKyeLoG4EM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ASKyeLoG4EM",
+    "videoPublishedAt": "2015-07-02T10:43:45.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/DvuhXrdpi0Z4wEQ12rzrFVQkbAw\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmQ5WXl6LVdFaUFv",
+   "snippet": {
+    "publishedAt": "2015-06-26T23:00:22.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Kim jest Obserwator?",
+    "description": "Film przysłany na konkurs \"Zmiana Nelumbo 2014/2015\". Autorka opowiada o sobie widzianej oczyma Obserwatora. Oto jej komentarz: \"Kochani, bardzo dziękuję za przypomnienie o konkursie i wydłużeniu terminu. Długo zastanawiałam się nad tym, na czym polegała moja zmiana, gdyż była na tyle rozciągnięta w czasie, a jednocześnie dalej trwa,że trudno mi ją było jednoznacznie zdefiniować. Na początku 2014 po raz kolejny zostałam matką, sama tak do końca jeszcze nie wiedząc, jak nią naprawdę być. Moja wewnętrzna kobieta, a jednocześnie kreatywność domagały się uznania i nie podążania za stworzonym wizerunkiem. Tak też wraz z kolejnym stworzeniem zaproszonym do mojego życia, podążyłam za swoją zmianą, która czekała na mnie uśpiona przez pracę, cele, materialne pragnienia i całą masę obaw. Moje spotkanie z Wami pozwoliło mi w pełni zrozumieć co tam we mnie woła i podążyć za tym. Pozwoliło wysłuchać wewnętrzną kobietę, która czekała, aż w pełni dotrze do mnie to co mnie ciągnęło w dół i odciągało od zastanowienia się kim jestem. Dzięki Wam, zrozumiałam, to co jest ego i że wykreowałam sobie siebie, którą nie jestem. Obudziłam wewnętrzną kreatywność i pozwoliłam jej w pełni wypłynąć na powierzchnie dając jej czas, którego poprzez ciągłe robienie wielu rzeczy na raz nie miałam. Tak oto pogodziłam się z tym, że to co naprawdę kocham robić siedzi w sercu a nie w głowie. Zrezygnowawszy z pracy i oddzielając się od wizerunku, który sobie wykreowałam poprzez zrezygnowanie z funkcji, których się podejmowałam, oddałam się obserwacji życia. Dzięki temu, stworzyłam ten film. Wiem, że moja transformacja trwa cały czas, jednak myślę, że tzw breaking point za mną.\"",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/d9Yyz-WEiAo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/d9Yyz-WEiAo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/d9Yyz-WEiAo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/d9Yyz-WEiAo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 121,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "d9Yyz-WEiAo"
+    }
+   },
+   "contentDetails": {
+    "videoId": "d9Yyz-WEiAo",
+    "videoPublishedAt": "2015-06-26T23:00:22.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gL9Ua11U360B4weu-aLHKR5XOvg\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLjVQNzNXYmlBVlRz",
+   "snippet": {
+    "publishedAt": "2015-06-26T22:45:38.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "ROŚLINY MOCY W PSYCHOTERAPII - wykład Easy Grace i Gucia na UJ",
+    "description": "Wykład psycholog transpersonalnej, Easy Grace (dr Izabeli Kopaniszyn) oraz uzdrowiciela Gucia w ramach konferencji \"Rośliny mocy w psychoterapii\" zorganizowanej przez Koło Naukowe Antropologii Transpersonalnej Uniwersytetu Jagiellońskiego. Tematy: rośliny mocy, doświadczenia psychodeliczne a psychoterapia, medytacja, poszerzone stany świadomości, True Self Inquiery, ayahuasca, ego, leczenie jadem combo i inne.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5P73WbiAVTs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5P73WbiAVTs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5P73WbiAVTs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/5P73WbiAVTs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 122,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "5P73WbiAVTs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "5P73WbiAVTs",
+    "videoPublishedAt": "2015-06-26T22:45:38.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/eQEl3SbqrqxfkaZ6of1_F0DoOO8\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLk1zc0RuV3BVNzBR",
+   "snippet": {
+    "publishedAt": "2015-06-23T21:19:57.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "ZMIANA - PIENIĄDZE ZAWSZE PŁYNĄ! - konkurs NELUMBO",
+    "description": "Marek opowiada o swojej przemianie zainspirowanej współpracą z Instytutem Nelumbo. Odkrywa, że pieniądz to energia, która kocha ruch, która zawsze płynie, tylko że nie zawsze do ciebie... Marek dzieli się swoim doświadczeniem radości z pozwolenia sobie na obfitość oraz obserwacją rzeczywistości jako lustra umysłu, które niezmiennie odpowiada na nasze przekonania. Pokazuje jak osiągnąć istotną zmianę w życiu i pozostać konsekwentnym jej kreatorem.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MssDnWpU70Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MssDnWpU70Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MssDnWpU70Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/MssDnWpU70Q/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/MssDnWpU70Q/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 123,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "MssDnWpU70Q"
+    }
+   },
+   "contentDetails": {
+    "videoId": "MssDnWpU70Q",
+    "videoPublishedAt": "2015-06-23T21:19:57.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/xo3B1tj8MlJYFdqNTwpOjw8kpY0\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLm55QXNvVnhkUUJB",
+   "snippet": {
+    "publishedAt": "2015-06-22T14:30:00.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Jak tworzyć udane relacje",
+    "description": "Odcinek bloga dla kobiet STRAŻNICZKA KWIATU prowadzonego przez Easy Grace, dr Izabelę Kopaniszyn. O związkach mężczyzn i kobiet, podstawowych wyzwaniach i sposobach komunikacji, które najlepiej sprzyjają porozumieniu i rozwijaniu uczuć empatii, radości i ekstazy.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nyAsoVxdQBA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nyAsoVxdQBA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nyAsoVxdQBA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/nyAsoVxdQBA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 124,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "nyAsoVxdQBA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "nyAsoVxdQBA",
+    "videoPublishedAt": "2015-06-22T14:30:00.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/HlAZrIiBcKBqsmTzIaoUDVFOYbE\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLm9UdkVTY3ViWGlN",
+   "snippet": {
+    "publishedAt": "2015-06-22T13:54:22.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "TRENING RELAKSACYJNY - PRAKTYKA by Easy Grace",
+    "description": "Podstawy relaksacji i medytacji. Prowadzi Easy Grace, dr Izabela Kopaniszyn, założycielka Instytutu Nelumbo True Self Inquiry, uczennica Moojiego, life coacher, psycholog transpersonalna. Instytut Nelumbo prowadzi sesje Restartingu® (intensywnej terapii grupowej), ceremonie Ayahuasca oraz Mandale Systemowe® (terapia systemowa, konstelacje metodą Berta Hellingera). Siedziba główna Instytutu Nelumbo znajduje się w Portugalii na Silver Coast, niedaleko Lizbony. Zapraszamy na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oTvEScubXiM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oTvEScubXiM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oTvEScubXiM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/oTvEScubXiM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 125,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "oTvEScubXiM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "oTvEScubXiM",
+    "videoPublishedAt": "2015-06-22T13:54:22.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/0oBlGnTUzAyhBRHmQHJxUKRqwBQ\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLkZkLTVYVGdVR0pz",
+   "snippet": {
+    "publishedAt": "2015-06-22T13:41:03.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "TRENING RELAKSACYJNY - WSTĘP by Easy Grace",
+    "description": "Podstawy relaksacji i medytacji. Prowadzi Easy Grace, dr Izabela Kopaniszyn, założycielka Instytutu Nelumbo True Self Inquiry, uczennica Moojiego, life coacher, psycholog transpersonalna. Instytut Nelumbo prowadzi sesje Restartingu® (intensywnej terapii grupowej), ceremonie Ayahuasca oraz Mandale Systemowe® (terapia systemowa, konstelacje metodą Berta Hellingera). Siedziba główna Instytutu Nelumbo znajduje się w Portugalii na Silver Coast, niedaleko Lizbony. Zapraszamy na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Fd-5XTgUGJs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Fd-5XTgUGJs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Fd-5XTgUGJs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Fd-5XTgUGJs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 126,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Fd-5XTgUGJs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Fd-5XTgUGJs",
+    "videoPublishedAt": "2015-06-22T13:41:03.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/MPjT-_cIGtrBq_DkcbdpObjVL_A\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLk1SYk9xYU5EZHRB",
+   "snippet": {
+    "publishedAt": "2015-06-22T06:50:32.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "EGO - sługa czy dyktator? - spotkanie autorskie",
+    "description": "Spotkanie z Easy Grace w księgarni CUD w Krakowie. Rozmowa na temat mechanizmów działania ego. Dr Izabela Kopaniszyn jest założycielką Instytutu Kreowania Rzeczywistości Alternatywnych Nelumbo. Event zgromadził czytelników książki: \"Ja czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka i o kilku prostych sposobach wyleczenia się z choroby 'ja'\".",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MRbOqaNDdtA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MRbOqaNDdtA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MRbOqaNDdtA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/MRbOqaNDdtA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 127,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "MRbOqaNDdtA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "MRbOqaNDdtA",
+    "videoPublishedAt": "2015-06-22T06:50:32.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/vEDmCg-EqqRjDeEAbkvI6BOzcLU\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLlFZSXVNczNHblBJ",
+   "snippet": {
+    "publishedAt": "2015-06-21T23:52:26.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Cud przemiany w motyla - konkurs Nelumbo na zmianę roku",
+    "description": "Wzruszająca, szczera opowieść na temat osobistej przemiany w wyniku szeregu doświadczeń i wglądów zdobytych podczas sesji i warsztatów w Instytucie Nelumbo True Self Inquiry. Sylwia dzieli się swoimi uczuciami i mówi o intensywnych procesach, które zmieniły jej życie ze stanu pełnego samooskarżania i depresji w codzienny zachwyt cudem istnienia. Mówi także o wzięciu odpowiedzialności za związek z mężem i o ich wspólnej pracy jako pary dla dobra całej rodziny, która zaczęła cieszyć się wolnością, szanując wzajemną obecność i wymianę oraz odrzucając pretensje i oskarżenia na rzecz akceptacji i miłości.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QYIuMs3GnPI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QYIuMs3GnPI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QYIuMs3GnPI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 128,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "QYIuMs3GnPI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "QYIuMs3GnPI",
+    "videoPublishedAt": "2015-06-21T23:52:26.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Apraf2Rci_DGyWieiPaAq3RtywE\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLkNDYW9waXh3cDJv",
+   "snippet": {
+    "publishedAt": "2015-06-11T19:40:47.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "BLOG STRAŻNICZKA KWIATU - Nic-nie-muszenie",
+    "description": "Film do odcinku bloga dla kobiet Strażniczka kwiatu: sprawdź czy nic nie musisz zanim rano wstaniesz z łóżka. Pozwól sobie na luksus wybierania tego co zrobisz, kiedy i czy w ogóle. Od-programuj swoje \"powinności\". Jesteś. I to wystarczy. Cała reszta jest opcjonalna...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CCaopixwp2o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CCaopixwp2o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CCaopixwp2o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/CCaopixwp2o/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/CCaopixwp2o/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 129,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "CCaopixwp2o"
+    }
+   },
+   "contentDetails": {
+    "videoId": "CCaopixwp2o",
+    "videoPublishedAt": "2015-06-11T19:40:47.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/WfAT25ctQglk8ctWOqcdJh30ZVQ\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLldfam9haDNxWnlB",
+   "snippet": {
+    "publishedAt": "2015-04-28T12:49:12.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "BLOG STRAŻNICZKA KWIATU - zachwycaj się!",
+    "description": "Kolejny odcinek bloga strazniczkakwiatu. Dziś o zachwycie, który sprawia, że kobieta zachwyca się przyrodą i życiem, zaś mężczyzna zachwyca się kobietą. O życiu w zachwycie jako alternatywie dla życia zgodnie z koncepcjami i planem.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/W_joah3qZyA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/W_joah3qZyA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/W_joah3qZyA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/W_joah3qZyA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/W_joah3qZyA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 130,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "W_joah3qZyA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "W_joah3qZyA",
+    "videoPublishedAt": "2015-04-28T12:49:12.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/KrnerBQDjmXormhjFpFeNpXJQqU\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLjhaeWdxcWdzVVdR",
+   "snippet": {
+    "publishedAt": "2015-03-17T19:38:12.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Frustracja i bezsilność - co możesz zrobić?",
+    "description": "Odcinek blogu o kobietach, dla kobiet o nazwie strazniczkakwiatu. Prowadzi Easy Grace, dr Izabela Kopaniszyn, założycielka Nelumbo Institute True Self Inquiry. Odcinek o frustracji i bezsilności oraz sposobach radzenia sobie z nią.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8ZygqqgsUWQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8ZygqqgsUWQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8ZygqqgsUWQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/8ZygqqgsUWQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 131,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "8ZygqqgsUWQ"
+    }
+   },
+   "contentDetails": {
+    "videoId": "8ZygqqgsUWQ",
+    "videoPublishedAt": "2015-03-17T19:38:12.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/124O_8PfX6AUtimzFQakVf9wxE4\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmlSTTdIOE5hZ3Mw",
+   "snippet": {
+    "publishedAt": "2015-02-27T13:22:18.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Sen Życia",
+    "description": "Prowadzi Easy Grace, dr Izabela Kopaniszyn, założycielka Instytutu Kreowania Rzeczywistości Alternatywnych Nelumbo.\n\nZobacz więcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/iRM7H8Nags0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/iRM7H8Nags0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/iRM7H8Nags0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/iRM7H8Nags0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/iRM7H8Nags0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 132,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "iRM7H8Nags0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "iRM7H8Nags0",
+    "videoPublishedAt": "2015-02-27T13:22:18.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/72THJUt6-DCGFTAWyYLXhjhsxC8\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLlNRSW1OdDgzMnpN",
+   "snippet": {
+    "publishedAt": "2015-02-21T21:40:51.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Nauka a pole - NOWY PARADYGMAT",
+    "description": "Easy Grace, dr Izabela Kopaniszyn, założycielka Instytutu Nelumbo True Self Inquiry, przedstawia naukowe przesłanki do rozumienia działania pól wiedzących (matryc morfogenetycznych). Easy Grace  od wielu lat prowadzi ustawienia rodzinne, biznesowe, na podosobowości i inne. Zajmuje się także teoriami pól oraz filozoficzną refleksją nad obowiązującym we współczesnej nauce paradygmatem.\n\nZobacz więcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SQImNt832zM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SQImNt832zM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SQImNt832zM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/SQImNt832zM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/SQImNt832zM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 133,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "SQImNt832zM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "SQImNt832zM",
+    "videoPublishedAt": "2015-02-21T21:40:51.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ueQPcScDfO2WXXFAFSE_HV3BPfY\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLllDMDBCMlItYnVz",
+   "snippet": {
+    "publishedAt": "2015-02-11T01:55:27.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Ocean spokoju - CISZA II",
+    "description": "Cisza dźwięku, bezruch w ruchu, stałość zmienności...fale życia, odpływ, przypływ...medytacja...\n\nZobacz więcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YC00B2R-bus/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YC00B2R-bus/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YC00B2R-bus/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/YC00B2R-bus/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/YC00B2R-bus/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 134,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "YC00B2R-bus"
+    }
+   },
+   "contentDetails": {
+    "videoId": "YC00B2R-bus",
+    "videoPublishedAt": "2015-02-11T01:55:27.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ZvxxK-K4TRlnM8z-tjLo5aN0S6w\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLkZpa3JyYnFhclFB",
+   "snippet": {
+    "publishedAt": "2015-02-03T19:02:35.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Ty i ekstaza ciszy",
+    "description": "Filmik nagrany na potrzeby bloga dla kobiet STRAŻNICZKA KWIATU  (strazniczkakwiatu). O ciszy i byciu samej ze sobą. O tym, że cała reszta zależy od tego czy i jak często realizujesz to bycie. O priorytecie ciszy i spoczywaniu w niej każdego dnia.\n\nZobacz więcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FikrrbqarQA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FikrrbqarQA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FikrrbqarQA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FikrrbqarQA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/FikrrbqarQA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 135,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FikrrbqarQA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "FikrrbqarQA",
+    "videoPublishedAt": "2015-02-03T19:02:35.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/PdVS4-S43cUA4oC50MFFUJhPz74\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmVEVXFKdnFtYUZB",
+   "snippet": {
+    "publishedAt": "2015-01-26T00:08:28.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "KIM JESTEŚ - Lena uczy wiersza Rumiego",
+    "description": "ŚWIAT WEDŁUG LENY. Lena, lat sześć, uczy wiersza Rumiego na balkonie w hotelu w Egipcie. Obudziła się pierwsza i nagrała ten oto filmik. To tak dla przypomnienia, jakby ktoś zapomniał Kim Jest!\n\nZobacz więcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/eDUqJvqmaFA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/eDUqJvqmaFA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/eDUqJvqmaFA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/eDUqJvqmaFA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/eDUqJvqmaFA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 136,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "eDUqJvqmaFA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "eDUqJvqmaFA",
+    "videoPublishedAt": "2015-01-26T00:08:28.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/wLF05EnlLjGMYNRCUCf9QQXZb74\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmU1ZUpPdHEzcUtF",
+   "snippet": {
+    "publishedAt": "2014-11-09T23:33:19.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "MEDYTACJA NA ISLANDII",
+    "description": "Instytut Nelumbo, obecnie IN True Self Inquiry, udostępnia filmy pomagające zbliżyć się do siebie samego. Pokazujemy jak można wykroczyć poza automatyczne, nawykowe postrzeganie, jak tworzyć własną rzeczywistość, jak być odpornym na wpływy i manipulacje.\nW chwili wolnej od zajęć, kiedy jesteś sama/ sam - powstrzymaj strumień myśli nie dając mu swojej uwagi. Usiądź wygodnie i zakochaj się w medytacji! Możesz tak siedzieć całe godziny... Nic nie musi się wydarzyć. Jesteś. A to tak wiele! \nTak właśnie robiłam na Islandii, kiedy wybierałam odpocząć od długich, pasjonujących wędrówek. A, że miałam przy sobie także dobry aparat, zaczęłam nagrywać. Jeżeli lubisz medytować, albo chcesz sprawdzić czy to lubisz - zapraszam! Pomedytuj chwilę ze mną. Pobądźmy razem w ciszy i w pięknie naszych serc. \nDrodzy subskrybenci: od teraz przynajmniej jeden film z krótką medytacją lub inną praktyką pojawi się na YT co najmniej raz w miesiącu.\nJeżeli macie jakieś życzenia specjalne, to piszcie na nelumbo.institute@gmail.com\n\nZobacz więcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/e5eJOtq3qKE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/e5eJOtq3qKE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/e5eJOtq3qKE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/e5eJOtq3qKE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/e5eJOtq3qKE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 137,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "e5eJOtq3qKE"
+    }
+   },
+   "contentDetails": {
+    "videoId": "e5eJOtq3qKE",
+    "videoPublishedAt": "2014-11-09T23:33:19.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/i15zwurthxvBrIqoRIyW6QttT1U\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLlh5VU9nSFZzRGlZ",
+   "snippet": {
+    "publishedAt": "2014-08-24T09:08:41.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "MERKABAH MEDITATION - FULL VERSION BY MELCHIZEDEK",
+    "description": "Dear Friends, please enjoy the English version of full Merkabah Meditation following Drunvalo Melchizedek's instructions for activation of the Light Body.\n\nThe film was made by Nelumbo Institute True Self Inquiry. We hold our workshops (restarting, ayahuasca on the beach and other) in Portugal, travelling also to Italy, UK, Ireland, Poland and other countries. Please, feel welcomed to contact us!\n\nwww.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XyUOgHVsDiY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XyUOgHVsDiY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XyUOgHVsDiY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/XyUOgHVsDiY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/XyUOgHVsDiY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 138,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "XyUOgHVsDiY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "XyUOgHVsDiY",
+    "videoPublishedAt": "2014-08-24T09:08:41.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/o00JOH7nCbCx1lJKDMgOI2fpPGI\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLm0xYS0tRWRpR3Jv",
+   "snippet": {
+    "publishedAt": "2014-05-21T08:44:42.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "MANDALE SYSTEMOWE, ustawienia Hellingera. Jak działa depresja?",
+    "description": "Ustawienia rodzinne, biznesowe i na podosobowości. Prowadzi Easy Grace, dr Izabela Kopaniszyn, założycielka Instytutu Kreowania Rzeczywistości Alternatywnych Nelumbo.\n\nZobacz więcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/m1a--EdiGro/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/m1a--EdiGro/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/m1a--EdiGro/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/m1a--EdiGro/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 139,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "m1a--EdiGro"
+    }
+   },
+   "contentDetails": {
+    "videoId": "m1a--EdiGro",
+    "videoPublishedAt": "2014-05-21T08:44:42.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Io_34khftwantCkpxGURIn4tnNA\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLjd2YjVCV1RFa0Nn",
+   "snippet": {
+    "publishedAt": "2014-05-20T16:55:42.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "MANDALE SYSTEMOWE, ustawienia Hellingera- wprowadzenie.",
+    "description": "Dlaczego tak trudno nam \"zrozumieć\" ustawienia? Kto rozumie a kto czuje? Ustawienia rodzinne, biznesowe i na podosobowości. Prowadzi Easy Grace, dr Izabela Kopaniszyn, założycielka Instytutu Nelumbo True Self Inquiry.\n\nZobacz więcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7vb5BWTEkCg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7vb5BWTEkCg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7vb5BWTEkCg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/7vb5BWTEkCg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 140,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "7vb5BWTEkCg"
+    }
+   },
+   "contentDetails": {
+    "videoId": "7vb5BWTEkCg",
+    "videoPublishedAt": "2014-05-20T16:55:42.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/BuLtff9cOnMD2ITmOc5pCQmGvBg\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmRtLXNFaWdaN0hj",
+   "snippet": {
+    "publishedAt": "2014-05-20T16:16:34.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "MANDALE SYSTEMOWE - USTAWIENIA METODĄ BERTA HELLINGERA, Easy Grace - Wprowadzenie",
+    "description": "Spotkanie z MANDALAMI SYSTEMOWYMI w Katowicach. Wprowadzenie do ustawień hellingerowskich. Mówi Easy Grace (dr Izabela Kopaniszyn).\n\nZobacz więcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dm-sEigZ7Hc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dm-sEigZ7Hc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dm-sEigZ7Hc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/dm-sEigZ7Hc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 141,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "dm-sEigZ7Hc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "dm-sEigZ7Hc",
+    "videoPublishedAt": "2014-05-20T16:16:34.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/tt-Tr9SkjyDta_smorHccTe3HYA\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLkpIbUR5SzFET0U0",
+   "snippet": {
+    "publishedAt": "2014-04-05T10:30:51.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Mandale Systemowe - uważność, bycie w sercu, geometria pola",
+    "description": "Ustawienia, Mandale Systemowe, Instytut Nelumbo, styczeń 2014, Katowice. Mowa jest o tym jak potężnym narzędziem jest nasza uwaga. A także o tym, że \"praca z polem\" odbywa się w codzienności. Energia pola to nie jest teatr ani psychodrama, ale odczyt świętej geometrii wyższego porządku, geometrii zdarzeń życiowych, która pokazuje lekcje duszy. Zapraszamy także na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JHmDyK1DOE4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JHmDyK1DOE4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JHmDyK1DOE4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/JHmDyK1DOE4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 142,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "JHmDyK1DOE4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "JHmDyK1DOE4",
+    "videoPublishedAt": "2014-04-05T10:30:51.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/YYmdch2PH0gTzbEQpMFhnlRjU7o\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLnkzdzhjVE12NDc4",
+   "snippet": {
+    "publishedAt": "2014-03-23T15:46:06.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Spotkanie autorskie Easy Grace (Instiutute Nelumbo), książka \"Ja czyli kto?\"",
+    "description": "Wieczór autorski w klubie Sofa w Katowicach. Rozmowę prowadzi Robert Ruszkiewicz. Odpowiada Easy Grace, dr Izabela Kopaniszyn.\n\nZobacz więcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/y3w8cTMv478/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/y3w8cTMv478/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/y3w8cTMv478/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/y3w8cTMv478/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/y3w8cTMv478/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 143,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "y3w8cTMv478"
+    }
+   },
+   "contentDetails": {
+    "videoId": "y3w8cTMv478",
+    "videoPublishedAt": "2014-03-23T15:46:06.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/a9ws-LXXkTvL8z_Gf7_kaszg_j4\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLlUtV0hBQkhwVUpZ",
+   "snippet": {
+    "publishedAt": "2013-10-11T18:56:10.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Ralph Metzner interviev - Easy Questions With Great Masters",
+    "description": "Ralph Metzner in Poland, Warsaw on 28-29th of May.\n\nZobacz więcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/U-WHABHpUJY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/U-WHABHpUJY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/U-WHABHpUJY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/U-WHABHpUJY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 144,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "U-WHABHpUJY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "U-WHABHpUJY",
+    "videoPublishedAt": "2013-10-11T18:56:10.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/mX_KuTw-Qkm3iGhVsf-Sca8rCJY\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmhIRTNnbGhJTzUw",
+   "snippet": {
+    "publishedAt": "2013-09-19T12:45:03.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Ustawienie rodzinne - linia męska",
+    "description": "Ustawienie ukazuje jak bardzo istotne są relacje wśród mężczyzn w rodzinie i jak synowie mogą czerpać moc od ojców.\n\nZobacz więcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hHE3glhIO50/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hHE3glhIO50/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hHE3glhIO50/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/hHE3glhIO50/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/hHE3glhIO50/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 145,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "hHE3glhIO50"
+    }
+   },
+   "contentDetails": {
+    "videoId": "hHE3glhIO50",
+    "videoPublishedAt": "2013-09-19T12:45:03.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Fh71PG1QviTAvm23uFN-k0of-JY\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLm0zNk0zVDg3amxJ",
+   "snippet": {
+    "publishedAt": "2013-09-17T15:33:14.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Ustawienie rodzinne - Masz prawo, odetchnij!",
+    "description": "Mandale Systemowe prowadzone przez dr Izabelę Kopaniszyn (Easy Grace), czyli ustawienia metodą wywodzącą się od Berta Hellingera, nauczyciela Easy. Instytut Nelumbo True Self Inquiry organizuje na całym świecie pracę uzdrawiającą z polem wiedzącym (matrycą morfogenetyczną) od ok. dziesięciu lat. W tym filmie uczestniczka ustawienia poszukuje swojej własnej drogi życiowej, oddzielenia od pola rodziny, zaczynając od rozpoznania własnych uczuć.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/m36M3T87jlI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/m36M3T87jlI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/m36M3T87jlI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/m36M3T87jlI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/m36M3T87jlI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 146,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "m36M3T87jlI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "m36M3T87jlI",
+    "videoPublishedAt": "2013-09-17T15:33:14.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/fqnaHYlcAlCd8j2dPi2j-FMFrPo\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLnVWNGVjdXNzOC1J",
+   "snippet": {
+    "publishedAt": "2013-09-02T09:55:41.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Ustawienia rodzinne - Emigracja",
+    "description": "Ustawienie pokazuje ścieżkę zaczynającą się od głębokiego konfliktu między wezwaniem Duszy (Jaźni) do wyruszenia w samotną duchową podróż za granicę kobiety, która żyła kilkadziesiąt lat w nie swoim kraju (Polsce). Konflikt związany z koniecznością opuszczenia męża zostaje rozwiązany poprzez uznanie hierachii i istnienia wszystkich elementów i osób w systemie. Okazuje się, że droga jest wolna i kobieta może rozpocząć nowe życie w wieku pięćdziesięciu kilku lat.\n\nZobacz więcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uV4ecuss8-I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uV4ecuss8-I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uV4ecuss8-I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/uV4ecuss8-I/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/uV4ecuss8-I/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 147,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "uV4ecuss8-I"
+    }
+   },
+   "contentDetails": {
+    "videoId": "uV4ecuss8-I",
+    "videoPublishedAt": "2013-09-02T09:55:41.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/qktNQ2T0cxlD-BvpZL-q9voRPYU\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLjZoVDNLYjZieGkw",
+   "snippet": {
+    "publishedAt": "2013-05-05T20:15:55.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "MERKABAH MEDITATION - FULL VERSION Melchizedek's method!!! Medytacja MERKABA według Melchizedeka",
+    "description": "FOR ENGLISH SPEAKERS - GO HERE TO SEE A NEW ENGLISH VERSION PLEASE:\nhttps://www.youtube.com/edit?video_id=XyUOgHVsDiY&video_referrer=watch\n\nPrzygotowaniem do medytacji jest sprowadzenie świadomości do serca (parz: film \"Merakba - Wprowadzenie\"). Wokół Twojego ciała pojawia się tetraedr Słońca (UWAGA: U KOBIET JEST ON USTAWIONY KRAWĘDZIĄ Z TYŁU, U MĘŻCZYZN KRAWĘDZIĄ Z PRZODU) oraz tetraedr Ziemi (analogicznie odwrócony o 180 stopni).\nPierwsze sześć oddechów służy oczyszczeniu i oczyszcza 8 obwodów energetycznych w ciele. Każdemu z nich odpowiada jeden z horyzontalnych wierzchołków tetraedru gwieździstego, gdyż wierzchołek górny i dolny (wertykalne) oczyszczają się same. Wyobraź sobie brudne światło, ciemną energię, która opuszcza Twoje ciało fizyczne i energetyczne po każdym z pierwszych sześciu oddechów gromadząc się w wierzchołku, który znajduje się na wysokości klatki piersiowej (z przodu u kobiet, z tyłu u mężczyzn) a następnie spływając ku dolnemu wierzchołkowi tetraedru Ziemi. Oddychaj cały czas z równą prędkością (licz równą ilość sekund, minimum pięć na wdech, tyle samo na wydech). Przy każdym wdechu wypełniaj górny tetraedr energią błyskawicy i jej kolorem, przy każdym wydechu wypełniaj światłem i kolorem błyskawicy dolny tetraedr. Stosuj kolejno mudry pokazane na filmie oraz skieruj za każdym razem po wydechu oczy ku sobie, następnie w górę oraz w dół.\nPodczas oddechów od SIÓDMEGO do TRZYNASTEGO trzymaj ręce ułożone w mudrze „siódmej\". Przy czternastym oddechu przenosisz swoją świadomość wraz z kulą energii z Twojego brzucha na poziom serca i tym samych wkraczasz w rzeczywistość czterowymiarową, rzeczywistość totalnej odpowiedzialności i totalnej kreacji. Piąty wymiar (i wyższe) aktywują się same podczas procesu dalszej medytacji oraz ekspansji Twojego ciała świetlistego Merkaba. Po czternastym oddechu do końca utrzymujesz mudrę „ósmą\".\nOddech PIĘTNASTY to „aktywacja silnika\", uruchomienie wirowania tetraedrów gwieździstych. W tym momencie musisz zdawać sobie sprawę, że przez cały czas znajdujesz się w trzech nałożonych na siebie, identycznych tetraedrach gwieździstych, z których jeden jest żeński, jeden męski i jeden neutralny. Tetraedr neutralny cały czas pozostaje nieruchomy (pasywny), podczas gdy dwa pozostałe (aktywne) zaczynają się obracać -- żeński w prawo, zaś męski w lewo. W myślach wypowiadasz komendę: „równa prędkość\". Teatraedry zaczynają wirować z prędkością.... Nie możesz ich widzieć, ale powinieneś je czuć.\nOddech szesnasty to wyprowadzenie dysku i utworzenie właściwego ciała świetlistego Merkaba. Wypowiedz komendę: „34 na 21\". W tym momencie męski tetraedr gwieździsty zacznie wirować z prędkością 34 obrotów w lewo podczas, gdy żeński tetraedr gwieździsty zacznie wirować z prędkością 21 obrotów w prawo. To bardzo ważne, by nie pomylić kierunków i ilości właściwej obrotów tetraedrów! Z miejsca pod Twoim pępkiem w którym znajduje się 8 komórek pierwotnych (tych, z których zacząłeś życie jako embrion i które nigdy nie ulegają wymianie) wysuwa się świetlisty dysk o średnicy ok. 18 metrów. Sam dysk jest płaski, ale pole energetyczne, które on wytwarza obejmuje całe tetraedry i wiele więcej. W tym momencie Twoja Merkaba jest jeszcze niestabilna i chwiejna. \nPrzy oddechu siedemnastym wypowiedz komendę: „ dziewięć dziesiątych prędkości światła\".  Twoja Merkaba stabilizuje się i uaktywnia swój pełny potencjał pojazdu przenoszącego świadomość z rzeczywistości trójwymiarowej w n-wymiarową z takim zapisem i kodami, jakie utworzyłeś programując jej wnętrze.\nPo wykonaniu tej części praktyki pozostań jeszcze przez minimum 15 minut w medytacji. Zobacz lub poczuj jakość Twego ciała świetlistego. Posłuchaj dźwięku „ooooommm\", który ją wypełnia. Teraz jesteś w Domu, w świątyni, którą sam wybudowałeś, zgodnie z zasadami świętej geometrii. Szanuj ją, będąc niezwykle uważnym na jakąkolwiek myśl, którą tu wnosisz -- będzie działa z wielokrotnie większą mocą! Merkabę możesz programować dokładnie tak samo jak kryształ (gdyż jest ona energetycznym kryształem), z tym, że ilość programów jest nieograniczona. Jedyny wymóg, jaki musisz spełniać programując Merkabę, to utrzymywanie świadomości w sercu, które wiąże się z uczuciem bezwarunkowej miłości do wszelkiego stworzenia. Praktykuj medytację Merkaba codziennie przez okres około jednego roku (inaczej jej aktywność ustanie i wygaśnie), do czasu aż jej obecność będzie dla Ciebie oczywista i wciąż odczuwana, także w postaci skutecznego działania i podtrzymywania programów. Pozwól sobie czuć, porzuć wszelką analizę i koncepcje. Teraz niech prowadzi Cię światło. Om, Namaste!\nWięcej informacji na temat medytacji Merkaba znajdziesz na stronie: www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6hT3Kb6bxi0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6hT3Kb6bxi0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6hT3Kb6bxi0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/6hT3Kb6bxi0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/6hT3Kb6bxi0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 148,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "6hT3Kb6bxi0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "6hT3Kb6bxi0",
+    "videoPublishedAt": "2013-05-05T20:15:55.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ltL3NaiegXBP8fjaJaMDJIFAeXY\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLkF3NkN5TlN0RUdJ",
+   "snippet": {
+    "publishedAt": "2013-05-05T19:40:07.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "MERKABAH MEDITATION - INTRODUCTION of Melchizedek's method!!!",
+    "description": "EN\nIn this video we provide a complete, consistent with the knowledge conveyed by Drunvalo Melchizedek's Merkaba meditation practice (MER KA BAH) - from the first to the seventeenth breath. In this video you see MALE Merkaba. Female merkaba does not differ in any way during the course of practice, differs only in the setting of upper and lower tetrahedron (as below). REMEMBER THAT YOU BUILD YOUR HOUSE, YOUR THE TEMPLE OF THE SPIRIT. BUILD IT SO CAREFULLY AND BEAUTIFULLY  AS YOU CAN. GET the necessary knowledge. ENTER PROPER STATE OF MIND, GIVE YOUR WHOLE HEART to this practise. The word Merkaba means \"chariot\", \"vehicle\". Merkaba is in fact a luminous body, i.e. energy saving our being entered in order sacred geometry, including the geometry of the tetrahedron, starry, which consists of two superposed tetrahedrons. The upper tetrahedron is a tetrahedron of Sun (or father), the lower the tetrahedron of Earth (or mother). Merkaba can be practiced by anyone who resonates with this meditation, and who feels the relationship with the field of sacred geometry. However, it will not work if you will not be able to keep your awareness in your heart.\nThe preparation for meditation is to bring our awareness to the heart and connected to the heart (core) of Mother Earth and Father Sun and the heart of the entire Cosmos (you can direct the flow of prana gratitude to our sun or towards the black hole at the center of our galaxy).\nWhen you feel that you are a child of these two the secret tri-union is established, the holy trinity, and thus naturally appears around your body tetrahedron of Sun (NOTE: WOMEN IS PLACED ON THE BACK EDGE, EDGE IN MEN FRONT) and the Earth's tetrahedron ( similarly inverted 180 degrees).\nOnce you finish the practice of film Merkabah MEDITATION - FULL VERSION stay still for at least 15 minutes in meditation. See and feel the quality of your light body. Listen to the sound \"ooooommm\", which fills it. Now you are at home, at the temple, which is built according to lines and principles of sacred geometry. Respect your Temple, being very attentive to any idea that you are making here - it will work with many times more intensive power! Merkaba can be programmed just like crystal (since it is the energy crystal). Notice the fact that the number of programs is unlimited. Only requirement is that you have to meet programming Merkaba is to keep your awareness at the heart associated with feelings of unconditional love for all creation. We advise against programming partial or deferred to the future, because this way you can significantly postpone and delay your development. Be careful, be now, be totally honest with yourself. Give yourself the right to the immediate and total change, but use only those programs for which you may feel 100% responsible, only if you're willing to accept the changes that will occur as a result of their activation. Start  from \"safe\"programs, such as \"the center of consciousness in my heart only\" or \"immediate reading of intentions\" or \"agreement on everything, what raises my vibrations \", etc. Then enter the specific programs, such as \"complete healing of allergy / cancer \" and be open to anything that will appear as a sign of the healing process (people, situations, methods). Practise Merkaba meditation daily  for a period of approximately one year (or the activity will cease and terminate), until its presence will be obvious to you and constantly felt, as well as the effectiveness of programs will appear.\nFor more information about the light body, the sacred geometry and knowledge of the past and the future of our species search in books of Drunvalo Melchizedek: \"The ancient mystery of flower of life\", volumes I and II, and \"Living in the heart.\"\n\nmore: www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Aw6CyNStEGI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Aw6CyNStEGI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Aw6CyNStEGI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Aw6CyNStEGI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Aw6CyNStEGI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 149,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Aw6CyNStEGI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Aw6CyNStEGI",
+    "videoPublishedAt": "2013-05-05T19:40:07.000Z"
+   }
+  }
+ ]
+}

@@ -1,0 +1,251 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/wOaDS4v9Qe4fx0TaYw8iHeM4XM0\"",
+ "prevPageToken": "CJYBEAE",
+ "pageInfo": {
+  "totalResults": 155,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/6LBT-ldhGas5VTSu0Er-HwDft74\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLnZLZmVCZ1N2MmNz",
+   "snippet": {
+    "publishedAt": "2013-04-17T13:52:49.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Ustawienia systemowe -\"Sukces\"",
+    "description": "Ustawienie techniką psychoterapeutyczną mandali systemowych, inspirowanych pracą Berta Hellingera. Ustawienie ukazuje dlaczego w drodze do sukcesu życiowego i zawodowego ważna jest nasza relacja z życiem, które dali dali nam rodzice. Jedno ustawienie zmienia radykalnie poglądy na relacje i same relacje ze sobą oraz bliskimi osobami. Ustawienia są opartą na intuicji metodą łączenia się z wyższym porządkiem, z matrycą energoinformacyjną, która zawiera wszystkie potrzebne informacje. Wiedzy tej nie można posiąść drogą konceptualną. Często ustawienia porównuje się do fizyki kwantowej w praktyce.\n\nZobacz więcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vKfeBgSv2cs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vKfeBgSv2cs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vKfeBgSv2cs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/vKfeBgSv2cs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/vKfeBgSv2cs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 150,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "vKfeBgSv2cs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "vKfeBgSv2cs",
+    "videoPublishedAt": "2013-04-17T13:52:49.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/0EzTDan3RZ72Ce31KF7SxhhE7wM\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLk82WTdaYjVNQnFj",
+   "snippet": {
+    "publishedAt": "2013-03-26T13:04:25.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "USTAWIENIA hellingerowskie- Easy Grace, impresja, EN version, System Constelations",
+    "description": "FOR ENGLISH VERSION PLS OPEN \"SUBTITLES\" ICON\n\nImpresja z prowadzonych przez dr Easy Grace (Izabelę Kopaniszyn) USTAWIEŃ metodą jej nauczyciela Berta Hellingera organizowanych przez Instytut NELUMBO, 2012 rok. Easy Grace jest psychoterapeutką, psychologiem transpersonalnym, coachem i przewodnikiem duchowym. Stosuje najbardziej efektywne, krótkoterminowe metody zmiany polegające na wykorzystaniu aktywności Obserwatora oraz stanów podobnych do transu, pomijających nawykowe myślenie i automatyczne reakcje emocjonalne.\nInstytut NELUMBO prowadzi terapie, a także szkolenia z zakresu totalnej zmiany kwantowej, holistycznego życia, poszerzania świadomości przez restarting® oraz szeroką działalność edukacyjną, m.in. przez You Tube. Więcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/O6Y7Zb5MBqc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/O6Y7Zb5MBqc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/O6Y7Zb5MBqc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/O6Y7Zb5MBqc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 151,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "O6Y7Zb5MBqc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "O6Y7Zb5MBqc",
+    "videoPublishedAt": "2013-03-26T13:04:25.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/G-iE7jNuQnrfpuL-4cS7gL8GMpU\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmt1UTRMWG9aYmNZ",
+   "snippet": {
+    "publishedAt": "2013-03-24T11:31:58.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Jak działa przekaz informacji w polu? - panel karma tv",
+    "description": "Filmik zawiera zapis wykładu poprzedzającego warsztaty ustawień systemowych, jednak jego treść jest luźno związana z działaniem pola. Mówię tutaj o tym jak działają algorytmy znanego nam świata, takie jak fraktalność czy też zasada Heisenberga.\n\n-------------\nZapraszam na sesje Restartingu®, Frameworkingu® oraz Ayahuasca w Portugalii lub we Włoszech.\n\nUstawienia metodą Hellingera: w Polsce, w Portugalii, w Anglii i we Włoszech: nelumbo.institute@gmail.com\n\nSesje skype: nelumbo.institute@gmail.com\n\nJeśli chcesz wiedzieć jak działa najpotężniejszy system zawłaszczenia w Twojej głowie - zamów moją książkę: „Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka…” - zamówienia przez: nelumbo.institute@gmail.com\n\nPozostańmy w kontakcie:\n\nWWW - www.nelumbo.eu\nFACEBOOK -https://www.facebook.com/Dr-Izabela-E...\nBLOG - http://strazniczkakwiatu.blogspot.com\nEMAIL – nelumbo.institute@gmail.com\nWSPÓŁPRACA: nelumbo.institute@gmail.com\nGRUPA NA FB: https://www.facebook.com/search/top/?...\n\nJeśli ten filmik Ci się podobał, daj mi proszę lajka, pomaga to innym dotrzeć do tych informacji!\n\nJeśli chcesz być na bieżąco ze wszystkim co publikuję, subskrybuj mój kanał i bądź automatycznie powiadamiany o nowych filmach :)\n\nJeżeli chcesz być na bieżąco w wydarzeniami Nelumbo Institute wejdź na stronę www.nelumbo.eu i jednym kliknięciem zamów newsletter :)\n-------------------\nO mnie\n\nDr Izabela Kopaniszyn (Easy Grace) – psycholog transpersonalna, socjolog, coach, trener rozwoju osobistego, pisarka. Autorka książki „Ja czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka i o kilku prostych metodach wyleczenia się z choroby 'ja'” oraz pracy doktorskiej „Podmiot a sacrum”.\n\nZajmuje się odczytywaniem i zmianą obciążającego „oprogramowania” pola świadomości poprzez stosowanie krótkoterminowych metod  tworzenia nowych wzorców, nawyków i ścieżek neuronalnych.\n\nRegularnie prowadzi w różnych miejscach na świecie warsztaty rozwojowe, m.in. ustawienia inspirowane pracą Berta Hellingera. Jest autorką metody osiągania ekstremalnie szybkich zmian (porównywanej do skoku ze spadochronem), zwanej Restartingiem®. Założycielka Instytutu Nelumbo True Self Inquiry (www.nelumbo.eu).",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kuQ4LXoZbcY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kuQ4LXoZbcY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kuQ4LXoZbcY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kuQ4LXoZbcY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/kuQ4LXoZbcY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 152,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kuQ4LXoZbcY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "kuQ4LXoZbcY",
+    "videoPublishedAt": "2013-03-24T11:31:58.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/id4Rgj5o2HeHWJ3AFlMwjNil_so\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLjE5UTlIOThoNlg0",
+   "snippet": {
+    "publishedAt": "2013-03-23T10:36:07.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Ustawienia metodą Berta Hellingera,WPROWADZENIE, Easy Grace (dr Izabela Kopaniszyn)",
+    "description": "Czym są i jak działają ustawienia? Jaka jest rola reprezentantów a jaka terapeuty? Co manifestuje wyższy porządek? Skąd bierze się ekstremalna skuteczność terapeutyczna ustawień?\n\nZobacz więcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/19Q9H98h6X4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/19Q9H98h6X4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/19Q9H98h6X4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/19Q9H98h6X4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/19Q9H98h6X4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 153,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "19Q9H98h6X4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "19Q9H98h6X4",
+    "videoPublishedAt": "2013-03-23T10:36:07.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/DrUKJSZYq0oFRWJQeub3usUldYk\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLld6dnhkOWF2Sklv",
+   "snippet": {
+    "publishedAt": "2013-03-22T16:14:12.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Trening relaksacyjny, Easy Grace (dr Izabela Kopaniszyn)",
+    "description": "PODSTAWY RELAKSACJI i medytacji to skierowanie na oddech, umieszczenie świadomości w sercu i połączenie z Matką Ziemią i Ojcem Słońce. Z tego miejsca - w centrum Twojego serca - możesz kreować totalne uzdrowienie, wielką obfitość, milość, dobrostan...\n\nZobacz więcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Wzvxd9avJIo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Wzvxd9avJIo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Wzvxd9avJIo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Wzvxd9avJIo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Wzvxd9avJIo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 154,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Wzvxd9avJIo"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Wzvxd9avJIo",
+    "videoPublishedAt": "2013-03-22T16:14:12.000Z"
+   }
+  }
+ ]
+}

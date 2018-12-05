@@ -1,0 +1,2197 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/K2E7pPiFUAGu8re1DCoxXh6s0Ak\"",
+ "nextPageToken": "CGQQAA",
+ "prevPageToken": "CDIQAQ",
+ "pageInfo": {
+  "totalResults": 155,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/6Cpbj_T4coDuct6HtyycAFg9df8\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmJPZk9wVnR4eGlr",
+   "snippet": {
+    "publishedAt": "2018-05-20T08:04:02.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Osobowość borderline - niewolnicy emocji",
+    "description": "Osobowość lub cechy borderline to pułapka przynosząca wiele cierpienia zarówno otoczeniu jak samej osobie, w której została ukształtowana.\n\nBorderline to przede wszystkim niemożność określenia tożsamości, poszukiwanie jej w różnych, często skrajnie odmiennych, inspiracjach. To właściwie krzyk: \"nie wiem kim jestem!\"\n\nLudzie borderlinowi, podobnie jak narcystyczni, stanowią wielkie wyzwanie dla swoich partnerów, dzieci, przyjaciół: są nieprzewidywalni, wybuchowi, przekraczają granice innych i nie szanują lub nie znają swoich.\n\nW ogromnej większości przypadków byli ofiarami molestowania seksualnego w dzieciństwie. Ten akt brutalnego przekroczenia granic wytworzył piętno, rysę w osobowości.\n\nhttps://www.youtube.com/watch?v=Mh0JOrk9XSs&t=2s\n\nNie jest łatwo zmienić zaburzenia BPD (Borderline Personality Disorder) w zdrowo funkcjonującą, zintegrowaną osobowość. Przede wszystkim dlatego, że osoby z BPD wykorzystują swoją diagnozę do wytworzenia sztucznej tożsamości i nieświadomie manipulują nią dla otrzymania uwagi.\n\nCechy narcystyczne, zawsze obecne w borderline, powodują, że osoby nimi dotknięte pragną aby wszystko było \"o nich\". \n\nOd narcyzów różni ich wybuchowe pochłonięcie emocjami, przeskakiwanie ze stanów oburzenia i paranoi do stanów zachwytu (emocjonalna labilność) oraz zdolność do empatii, która niestety zwykle grzęźnie w poczuciu własnej krzywdy i nieumiejętności podjęcia działań.\n\nBPD można jednak leczyć a raczej modyfikować, pod warunkiem, że osoba trafi na odpowiedniego psychoterapeutę, który rozumie dynamikę osobowości BPD i potrafi z nią pracować.\n\n_________\n\nO mnie\n\nDr Izabela Kopaniszyn (Easy Grace) – psycholog transpersonalna, socjolog, coach, trener rozwoju osobistego, pisarka. Autorka książki „Ja czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka i o kilku prostych metodach wyleczenia się z choroby 'ja'” oraz pracy doktorskiej „Podmiot a sacrum”.\n\nZajmuje się odczytywaniem i zmianą obciążającego „oprogramowania” pola świadomości poprzez stosowanie krótkoterminowych metod  tworzenia nowych wzorców, nawyków i ścieżek neuronalnych.\n\nRegularnie prowadzi w różnych miejscach na świecie warsztaty rozwojowe, m.in. ustawienia inspirowane pracą Berta Hellingera. Jest autorką metody osiągania ekstremalnie szybkich zmian (porównywanej do skoku ze spadochronem), zwanej Restartingiem®. Założycielka Instytutu Nelumbo True Self Inquiry (www.nelumbo.eu). \n---------------\nZapraszam na sesje Restartingu®, Frameworkingu® oraz Ayahuasca w Portugalii lub we Włoszech.\n\nUstawienia metodą Hellingera: w Polsce, w Portugalii, w Anglii i we Włoszech: nelumbo.institute@gmail.com\n\nSesje skype: nelumbo.institute@gmail.com\n\nKsiążka „Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka…” - nelumbo.institute@gmail.com\n\nwww.nelumbo.eu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bOfOpVtxxik/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bOfOpVtxxik/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bOfOpVtxxik/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/bOfOpVtxxik/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 50,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "bOfOpVtxxik"
+    }
+   },
+   "contentDetails": {
+    "videoId": "bOfOpVtxxik",
+    "videoPublishedAt": "2018-05-20T08:04:02.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/_pCeyI9IVy4RSjrC7-bvk9tKI18\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLjNudDlPWk1RQnU0",
+   "snippet": {
+    "publishedAt": "2018-05-10T14:25:18.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Współzależni w toksycznych relacjach",
+    "description": "W tym filmie mówię o sytuacji i cechach osób współuzależnionych w relacji z narcystycznymi oraz o często występujących u nich wątpliwościach co do własnej tożsamości, zachowań i dalszego kierunku działania.\n\nZwracam też uwagę na błędy popełniane w psychoterapii osób współzależnych, takie jak re-traumatyzacja oraz etykietyzacja ich jako zaburzonych.\n\nOsoby współzależne (co-dependent) są zaburzone często wtórnie (funkcjonalnie) a nie pierwotnie. Bywa, że pochodzą ze stosunkowo zdrowych rodzin i wcale nie ma konieczności poszukiwania przyczyn  w głębokiej podświadomości czy we wcześniejszych traumach.\n\nCzęsto ludziom współzależnym wystarczy nauczenie nowych wzorców zachowań i zrozumienie mechanizmów działania narcyzmu, czyli terapia poznawczo-behawioralna, moim zdaniem nie doceniana w terapii par.\n\n\"Terapią par\" nazywam także byłe związki, gdyż trwają one na wewnętrznym poziomie i wymagają wciąż traktowania ich jako istniejących.\n\nO mnie\n\nDr Izabela Kopaniszyn (Easy Grace) – psycholog transpersonalna, socjolog, coach, trener rozwoju osobistego, pisarka. Autorka książki „Ja czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka i o kilku prostych metodach wyleczenia się z choroby 'ja'” oraz pracy doktorskiej „Podmiot a sacrum”.\n\nZajmuje się odczytywaniem i zmianą obciążającego „oprogramowania” pola świadomości poprzez stosowanie krótkoterminowych metod  tworzenia nowych wzorców, nawyków i ścieżek neuronalnych.\n\nRegularnie prowadzi w różnych miejscach na świecie warsztaty rozwojowe, m.in. ustawienia inspirowane pracą Berta Hellingera. Jest autorką metody osiągania ekstremalnie szybkich zmian (porównywanej do skoku ze spadochronem), zwanej Restartingiem®. Założycielka Instytutu Nelumbo True Self Inquiry (www.nelumbo.eu). \n---------------\nZapraszam na sesje Restartingu®, Frameworkingu® oraz Ayahuasca w Portugalii lub we Włoszech.\n\nUstawienia metodą Hellingera: w Polsce, w Portugalii, w Anglii i we Włoszech: nelumbo.institute@gmail.com\n\nSesje skype: nelumbo.institute@gmail.com\n\nKsiążka „Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka…” - nelumbo.institute@gmail.com\n\nwww.nelumbo.eu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3nt9OZMQBu4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3nt9OZMQBu4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3nt9OZMQBu4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3nt9OZMQBu4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 51,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3nt9OZMQBu4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "3nt9OZMQBu4",
+    "videoPublishedAt": "2018-05-10T14:25:18.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/s_egQV6vSF11X0J6I4GE2lT9Rhg\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLjZHRjJSX0FmU1FN",
+   "snippet": {
+    "publishedAt": "2018-05-07T15:59:25.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Leszek Możdżer - nikt czyli Kosmos, czyli terapia przez muzykę",
+    "description": "W tym filmiku polecam słuchanie Leszka Możdżera, świeżo po koncercie tego wirtuoza w Lizbonie. \n\nNazywam go \"nikim\", ponieważ on sam się w pewnym sensie tak przedstawia - jak każdy, kto zauważył, że to jak się nazywa, czy jakie określenia można mu przypisać, nijak nie oddają tego, kim w istocie jesteśmy.\n\nLeszek Możdżer nie tyle gra, ile pozwala grać poprzez siebie czemuś, co można by nazwać muzyką sfer, geometrią Kosmosu.\n\nJego utwory, jak też utwory innych pianistów grane przez niego dają wspaniałe uczucie odprężenia, poszerzenia świadomości, zjednoczenia z całością istnienia.\n\nDlatego uważam, że to jest muzyka terapeutyczna dla ciała i duszy.\nJak powiedziała moja znajoma, z którą też byłam na koncercie: \"w trudnych chwilach słuchałam go... i on składał mi duszę\".\n\nDziękuję, Kasiu & Robercie za zaproszenie mnie na ten koncert!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6GF2R_AfSQM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6GF2R_AfSQM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6GF2R_AfSQM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 52,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "6GF2R_AfSQM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "6GF2R_AfSQM",
+    "videoPublishedAt": "2018-05-07T15:59:25.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ytv0kvCZEqVCDAWA01QGyOBiY8E\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLk1oMEpPcms5WFNz",
+   "snippet": {
+    "publishedAt": "2018-05-07T12:09:30.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Najgorszy rodzaj narcystycznego zawłaszczenia - molestowanie seksualne dzieci",
+    "description": "Szacuje się, że nawet co piąte dziecko w Polsce (i podobnie w innych krajach zachodnich) było lub jest aktualnie ofiarą molestowania seksualnego.\n\nTen niczym nie usprawiedliwiony rodzaj nadużycia wskazuje z jednej strony na rozmiar zaburzeń okołonarcystycznych, z drugiej - na ogromną rolę alkoholu i innych otępiaczy w relacjach dorosłych z dziećmi.\n\nNajczęściej (w 80-90% przypadków) napastnik ma twarz ojca, wujka, dziadka, kuzyna...\n\nOfiary seksualnych nadużyć często czują się winne, brudne, gorsze od innych. Nie zdając sobie sprawy ze skali problemu oraz nie będąc w stanie (jako lojalne wobec członka rodziny dziecko) oddać - całej, stuprocentowej należnej mu winy - oprawcy, borykają się z różnego rodzajami nadużyć przez całe życie. Nauczone bowiem zostały, że to \"normalne\", iż się je wykorzystuje oraz traktuje przedmiotowo.\n\nJednak uświadomienie sobie faktu, że zostało się zaprogramowanym, nazwanie sytuacji po imieniu oraz oddanie winy sprawcy może być punktem zwrotnym życia. Zawsze można zacząć kształtować swoje zachowania i reakcje wewnętrzne na nowo. \n\nMożna od-automatyzować ścieżki neuronalne. Mózg jest narzędziem niezwykle elastycznym i podatnym na przeformułowania. \n\nLink do filmiku o pracy z wewnętrznym dzieckiem:\n\nhttps://www.youtube.com/watch?v=MHb-jR6dmqw&t=5s\n_____\n\nO mnie\n\nDr Izabela Kopaniszyn (Easy Grace) – psycholog transpersonalna, socjolog, coach, trener rozwoju osobistego, pisarka. Autorka książki „Ja czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka i o kilku prostych metodach wyleczenia się z choroby 'ja'” oraz pracy doktorskiej „Podmiot a sacrum”.\n\nZajmuje się odczytywaniem i zmianą obciążającego „oprogramowania” pola świadomości poprzez stosowanie krótkoterminowych metod  tworzenia nowych wzorców, nawyków i ścieżek neuronalnych.\n\nRegularnie prowadzi w różnych miejscach na świecie warsztaty rozwojowe, m.in. ustawienia inspirowane pracą Berta Hellingera. Jest autorką metody osiągania ekstremalnie szybkich zmian (porównywanej do skoku ze spadochronem), zwanej Restartingiem®. Założycielka Instytutu Nelumbo True Self Inquiry (www.nelumbo.eu). \n---------------\nZapraszam na sesje Restartingu®, Frameworkingu® oraz Ayahuasca w Portugalii lub we Włoszech.\n\nUstawienia metodą Hellingera: w Polsce, w Portugalii, w Anglii i we Włoszech: nelumbo.institute@gmail.com\n\nSesje skype: nelumbo.institute@gmail.com\n\nKsiążka „Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka…” - nelumbo.institute@gmail.com\n\nwww.nelumbo.eu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Mh0JOrk9XSs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Mh0JOrk9XSs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Mh0JOrk9XSs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Mh0JOrk9XSs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 53,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Mh0JOrk9XSs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Mh0JOrk9XSs",
+    "videoPublishedAt": "2018-05-07T12:09:30.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/PrfAxRzhZAxOfeQ1Y2qYMvJoz_U\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLklNVlJTdU1zQWJz",
+   "snippet": {
+    "publishedAt": "2018-05-03T16:57:30.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Nie ocenianie i tak zwana duchowość - wybory, ocena, mistrz i hipokryzja...",
+    "description": "Ta wypowiedź będzie na pewno solą w oku dla części osób \"duchowo rozwiniętych\", które \"nie oceniają\".\n\nDo nagrania tych słów zainspirował mnie post i filmik Michała (skąd inąd znanego jako Vincenty Docent na YT) - żarcik na temat otyłej kobiety, który przestałby być żarcikiem, gdyby autor nie użył słowa \"gruba\":\n\nhttps://www.youtube.com/watch?v=yGB576r4qFM\n\nCzęść społeczności Fb oburzyła się na takie \"ocenianie\". Ciekawe wydaje mi się to, że ludzie nie widzą przy tym w jak gruby (tak, to słowo tutaj nieprzypadkowe) paradoks się pakuję: przecież nie-oceniając właśnie oceniamy! Wybierasz nie-ocenianie nad ocenianie, zatem uznajesz je za \"lepsze\", oceniasz.\n\nSkoro i tak nie możemy uniknąć oceniania i wyborów (na szczęście) to mam wrażenie, że znacznie ważniejsze jest to z jaką intencją oceniamy, co chcemy przez to powiedzieć.\n\nMożesz bowiem być \"nieoceniającym\" bufonem albo \"oceniającym\" Buddą. Wszystko zależy od intencji, kontekstu i interpretacji. \n\nJezus w świątyni to przykład takiego aktywnego w służbie przebudzenia oceniania. Ktoś mógłby powiedzieć, że to agresja. A jednak... mistrzowie oceniają. Mistrzowie wybierają, tak a nie inaczej właśnie tworzymy nasze mistrzostwo. Również poprzez te mniej trafione wybory...\n\n____\n\nO mnie\n\nDr Izabela Kopaniszyn (Easy Grace) – psycholog transpersonalna, socjolog, coach, trener rozwoju osobistego, pisarka. Autorka książki „Ja czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka i o kilku prostych metodach wyleczenia się z choroby 'ja'” oraz pracy doktorskiej „Podmiot a sacrum”.\n\nZajmuje się odczytywaniem i zmianą obciążającego „oprogramowania” pola świadomości poprzez stosowanie krótkoterminowych metod  tworzenia nowych wzorców, nawyków i ścieżek neuronalnych.\n\nRegularnie prowadzi w różnych miejscach na świecie warsztaty rozwojowe, m.in. ustawienia inspirowane pracą Berta Hellingera. Jest autorką metody osiągania ekstremalnie szybkich zmian (porównywanej do skoku ze spadochronem), zwanej Restartingiem®. Założycielka Instytutu Nelumbo True Self Inquiry (www.nelumbo.eu). \n---------------\nZapraszam na sesje Restartingu®, Frameworkingu® oraz Ayahuasca w Portugalii lub we Włoszech.\n\nUstawienia metodą Hellingera: w Polsce, w Portugalii, w Anglii i we Włoszech: nelumbo.institute@gmail.com\n\nSesje skype: nelumbo.institute@gmail.com\n\nKsiążka „Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka…” - nelumbo.institute@gmail.com\n\nwww.nelumbo.eu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IMVRSuMsAbs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IMVRSuMsAbs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IMVRSuMsAbs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/IMVRSuMsAbs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 54,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "IMVRSuMsAbs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "IMVRSuMsAbs",
+    "videoPublishedAt": "2018-05-03T16:57:30.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/2phoSCx40iOovDuHA-JTywbZ_20\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLk1IYi1qUjZkbXF3",
+   "snippet": {
+    "publishedAt": "2018-05-03T13:25:46.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Praca z wewnętrznym dzieckiem - proces wybaczania",
+    "description": "Wybaczanie to temat, który rodzi wiele kontrowersji:\nCzy potrzeba wybaczać? A może lepiej zapomnieć i iść dalej?\nJak mam wybaczyć skoro ona/on nawet nie przeprosili?\nCo to właściwie znaczy \"wybaczyć\"?\n\n W takich sytuacjach dobrze jest sięgnąć do godnych zaufania badań. W przypadku procesów wybaczania mamy taką możliwość.\n\nMówię o tych badaniach oraz o, uznanym za najskuteczniejszy, sposobie wybaczania i uwalniania się z obciążających traum przeszłości.\n\nWybaczanie to procedura nie tylko naukowo potwierdzona ale też wręcz niezbędna do tego, aby móc doświadczać pełni tu i teraz bez odtwarzania przeszłości, którą została zapchana podświadomość.\n\nTo także piękna lekcja stawania się Dorosłym i Rodzicem we własnym wnętrzu. Tym Rodzicem Doskonałym dla naszego Dziecka, jakiego nie mieliśmy.\n\nWybaczać należy także osobie dorosłej, którą byliśmy i która popełniła tak zwane błędy. Najlepiej uznać wybaczanie za jedną z form codziennej higieny psychicznej, podobną do mycia zębów.\n\n-------\n\n\nO mnie\n\nDr Izabela Kopaniszyn (Easy Grace) – psycholog transpersonalna, socjolog, coach, trener rozwoju osobistego, pisarka. Autorka książki „Ja czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka i o kilku prostych metodach wyleczenia się z choroby 'ja'” oraz pracy doktorskiej „Podmiot a sacrum”.\n\nZajmuje się odczytywaniem i zmianą obciążającego „oprogramowania” pola świadomości poprzez stosowanie krótkoterminowych metod  tworzenia nowych wzorców, nawyków i ścieżek neuronalnych.\n\nRegularnie prowadzi w różnych miejscach na świecie warsztaty rozwojowe, m.in. ustawienia inspirowane pracą Berta Hellingera. Jest autorką metody osiągania ekstremalnie szybkich zmian (porównywanej do skoku ze spadochronem), zwanej Restartingiem®. Założycielka Instytutu Nelumbo True Self Inquiry (www.nelumbo.eu). \n---------------\nZapraszam na sesje Restartingu®, Frameworkingu® oraz Ayahuasca w Portugalii lub we Włoszech.\n\nUstawienia metodą Hellingera: w Polsce, w Portugalii, w Anglii i we Włoszech: nelumbo.institute@gmail.com\n\nSesje skype: nelumbo.institute@gmail.com\n\nKsiążka „Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka…” - nelumbo.institute@gmail.com\n\nwww.nelumbo.eu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MHb-jR6dmqw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MHb-jR6dmqw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MHb-jR6dmqw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 55,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "MHb-jR6dmqw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "MHb-jR6dmqw",
+    "videoPublishedAt": "2018-05-03T13:25:46.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Jlsb0QXscFmuZRT1AoZOBOOuJVI\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLm9XSzRiWXhzbEZF",
+   "snippet": {
+    "publishedAt": "2018-05-02T21:58:43.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Jak (i czy) mogę pomóc mojemu narcyzowi?",
+    "description": "Kiedy, jako partner osoby narcystycznej, budzisz się ze snu o swojej winie i niewystarczalności, kiedy przestajesz reagować tłumaczeniem się i poszukiwać wciąż nowych sposobów poprawy swojego zachowania, tak aby nie spotkało cię więcej to, co i tak cię nieuchronnie spotka - bycie dostawcą narcystycznego poczucia wyższości... wówczas możliwe, że obserwujesz wasze relacje z pewnego dystansu.\n\nNaturalnie, jak to bywa u empatów i ludzi nieuleczalnie dobrych i wrażliwych - zadajesz sobie zapewne pytanie: czy mogę jakoś pomóc mojemu zagubionemu narcyzowi? Czy wystarczy, że sam/a nie gram?\n\nCo mam do zrobienia, aby pomóc tej osobie zatrzymać jej grę?\n\nOdpowiadam: jeżeli gra narcystyczna była efektem \"tylko\":\n- rysu\n- stylu, bądź \n- cienia narcystycznego...\n\nwówczas możliwe jest stopniowe i bardzo powolne humanizowanie waszych relacji oraz jego zachowań.\n\nJednak jeżeli osoba, z którą przebywasz została zdiagnozowana jako NPD (narcystyczne zaburzenie osobowości) - warto rozważyć rozstanie, gdyż koszty będą rosły niewspółmiernie do efektów, a i te mogą się w końcu okazać tylko złudzeniem i kolejną grą.\n\nPamiętaj, że ludzie z NPD nie są zdolni do empatii i nie są zainteresowani wejściem do wnętrza, gdyż tam musieliby spotkać ogromną, bolesną \"narcystyczną ranę\". \n\nTo powinno ci wystarczyć, aby pozbyć się iluzji wpływania na NPD w przypadku, gdy pole bitwy zasłane jest trupami marzeń, tęsknot, zaufania i złudzeń.\n\n--------\n\nO mnie\n\nDr Izabela Kopaniszyn (Easy Grace) – psycholog transpersonalna, socjolog, coach, trener rozwoju osobistego, pisarka. Autorka książki „Ja czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka i o kilku prostych metodach wyleczenia się z choroby 'ja'” oraz pracy doktorskiej „Podmiot a sacrum”.\n\nZajmuje się odczytywaniem i zmianą obciążającego „oprogramowania” pola świadomości poprzez stosowanie krótkoterminowych metod  tworzenia nowych wzorców, nawyków i ścieżek neuronalnych.\n\nRegularnie prowadzi w różnych miejscach na świecie warsztaty rozwojowe, m.in. ustawienia inspirowane pracą Berta Hellingera. Jest autorką metody osiągania ekstremalnie szybkich zmian (porównywanej do skoku ze spadochronem), zwanej Restartingiem®. Założycielka Instytutu Nelumbo True Self Inquiry (www.nelumbo.eu). \n---------------\nZapraszam na sesje Restartingu®, Frameworkingu® oraz Ayahuasca w Portugalii lub we Włoszech.\n\nUstawienia metodą Hellingera: w Polsce, w Portugalii, w Anglii i we Włoszech: nelumbo.institute@gmail.com\n\nSesje skype: nelumbo.institute@gmail.com\n\nKsiążka „Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka…” - nelumbo.institute@gmail.com\n\nwww.nelumbo.eu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oWK4bYxslFE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oWK4bYxslFE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oWK4bYxslFE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 56,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "oWK4bYxslFE"
+    }
+   },
+   "contentDetails": {
+    "videoId": "oWK4bYxslFE",
+    "videoPublishedAt": "2018-05-02T21:58:43.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/nhKWVy4B06satF4ud-EN882RGus\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLlpUQ25XMEhqYzhR",
+   "snippet": {
+    "publishedAt": "2018-05-01T11:59:15.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Kryzys egzystencjalny czyli \"ciemne noce duszy\" - zapis sesji",
+    "description": "Sesja dotyczy pojawiających się \"znikąd\" (czyli z głębokiej podświadomości) stanów o charakterze kryzysu egzystencjalnego. W takich chwilach odczuwana jest niechęć do robienia czegokolwiek, ponieważ brakuje poczucia sensu istnienia.\n\nOkazuje się wówczas, że nawet wcześniej wykonana praca nad sobą, psychoterapia, porzucenie nałogów, udany związek, dobra praca nie dają satysfakcji wystarczającej, by taki kryzys zażegnać. Jak ujmuje to Ken Wilber: \"z samego dna rzeczywistości pusta czaszka szczerzy kły\" (\"Psychologia integralna\", wyd. Santorski & co) . \n\nPrzez każdy kryzys trzeba przejść. Jest to przejście przypominające skok w przepaść. W ten sposób w naszej spirali rozwojowej wkraczamy w tzw. pasmo transpersonalne. \n\nTo oznacza, że na zawsze opuszczamy wiarę w psychikę, w bycie tym, co gada w naszej głowie. Dopiero w tej sytuacji możemy namacalnie poczuć pełną i dobrze rozumianą kontrolę nad naszym systemem, nad emocjami, oddechem, wyborami. A także beztroską, radosną i ufną obecność w tu i teraz.\n\nZ całą pewnością warto wyjść na przeciw \"ciemnym nocom duszy\", jak nazywał te stany mistyk, z XVI wieku, Jan od Krzyża.\n\nDlatego zachęcam wszystkich do tworzenia map psychiki (a w tym świadomości, ego, podświadomości), duszy, ducha i wszystkich dostępnych nam poziomów oraz obszarów istnienia. Łatwiej bowiem iść, kiedy się wie dokąd się idzie.\n\n-----\n\nO mnie\n\nDr Izabela Kopaniszyn (Easy Grace) – psycholog transpersonalna, socjolog, coach, trener rozwoju osobistego, pisarka. Autorka książki „Ja czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka i o kilku prostych metodach wyleczenia się z choroby 'ja'” oraz pracy doktorskiej „Podmiot a sacrum”.\n\nZajmuje się odczytywaniem i zmianą obciążającego „oprogramowania” pola świadomości poprzez stosowanie krótkoterminowych metod  tworzenia nowych wzorców, nawyków i ścieżek neuronalnych.\n\nRegularnie prowadzi w różnych miejscach na świecie warsztaty rozwojowe, m.in. ustawienia inspirowane pracą Berta Hellingera. Jest autorką metody osiągania ekstremalnie szybkich zmian (porównywanej do skoku ze spadochronem), zwanej Restartingiem®. Założycielka Instytutu Nelumbo True Self Inquiry (www.nelumbo.eu). \n---------------\nZapraszam na sesje Restartingu®, Frameworkingu® oraz Ayahuasca w Portugalii lub we Włoszech.\n\nUstawienia metodą Hellingera: w Polsce, w Portugalii, w Anglii i we Włoszech: nelumbo.institute@gmail.com\n\nSesje skype: nelumbo.institute@gmail.com\n\nKsiążka „Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka…” - nelumbo.institute@gmail.com\n\nwww.nelumbo.eu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZTCnW0Hjc8Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZTCnW0Hjc8Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZTCnW0Hjc8Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ZTCnW0Hjc8Q/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 57,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZTCnW0Hjc8Q"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ZTCnW0Hjc8Q",
+    "videoPublishedAt": "2018-05-01T11:59:15.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/VRFEY6ogHzeU6bqZjbqMoJWoicA\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLnNwRXJGckNRMjc4",
+   "snippet": {
+    "publishedAt": "2018-04-29T22:38:44.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Fake Personality Disorder - często spotykana forma narcyzmu",
+    "description": "Fake Personality Disorder (Zaburzenie Fałszywej Osobowości) to występujące powszechnie i ponadkulturowo (lecz szczególnie obficie w kulturze zachodniej)  zaburzenie funkcjonowania społecznego, które z narcyzmem ma wiele wspólnego, choć jest jego niezłośliwą, raczej łagodną choć przewlekłą i szybko szerzącą się odmianą.\n\nNigdzie nie sklasyfikowawane. Dlatego uznałam za konieczne użycie paramedycznej nazwy na tę powszechną ludzką przypadłość. Bowiem fakt, iż jakieś zaburzenie podziela ogół społeczeństwa nie oznacza, iż staje się ono zdrowiem. \n\nPrzeciwnie - w chorym społeczeństwie tylko człowiek nienormalny może być zdrowy.\n\nFilmik o narcyzmie ukrytym znajdziesz tu:\n\nhttps://www.youtube.com/watch?v=1gnlykNOGXc&t=1882s\n------\n\nO mnie\n\nDr Izabela Kopaniszyn (Easy Grace) – psycholog transpersonalna, socjolog, coach, trener rozwoju osobistego, pisarka. Autorka książki „Ja czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka i o kilku prostych metodach wyleczenia się z choroby 'ja'” oraz pracy doktorskiej „Podmiot a sacrum”.\n\nZajmuje się odczytywaniem i zmianą obciążającego „oprogramowania” pola świadomości poprzez stosowanie krótkoterminowych metod  tworzenia nowych wzorców, nawyków i ścieżek neuronalnych.\n\nRegularnie prowadzi w różnych miejscach na świecie warsztaty rozwojowe, m.in. ustawienia inspirowane pracą Berta Hellingera. Jest autorką metody osiągania ekstremalnie szybkich zmian (porównywanej do skoku ze spadochronem), zwanej Restartingiem®. Założycielka Instytutu Nelumbo True Self Inquiry (www.nelumbo.eu). \n---------------\nZapraszam na sesje Restartingu®, Frameworkingu® oraz Ayahuasca w Portugalii lub we Włoszech.\n\nUstawienia metodą Hellingera: w Polsce, w Portugalii, w Anglii i we Włoszech: nelumbo.institute@gmail.com\n\nSesje skype: nelumbo.institute@gmail.com\n\nKsiążka „Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka…” - nelumbo.institute@gmail.com\n\nwww.nelumbo.eu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/spErFrCQ278/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/spErFrCQ278/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/spErFrCQ278/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 58,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "spErFrCQ278"
+    }
+   },
+   "contentDetails": {
+    "videoId": "spErFrCQ278",
+    "videoPublishedAt": "2018-04-29T22:38:44.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/LlBN-Va7yfiAjNJduQTUY6N6sfY\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLnM5bDlyalppdTZR",
+   "snippet": {
+    "publishedAt": "2018-04-27T08:14:55.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Po relacji z narcyzem - strategie odzyskania siebie - zapis sesji",
+    "description": "W tej sesji omawiam z klientką sposoby radzenia sobie po rozstaniu z narcystycznym partnerem, z którym była w wieloletnim związku.\n\nStrategie w takich przypadkach dotyczą m.in:\n\n- codziennego rytuału uzdrawiania wewnętrznego dziecka\n- medytacji\n- rozpoznawania objawów CPTSD\n- organizowania działań\n- zadowalania siebie\n- strategii podziału majątku\n- opieki nad dziećmi\n\nWspółzależni często zaskakują samych siebie w odkrywaniu własnej mocy, zaradności i radości z życia po rozstaniu z manipulatorami. Zaczynają zauważać jak bardzo byli splątani i jak wiele mocy było w nich zawsze. Uczą się szybko rozróżniać własne odczucia, myśli i intuicje od głosów toksycznych ludzi w swoich głowach. \n\nTo prowadzi do powrotu energii, która dotąd była kierowana bezwiednie w stronę partnera. Uczą się także rozpoznawać, że ich własne ego nie jest ich przyjacielem lecz sparing-partnerem i że to na tym polu muszą wygrać swoją walkę.\n\n______________\n\nO mnie\n\nDr Izabela Kopaniszyn (Easy Grace) – psycholog transpersonalna, socjolog, coach, trener rozwoju osobistego, pisarka. Autorka książki „Ja czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka i o kilku prostych metodach wyleczenia się z choroby 'ja'” oraz pracy doktorskiej „Podmiot a sacrum”.\n\nZajmuje się odczytywaniem i zmianą obciążającego „oprogramowania” pola świadomości poprzez stosowanie krótkoterminowych metod  tworzenia nowych wzorców, nawyków i ścieżek neuronalnych.\n\nRegularnie prowadzi w różnych miejscach na świecie warsztaty rozwojowe, m.in. ustawienia inspirowane pracą Berta Hellingera. Jest autorką metody osiągania ekstremalnie szybkich zmian (porównywanej do skoku ze spadochronem), zwanej Restartingiem®. Założycielka Instytutu Nelumbo True Self Inquiry (www.nelumbo.eu). \n---------------\nZapraszam na sesje Restartingu®, Frameworkingu® oraz Ayahuasca w Portugalii lub we Włoszech.\n\nUstawienia metodą Hellingera: w Polsce, w Portugalii, w Anglii i we Włoszech: nelumbo.institute@gmail.com\n\nSesje skype: nelumbo.institute@gmail.com\n\nKsiążka „Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka…” - nelumbo.institute@gmail.com\n\nwww.nelumbo.eu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/s9l9rjZiu6Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/s9l9rjZiu6Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/s9l9rjZiu6Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 59,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "s9l9rjZiu6Q"
+    }
+   },
+   "contentDetails": {
+    "videoId": "s9l9rjZiu6Q",
+    "videoPublishedAt": "2018-04-27T08:14:55.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/VhAXtlT_G-VdnpORHHozLqNIteQ\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLjVyemlCa1FjaThN",
+   "snippet": {
+    "publishedAt": "2018-04-20T22:45:31.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Humanizowanie własnego narcyzmu - cz.II",
+    "description": "Ten film jest drugą częścią poprzedniego o tym samym tytule. Opowiadam jak można sprawić, że własny narcyzm nie będzie przynajmniej szkodliwy dla innych, a być może uda się narcystyczny styl i zachowania przetransformować tak, by stać się dobrym człowiekiem: etycznym, odpowiedzialnym i zdyscyplinowanym wewnętrznie.\n\nZakładam, że ludzie z predyspozycją narcystyczną, zdolni do uważnej obserwacji i analizy czynników składowych, mogą wykorzystać te cechy niejako przeciwko swojemu ego i usunąć mechanizm obronny, jakim jest odcięcie się od czucia.\n\nNajpierw osobie narcystycznej przyjdzie poczuć własne niechciane emocje, dopiero potem może ona zacząć rozwijać empatię i troskę o innych.\n\nDla rodzin osób wychodzących z nałogu manipulowania otoczeniem w celu uzyskania osobistych korzyści nie może być lepszej rady, niż zostawianie swego bliskiego samemu sobie, zwłaszcza w krytycznych momentach powrotu dawnej osobowości.\n\n--------------------\n\nO mnie\n\nDr Izabela Kopaniszyn (Easy Grace) – psycholog transpersonalna, socjolog, coach, trener rozwoju osobistego, pisarka. Autorka książki „Ja czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka i o kilku prostych metodach wyleczenia się z choroby 'ja'” oraz pracy doktorskiej „Podmiot a sacrum”.\n\nZajmuje się odczytywaniem i zmianą obciążającego „oprogramowania” pola świadomości poprzez stosowanie krótkoterminowych metod  tworzenia nowych wzorców, nawyków i ścieżek neuronalnych.\n\nRegularnie prowadzi w różnych miejscach na świecie warsztaty rozwojowe, m.in. ustawienia inspirowane pracą Berta Hellingera. Jest autorką metody osiągania ekstremalnie szybkich zmian (porównywanej do skoku ze spadochronem), zwanej Restartingiem®. Założycielka Instytutu Nelumbo True Self Inquiry (www.nelumbo.eu). \n---------------\nZapraszam na sesje Restartingu®, Frameworkingu® oraz Ayahuasca w Portugalii lub we Włoszech.\n\nUstawienia metodą Hellingera: w Polsce, w Portugalii, w Anglii i we Włoszech: nelumbo.institute@gmail.com\n\nSesje skype: nelumbo.institute@gmail.com\n\nKsiążka „Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka…” - do nabycia przez: nelumbo.institute@gmail.com\n\nwww.nelumbo.eu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5rziBkQci8M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5rziBkQci8M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5rziBkQci8M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 60,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "5rziBkQci8M"
+    }
+   },
+   "contentDetails": {
+    "videoId": "5rziBkQci8M",
+    "videoPublishedAt": "2018-04-20T22:45:31.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/MkCIOyOv5fjLocbR5dttBbWfnxw\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmY3c2ZTdktMeWlB",
+   "snippet": {
+    "publishedAt": "2018-04-18T13:29:57.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Narcyz na podium i jego wyznawcy - co sprawia, że ludzie potrzebują guru",
+    "description": "W tym filmiku przedstawiam mechanizm wyznawania, zarówno od strony osoby stawiającej się na piedestale, jak i osób ją/jego \"wyznających\". Jeżeli nie masz czasu na cały filmik a chcesz poznać sedno tego mechanizmu, to polecam posłuchać kilka minut nagrania od min. 19:34 :)\n\nW relacjach grup i liderów często bardzo wyraźnie widać, postępujące w miarę sławy lidera, dążenie do wyznawania go, ślepe naśladowanie i posłuszeństwo typowe dla relacji narcyz - współuzależniony.\n\nDlaczego ludzie potrzebują guru, gwiazd, żywych świętych? Jakie są ukryte cechy kultu?\n\nDlaczego za potrzebą wyznawania kryje się domieszka narcyzmu i własnej niskiej wartości?\n\nCo powoduje, że ukrycie zazdrościsz osobie, którą podziwiasz i wyznajesz?\n\nJak uzdrowić swoją potrzebę wielbienia i stawiania na piedestale?\nJak rozpoznać \"fałszywych proroków\" i \"wilków w owczych skórach\"?\n\nJak przestać stawiać kogoś ponad sobą tylko dlatego, że sam siebie przedstawia jako autorytet?\n\nPoprzez termin \"egomania\" mam na myśli sytuację, w której osoba narcystyczna zajmuje uprzywilejowane stanowisko i jest traktowana jak autorytet oraz \"wyznawana\", niezależnie do tego czy jest coachem, guru, gwiazdą muzyki czy inną postacią na piedestale.\n\nNie oznacza to oczywiście, że każdy, kto takie miejsce zajmuje przejawia zachowania i cechy narcystyczne. Jednak dzieje się tak znacznie częściej, niż podejrzewają wyznawcy.\n\nSkupiam się w tym filmiku głównie na powodach i cechach wyznawców, fanów, popleczników narcyzów na piedestale.\n\nJeżeli chcesz zamówić moją książkę \"Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka...\" to napisz na adres:\nnelumbo.institute@gmail.com\n\n------------------\n\nO mnie\n\nDr Izabela Kopaniszyn (Easy Grace) – psycholog transpersonalna, socjolog, coach, trener rozwoju osobistego, pisarka. Autorka książki „Ja czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka i o kilku prostych metodach wyleczenia się z choroby 'ja'” oraz pracy doktorskiej „Podmiot a sacrum”.\n\nZajmuje się odczytywaniem i zmianą obciążającego „oprogramowania” pola świadomości poprzez stosowanie krótkoterminowych metod  tworzenia nowych wzorców, nawyków i ścieżek neuronalnych.\n\nRegularnie prowadzi w różnych miejscach na świecie warsztaty rozwojowe, m.in. ustawienia inspirowane pracą Berta Hellingera. Jest autorką metody osiągania ekstremalnie szybkich zmian (porównywanej do skoku ze spadochronem), zwanej Restartingiem®. Założycielka Instytutu Nelumbo True Self Inquiry (www.nelumbo.eu). \n---------------\nZapraszam na sesje Restartingu®, Frameworkingu® oraz Ayahuasca w Portugalii lub we Włoszech.\n\nUstawienia metodą Hellingera: w Polsce, w Portugalii, w Anglii i we Włoszech: nelumbo.institute@gmail.com\n\nSesje skype: nelumbo.institute@gmail.com\n\nwww.nelumbo.eu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/f7sfSvKLyiA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/f7sfSvKLyiA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/f7sfSvKLyiA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/f7sfSvKLyiA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 61,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "f7sfSvKLyiA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "f7sfSvKLyiA",
+    "videoPublishedAt": "2018-04-18T13:29:57.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Osf5sa3Vy72yPH0BE8dvOroiesA\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLkotZmR2Mnp6bGpr",
+   "snippet": {
+    "publishedAt": "2018-04-16T17:32:16.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Humanizowanie własnego narcyzmu - cz.1",
+    "description": "Ten filmik nagrałam na prośbę osób, które napisały do mnie odkrywszy swoje własne ślady narcyzmu w osobowości i zachowaniu.\n\nUważam, że każdy nieprzebudzony człowiek ma w sobie pewne ślady narcyzmu. Warto je tropić i stawiać im czoła. Dlaczego? Bo tylko wtedy możemy mieć pewność, że nie będziemy przyciągać narcyzów do swojego życia ale rozpoznamy ich grę natychmiast i powiemy jej spokojne \"nie, dziękuję\".\n\nWiedząc, że już raz lub kilka razy nabraliśmy się na ten sparing, który miał być tańcem na balu - musimy wreszcie zapytać: gdzie i w jaki sposób jest to też o mnie?\n\nNie polecam winić siebie za narcyzm. Nie uważam także za sensowne \"nawracanie\" swojego osobistego narcyza na humanizację.\nLudzie zmieniają się tylko, kiedy sami tego chcą.\n\nJednak kiedy rzeczywiście chcą - nie ma takiej siły, która by te zmiany zatrzymała. Ponieważ jesteśmy wielkimi istotami.\n\n---------------------\n\nO mnie\n\nDr Izabela Kopaniszyn (Easy Grace) – psycholog transpersonalna, socjolog, coach, trener rozwoju osobistego, pisarka. Autorka książki „Ja czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka i o kilku prostych metodach wyleczenia się z choroby 'ja'” oraz pracy doktorskiej „Podmiot a sacrum”.\n\nZajmuje się odczytywaniem i zmianą obciążającego „oprogramowania” pola świadomości poprzez stosowanie krótkoterminowych metod  tworzenia nowych wzorców, nawyków i ścieżek neuronalnych.\n\nRegularnie prowadzi w różnych miejscach na świecie warsztaty rozwojowe, m.in. ustawienia inspirowane pracą Berta Hellingera. Jest autorką metody osiągania ekstremalnie szybkich zmian (porównywanej do skoku ze spadochronem), zwanej Restartingiem®. Założycielka Instytutu Nelumbo True Self Inquiry (www.nelumbo.eu). \n---------------\nZapraszam na sesje Restartingu®, Frameworkingu® oraz Ayahuasca w Portugalii lub we Włoszech.\n\nUstawienia metodą Hellingera: w Polsce, w Portugalii, w Anglii i we Włoszech: nelumbo.institute@gmail.com\n\nSesje skype: nelumbo.institute@gmail.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/J-fdv2zzljk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/J-fdv2zzljk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/J-fdv2zzljk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 62,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "J-fdv2zzljk"
+    }
+   },
+   "contentDetails": {
+    "videoId": "J-fdv2zzljk",
+    "videoPublishedAt": "2018-04-16T17:32:16.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/p0Q6kP1IdfNTD2nF-YQsfSvplXg\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLnFhUnk1eVdmT2l3",
+   "snippet": {
+    "publishedAt": "2018-04-14T01:38:03.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Po relacji z narcyzem - wyzwalanie siebie - zapis sesji",
+    "description": "Ten filmik jest zapisem z sesji z osobą, która jest w procesie wyzwalania się z narcystycznego uwikłania i współuzależnienia. \n\nW procesie wyzwalania się ze współuzależnienia występuje wiele uniwersalnych elementów, wspólnych dla wszystkich ofiar narcystycznego zawłaszczenia i toksycznych relacji.\n\nJeżeli jesteś/byłaś (byłeś) w takiej relacji z rodzicem, partnerem, szefem, przyjacielem... to możesz znaleźć tu kilka podpowiedzi na temat oczyszczenia się z toksycznych wzorców w relacji... ze sobą.\nCPTSD (Complex Post Traumatic Stress Disorder) to zespół objawów traumatycznych, pozostałych po takich relacjach.\n\nWpływają one na twoje wybory (świadome lub nieświadome), na twoje lęki i twoje projekcje. CPTSD objawia się głównie nieadekwatnymi do sytuacji emocjami (zbyt silnymi), które powodują, że utrzymujemy wzorzec unikania trudnych doświadczeń, popadania w nałogi, powielania wzorca toksycznych partnerów.\n\nNa temat CPTSD już mówiłam ale więcej będzie w jednym z kolejnych filmików.\n\nZdecydowałam się ją zapisać i upublicznić, ponieważ zawiera wiele uniwersalnych elementów, wspólnych dla wszystkich ofiar narcystycznego zawłaszczenia.\n\nWypowiedzi klientki oraz informacje osobiste zostały usunięte.\n\n------\n\nO mnie\n\nDr Izabela Kopaniszyn (Easy Grace) – psycholog transpersonalna, socjolog, coach, trener rozwoju osobistego, pisarka. Autorka książki „Ja czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka i o kilku prostych metodach wyleczenia się z choroby 'ja'” oraz pracy doktorskiej „Podmiot a sacrum”.\n\nZajmuje się odczytywaniem i zmianą obciążającego „oprogramowania” pola świadomości poprzez stosowanie krótkoterminowych metod  tworzenia nowych wzorców, nawyków i ścieżek neuronalnych.\n\nRegularnie prowadzi w różnych miejscach na świecie warsztaty rozwojowe, m.in. ustawienia inspirowane pracą Berta Hellingera. Jest autorką metody osiągania ekstremalnie szybkich zmian (porównywanej do skoku ze spadochronem), zwanej Restartingiem®. Założycielka Instytutu Nelumbo True Self Inquiry (www.nelumbo.eu). \n---------------\nZapraszam na sesje Restartingu®, Frameworkingu® oraz Ayahuasca w Portugalii lub we Włoszech.\n\nUstawienia metodą Hellingera: w Polsce, w Portugalii, w Anglii i we Włoszech: nelumbo.institute@gmail.com\n\nSesje skype: nelumbo.institute@gmail.com\n\nwww.nelumbo.eu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qaRy5yWfOiw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qaRy5yWfOiw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qaRy5yWfOiw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 63,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qaRy5yWfOiw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "qaRy5yWfOiw",
+    "videoPublishedAt": "2018-04-14T01:38:03.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-U7QalgTJykpqTT_idT6HQGhLa0\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLnVMZXJ0T044bzFn",
+   "snippet": {
+    "publishedAt": "2018-04-09T19:10:50.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Rozwój duchowy a psychoterapia - frameworking, wyznaczanie granic",
+    "description": "Jak wielu osobom wchodzącym na tzw. ścieżki rozwoju duchowego udaje się faktycznie przekroczyć czy też rozpuścić uwarunkowania z dzieciństwa, traumy i ograniczające przekonania na swój temat?\n\nJak często duchowość okazuje zaawansowaną ucieczką przed konfrontacją z zawartością podświadomości?\n\nO tym, a także o metodzie Frameworkingu®, opracowanej na rzecz pracy z granicami oraz definiowaniem siebie opowiadam w tym filmiku.\n______________\n\nO mnie\n\nDr Izabela Kopaniszyn (Easy Grace) – psycholog transpersonalna, socjolog, coach, trener rozwoju osobistego, pisarka. Autorka książki „Ja czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka i o kilku prostych metodach wyleczenia się z choroby 'ja'” oraz pracy doktorskiej „Podmiot a sacrum”.\n\nZajmuje się odczytywaniem i zmianą obciążającego „oprogramowania” pola świadomości poprzez stosowanie krótkoterminowych metod  tworzenia nowych wzorców, nawyków i ścieżek neuronalnych.\n\nRegularnie prowadzi w różnych miejscach na świecie warsztaty rozwojowe, m.in. ustawienia inspirowane pracą Berta Hellingera. Jest autorką metody osiągania ekstremalnie szybkich zmian (porównywanej do skoku ze spadochronem), zwanej Restartingiem®. Założycielka Instytutu Nelumbo True Self Inquiry (www.nelumbo.eu). \n---------------\nZapraszam na sesje Restartingu®, Frameworkingu® oraz Ayahuasca w Portugalii lub we Włoszech.\n\nUstawienia metodą Hellingera: w Polsce, w Portugalii, w Anglii i we Włoszech: nelumbo.institute@gmail.com\n\nSesje skype: nelumbo.institute@gmail.com\n\nwww.nelumbo.eu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uLertON8o1g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uLertON8o1g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uLertON8o1g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 64,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "uLertON8o1g"
+    }
+   },
+   "contentDetails": {
+    "videoId": "uLertON8o1g",
+    "videoPublishedAt": "2018-04-09T19:10:50.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/JGQjq_qM6RwJoItibOKy2iif4LE\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLks5T0YtdUlCMGFv",
+   "snippet": {
+    "publishedAt": "2018-03-22T12:04:10.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Swobodna obecność - jak czuć to, co czujesz i jak temu ufać",
+    "description": "Ten filmik został spontanicznie nagrany podczas poranka z jogą i tańcem. Radość istnienia, jaka wydobywa się z nas, ludzi w czasie tańca mogłaby nas tak wiele nauczyć!\n\nAle często nie uczy. Czekamy na \"specjalne okazje\". Wychodzimy ze znajomymi do specjalnych miejsc.\n\nA przecież miejsce i okazja są tutaj i teraz. Taniec i czucie emocji, czucie ciała zostały obwarowane kulturowo i sprowadzone do wyjątkowych okazji, choć przecież są tak bardzo naturalne. \n\nWszystkie dzieci bez skrępowania tańczą i tak też wyrażają emocje. Te dzieci wciąż w nas mieszkają - ograniczone i zablokowane. \n\nJak więc można je odblokować? Poprzez taniec, przez ruch, przez bycie w ciele...Taniec przez wieki był stosowany jako metoda wyzwolenia z ograniczeń nawykowego umysłu. \n\nA tymaczasem nam powiedziano, że płakać należy na pogrzebie lub na filmie. Śmiać można się z kawału. Ruszać się intensywnie podczas ćwiczeń. Inaczej \"nie wypada\".\n\nAle przecież taniec to wchodzenie w bliską relację z przestrzenią. To uruchamianie całego potencjału ciała i umysłu. To swobodna kreatywność, która zwykle nie służy interesom ego.\nSłuży zatem Tobie. Zachęcam cię do tańca, kiedy nikt nie widzi. Zapraszam cię do czucia, które jest twoim Posłańcem.\n\nZapraszam też na lekcje pracy z ciałem i oddechem.\n\n------------------\nO mnie:\n\nDr Izabela Kopaniszyn (Easy Grace) – psycholog transpersonalna, socjolog, coach, trener rozwoju osobistego, pisarka. Autorka książki „Ja czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka i o kilku prostych metodach wyleczenia się z choroby 'ja'” oraz pracy doktorskiej „Podmiot a sacrum”.\n\nZajmuje się odczytywaniem i zmianą obciążającego „oprogramowania” pola świadomości poprzez stosowanie krótkoterminowych metod  tworzenia nowych wzorców, nawyków i ścieżek neuronalnych.\n\nRegularnie prowadzi w różnych miejscach na świecie warsztaty rozwojowe, m.in. ustawienia inspirowane pracą Berta Hellingera. Jest autorką metody osiągania ekstremalnie szybkich zmian (porównywanej do skoku ze spadochronem), zwanej Restartingiem®. Założycielka Instytutu Nelumbo True Self Inquiry (www.nelumbo.eu). \n---------------\n\nZapraszam na sesje Restartingu®, Frameworkingu® oraz Ayahuasca w Portugalii lub we Włoszech.\n\nUstawienia metodą Hellingera: w Polsce, w Portugalii, w Anglii i we Włoszech: nelumbo.institute@gmail.com\n\nSesje skype: nelumbo.institute@gmail.com\n\nwww.nelumbo.eu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/K9OF-uIB0ao/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/K9OF-uIB0ao/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/K9OF-uIB0ao/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 65,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "K9OF-uIB0ao"
+    }
+   },
+   "contentDetails": {
+    "videoId": "K9OF-uIB0ao",
+    "videoPublishedAt": "2018-03-22T12:04:10.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/JJpK5JDWLRcbNSl_Bw6yLVzBrWM\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLjRFUmQ3cC04azBv",
+   "snippet": {
+    "publishedAt": "2018-04-17T09:14:12.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Ufanie sobie w relacji z narcyzem (zapis z sesji)",
+    "description": "Ten film jest zapisem sesji z osobą wychodzącą z relacji z narcyzem.\n\nZauważyłam, że wiele treści ze spotkań z ofiarami ludzi zaburzonych narcystycznie zawiera powtarzające się wzorce lęków, traum i innych trudności w relacjach z partnerem a także trudności w rozstaniu się.\n\nZwykle osoby uwikłane boją się odejść a nawet podjąć samodzielne myślenie i działania. Nie wierzą we własną niezależność. Wszystko to są objawy CPTSD (Complex Posttraumatic Stress Disorder), zaburzenia, które wymaga pomocy i przepracowania.\n\nWe fragmentach dotyczących fal mózgowych mowa jest o treningu neurofeedbacku, który odbywa się w Niemczech i który pozwala na świadome sterowanie falami mózgowymi czyli wibracjami, a tym samym - świadomie kreować i przyciągać te sytuacje, które preferujemy.\n\nWięcej o treningach fal mózgowych mówię tutaj:\n\nhttps://www.youtube.com/watch?v=gwz_QcRhAfw&t=3s\n\nhttps://www.youtube.com/watch?v=fluiyhr_P1Y&t=63s\n\nW filmie wycięto osobiste wypowiedzi klientki.\n\n-----------\n\nO mnie\n\nDr Izabela Kopaniszyn (Easy Grace) – psycholog transpersonalna, socjolog, coach, trener rozwoju osobistego, pisarka. Autorka książki „Ja czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka i o kilku prostych metodach wyleczenia się z choroby 'ja'” oraz pracy doktorskiej „Podmiot a sacrum”.\n\nZajmuje się odczytywaniem i zmianą obciążającego „oprogramowania” pola świadomości poprzez stosowanie krótkoterminowych metod  tworzenia nowych wzorców, nawyków i ścieżek neuronalnych.\n\nRegularnie prowadzi w różnych miejscach na świecie warsztaty rozwojowe, m.in. ustawienia inspirowane pracą Berta Hellingera. Jest autorką metody osiągania ekstremalnie szybkich zmian (porównywanej do skoku ze spadochronem), zwanej Restartingiem®. Założycielka Instytutu Nelumbo True Self Inquiry (www.nelumbo.eu). \n---------------\nZapraszam na sesje Restartingu®, Frameworkingu® oraz Ayahuasca w Portugalii lub we Włoszech.\n\nUstawienia metodą Hellingera: w Polsce, w Portugalii, w Anglii i we Włoszech: nelumbo.institute@gmail.com\n\nSesje skype: nelumbo.institute@gmail.com\n\nwww.nelumbo.eu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4ERd7p-8k0o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4ERd7p-8k0o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4ERd7p-8k0o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4ERd7p-8k0o/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4ERd7p-8k0o/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 66,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4ERd7p-8k0o"
+    }
+   },
+   "contentDetails": {
+    "videoId": "4ERd7p-8k0o",
+    "videoPublishedAt": "2018-04-17T09:14:12.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/T0NSNS0tKqeTEhYlra4OjrjLB4I\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLkZQQks4ZjE3ZC1N",
+   "snippet": {
+    "publishedAt": "2018-02-07T14:11:20.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Komfort pozostania w \"nie wiem\" - zen w codziennej praktyce nie muszenia",
+    "description": "Tematem tego krótkiego filmu jest obserwacja, że nasz nawykowy umysł posiada kompulsję ciągłego klasyfikowania i nazywania wszystkiego, co spotyka. W związku z tym może nam się często wydawać, że musimy wiedzieć. Albo, że lepiej jest wiedzieć, niż nie wiedzieć.\nTo zwyczajnie nieprawda.\nPoza szczególnymi sytuacjami, kiedy życie zmusza nas do zgłębienia jakiejś dziedziny wiedzy, jakiegoś tematu - ogromną ulgę przynosi pozostanie w tym, co mistrzowie zen nazywają \"umysłem niewiedzącego\". Z niewiedzy, czyli pustki wyłaniają się najlepsze działania i kreacje.\n\nTutaj znajdziesz podpowiedź w formie bardzo prostej praktyki z buddyzmu Jundrung Bon (tybetańskiego). Tłumaczę tu jak doświadczyć stanu odświeżającej pustości natychmiast:\n\nhttps://www.youtube.com/watch?v=W0gbaxjv-OQ\n\n-----\n\nwww.nelumbo.eu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FPBK8f17d-M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FPBK8f17d-M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FPBK8f17d-M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FPBK8f17d-M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 67,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FPBK8f17d-M"
+    }
+   },
+   "contentDetails": {
+    "videoId": "FPBK8f17d-M",
+    "videoPublishedAt": "2018-02-07T14:11:20.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/dcT1pqQ1SjAFO-1nqwIvWA5KXb8\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmNRNFlpUGhoUmtB",
+   "snippet": {
+    "publishedAt": "2018-02-07T12:55:48.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Typy narcyzów - jawny, subtelny, ukryty",
+    "description": "W tym filmie mówię o typach narcyzów czy też formach narcyzmu, które są wymieniane przez znanych ekspertów w dziedzinie zdrowia psychicznego, takich jak Ross Rosenberg czy Richard Grannon.\n\nWymieniam też ważne sygnały świadczące o tym, że możesz mieć do czynienia z osobą narcystyczną. Ta grupa sygnałów leży po Twojej stronie. Masz więc je do odebrania od samej/samego siebie. Będzie to jednak wymagało uważnej obserwacji i odsunięcia się choć w pewnym stopniu od pochłonięcia emocjami.\n\nNie jest to pełen lecz raczej podstawowy opis typów osobowości o cechach narcystycznych. Temat ten jest kontynuacją poprzednich i poprzednikiem kolejnych moich filmów na temat psychologii osobowości.\n------------------\nLink do filmu o narcyzmie ukrytym:\nhttps://www.youtube.com/watch?v=1gnlykNOGXc&t=1163s\n\nDla osób anglojęzycznych:\n\nten sam temat opracowany przez Richarda Grannona:\n\nhttps://www.youtube.com/watch?v=0LRoCmWWsG4\n\noraz sposób, w jaki narcyzm ukryty tłumaczy Ross Rosenberg:\n\nhttps://www.youtube.com/watch?v=-vi6GT8TMm8\n\n----------\nwww.nelumbo.eu\n\n------",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cQ4YiPhhRkA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cQ4YiPhhRkA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cQ4YiPhhRkA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/cQ4YiPhhRkA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 68,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "cQ4YiPhhRkA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "cQ4YiPhhRkA",
+    "videoPublishedAt": "2018-02-07T12:55:48.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/D6ufCYCIutPKyMgQOYpI8hiblec\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLjFuUnZTWG5QSFRV",
+   "snippet": {
+    "publishedAt": "2018-02-02T23:44:59.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Błędy jako innowacje - ewolucja i algorytmy wszechświata",
+    "description": "W tym krótkim filmiku dzielę się obserwacją na temat doskonałości dzięki niedoskonałościom. Przykładem może być sposób, w jaki działa słynny ciąg Mandelbrota.\n\nPolecam Ci z całego serca zobaczyć na własne oczy jak wygląda taki matematyczny zapis tej przepięknej podstawowej struktury wszechświata:\n\nhttps://www.youtube.com/watch?v=aSg2Db3jF_4\n\n\"Właściwe zbiory Mandelbrota to już nie są zwykłe fraktale, ale mapa zbiorów Julii, czasem zwane fraktalami brzegowymi. \"Niektórzy twierdzą, że jest on nie tylko najpiękniejszym, ale również najbardziej skomplikowanym obiektem, jaki kiedykolwiek zobaczono\". Pierwszy zbiór stworzony przez B.Mandelbrota powstał na ekranie komputera około 1979 roku. Budowa zbioru była bardzo interesująca i nieoczekiwana.\n\nWyobraźmy sobie ciąg liczb zespolonych z0, z1, z2,z3, ... i przyjmijmy, że pierwszy wyraz jest zerem, a każdy następny wyraża się przez kwadrat poprzedniego, zwiększony o pewną stałą zespoloną, czyli zn+1=zn2+c, gdzie c oznacza pewną stałą zespoloną, spełniającą tu rolę parametru. Kilka pierwszych elementów tego ciagu: z0=0, z1=c, z2=c2+c, z3=(c2+c)2+c, ... itd. gdzie dodawanie i potęgowanie należy rozumieć w sensie liczb zespolonych.\nOkazuje się, że dla pewnych wartości parametru c ciąg ten jest ograniczony na płaszczyźnie zespolonej, a dla innych - nie. Ograniczony oznacza tu: mieszczący się w całości wewnątrz koła o skończonym promieniu.\nGdybyśmy narysowali układ współrzędnych o osiach Re(c) oraz Im(c), a w nim koło środku(0,0) i promieniu - powiedzmy - 2. Ustalmy jakiś zakres zmiany parametru c, np. -2Re(c)1, -1.5Im(c)1.5. Zbiór tych wartości utworzy kwadrat - wewnątrz niego powstanie nasz fraktal.\n\nDla każdego punktu leżącego wewnątrz kwadratu obliczamy N pierwszych wyrazów ciągu (N wystarczająco duże, np. kilkaset) i sprawdzamy warunek ograniczoności powstałego zbioru punktów, czyli czy wszystkie wyrazy leżą wewnątrz narysowanego koła. Jeżeli tak, to domniemamy, że wszystkie następne punkty też będą leżeć wewnątrz - rysujemy punkt odpowiadający parametrowi c i przechodzimy do następnego punktu.\n\nGdy jakikolwiek punkt opuści koło, to przechodzimy do następnego bez żadnej akcji. I tak dalej ... To, co otrzymamy w granicy jest właśnie zbiorem Mandelbrota, czyli zbiorem tych wartości parametru c, dla których wyrazy ciągu z0, z1, z2, z3,... określone zależnością rekurencyjną zn+1=zn2+c leżą wewnątrz koła o stałym promieniu.\"\n\nŹródło: http://helios.et.put.poznan.pl/~mmatels/zbmandelbr.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1nRvSXnPHTU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1nRvSXnPHTU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1nRvSXnPHTU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1nRvSXnPHTU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 69,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1nRvSXnPHTU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "1nRvSXnPHTU",
+    "videoPublishedAt": "2018-02-02T23:44:59.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/rm_WQCxLYMGA6BPXQ_UfUf4FPM8\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmZsdWl5aHJfUDFZ",
+   "snippet": {
+    "publishedAt": "2018-02-01T14:00:37.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Neurofeedback - relacje z każdego dnia - Fale Theta - filmy od 0 do 6",
+    "description": "Film składa się z sześciu części, będących relacjami z poszczególnych dni treningu w komorze neurofeedbacku w 2017 roku.\n\nNiesamowita przygoda poznawania możliwości świadomości, o której mówię także w innych filmikach, tutaj została opisana \"na gorąco\".\n\nW każdym dniu doświadczałam innego spektrum świadomości, surfowałam po innych regionach naszego istnienia.\n\nTrening pozwolił mi wyraźnie doświadczyć, że:\n1. świadomość nie jest funkcją zamkniętego w ciele mózgu\n2. świadomość kreuje, powoduje ciało od samego poczęcia\n3. każdy organ ma swoje znaczenie energetyczne\n4. ludzie uciekają w codzienności od prostych faktów odnoszących się do życia i śmierci i tworzą skomplikowane teorie jako mechanizmy obronne\n5. rzeczywistość jest pełna możliwości i bardzo wspierająca tam, gdzie pojawia się uczciwość, odpowiedzialność, niewinność i radość.\n\nSamo przebywanie przez tak długi czas w tak poszerzonym stanie świadomości pozwoliło mi zakodować w swoich ścieżkach neuronalnych nowe stany wzorcowe i sposoby reagowania.\n\nFale Theta to głęboki relaks. To relaks, jaki trudno sobie wyobrazić w innych warunkach.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fluiyhr_P1Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fluiyhr_P1Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fluiyhr_P1Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 70,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fluiyhr_P1Y"
+    }
+   },
+   "contentDetails": {
+    "videoId": "fluiyhr_P1Y",
+    "videoPublishedAt": "2018-02-01T14:00:37.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/nxCp2Gr_G9Geu-VZscuHIW1Y5c0\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLkNWSk9VMXYwR3pF",
+   "snippet": {
+    "publishedAt": "2018-01-25T01:51:47.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Narcyz - dlaczego go przyciągasz? Współuzależnienie oraz jak zachować spokój i uważność",
+    "description": "Tematem tego filmu jest nieco filozoficzna refleksja w odpowiedzi na  pytanie: dlaczego przyciągamy do siebie osoby narcystyczne? Jak to się dzieje, że ludzie wrażliwi i empatyczni pociągają narcyzów i odwrotnie? \n\nKiedy jesteś w relacji z osobą narcystyczną pozostajesz współuzależniony. Niezależnie od tego czy o tym wiesz, czy nie - to właśnie twoje cechy takie jak empatyczność, wrażliwość, radość powodują, że stajesz się atrakcyjną ofiarą manipulacji.\n\nAby wyjść z tej gry potrzebujesz znać algorytm oraz mieć do dyspozycji jedno ważne narzędzie: pulpit z dwoma przyciskami do nawigacji (\"nie dotyczy\" oraz \"zatwierdzam\"). Tylko tyle i aż tyle.\n\nPotrzebujesz też pozbyć się wrodzonej lub nabytej naiwności.\nMożesz także przyjrzeć się szerzej zasadom rządzącym wszechświatem, bo jesteś fraktalem tego wszechświata.\n\nWięcej o polu elektromagnetycznym człowieka, zwanym polem Merkaba znajdziesz w innym filmiku zrobionym przez Nelumbo:\n\nhttps://www.youtube.com/watch?v=6hT3Kb6bxi0&t=10s\n-------------\nZapraszam na sesje Restartingu®, Frameworkingu® oraz Ayahuasca w Portugalii lub we Włoszech.\n\nUstawienia metodą Hellingera: w Polsce, w Portugalii, w Anglii i we Włoszech: nelumbo.institute@gmail.com\n\nSesje skype: nelumbo.institute@gmail.com\n\nJeśli chcesz wiedzieć jak działa najpotężniejszy system zawłaszczenia w Twojej głowie - zamów moją książkę: „Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka…” - zamówienia przez: nelumbo.institute@gmail.com\n\nPozostańmy w kontakcie:\n\nWWW - www.nelumbo.eu\nFACEBOOK -https://www.facebook.com/Dr-Izabela-Ewa-Kopaniszyn-Nelumbo-Institute-1167181570046405/?ref=bookmarks\nBLOG - http://strazniczkakwiatu.blogspot.com\nEMAIL – nelumbo.institute@gmail.com\nWSPÓŁPRACA: nelumbo.institute@gmail.com\nGRUPA NA FB: https://www.facebook.com/search/top/?q=nelumbo%20institute%20fb%20group\n\nJeśli ten filmik Ci się podobał, daj mi proszę lajka, pomaga to innym dotrzeć do tych informacji!\n\nJeśli chcesz być na bieżąco ze wszystkim co publikuję, subskrybuj mój kanał i bądź automatycznie powiadamiany o nowych filmach :)\n\nJeżeli chcesz być na bieżąco w wydarzeniami Nelumbo Institute wejdź na stronę www.nelumbo.eu i jednym kliknięciem zamów newsletter :)\n\nO mnie\n\nDr Izabela Kopaniszyn (Easy Grace) – psycholog transpersonalna, socjolog, coach, trener rozwoju osobistego, pisarka. Autorka książki „Ja czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka i o kilku prostych metodach wyleczenia się z choroby 'ja'” oraz pracy doktorskiej „Podmiot a sacrum”.\n\nZajmuje się odczytywaniem i zmianą obciążającego „oprogramowania” pola świadomości poprzez stosowanie krótkoterminowych metod  tworzenia nowych wzorców, nawyków i ścieżek neuronalnych.\n\nRegularnie prowadzi w różnych miejscach na świecie warsztaty rozwojowe, m.in. ustawienia inspirowane pracą Berta Hellingera. Jest autorką metody osiągania ekstremalnie szybkich zmian (porównywanej do skoku ze spadochronem), zwanej Restartingiem®. Założycielka Instytutu Nelumbo True Self Inquiry (www.nelumbo.eu).",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CVJOU1v0GzE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CVJOU1v0GzE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CVJOU1v0GzE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/CVJOU1v0GzE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/CVJOU1v0GzE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 71,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "CVJOU1v0GzE"
+    }
+   },
+   "contentDetails": {
+    "videoId": "CVJOU1v0GzE",
+    "videoPublishedAt": "2018-01-25T01:51:47.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/UR_qSuVsPKu-UHskRcc7vnZhxCg\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLk9nLXVjNWhkTDVr",
+   "snippet": {
+    "publishedAt": "2018-01-20T18:09:01.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Narcyzm - dynamika relacji",
+    "description": "Ten filmik jest czwartym z kolei z serii o narcyzmie i jego ofiarach. \nRozważam tu dynamikę relacji narcyz-ofiara z perspektywy możliwości ofiary w zakresie nie wchodzenia w narcystyczne gry i manipulacje.\n\nUjawniam także pewne aspekty anatomii narcystycznej psychiki. Mówię o systemach podstępnego uzyskiwania przez narcyza paliwa w postaci twojego poczucia winy, rozczarowania, lęku, zabiegania itd.\n\nJeżeli chcesz poznać zasady klasyfikacji klinicznej NPD - narcystycznego zaburzenia osobowości, to zobacz tutaj:\n\nhttps://www.youtube.com/watch?v=vx4s-T0cVLA&t=25s\n\nDowiesz się z niego także więcej o narcystycznym zawłaszczeniu oraz o narcyzmie duchowym.\nTutaj znajdziesz informacje o konkretnych zachowaniach narcyza i kilka wskazówek z zakresu \"instrukcji obsługi\":\n\nhttps://www.youtube.com/watch?v=eMLiaXy9R78&t=562s\n\nTutaj opowiadam na temat narcyzmu ukrytego:\n\nhttps://www.youtube.com/watch?v=1gnlykNOGXc&t=1190s",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Og-uc5hdL5k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Og-uc5hdL5k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Og-uc5hdL5k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 72,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Og-uc5hdL5k"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Og-uc5hdL5k",
+    "videoPublishedAt": "2018-01-20T18:09:01.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/aB-GIKyE35WY5znLixQYJxLQebo\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLkVCX3hPVDVnaW1B",
+   "snippet": {
+    "publishedAt": "2018-01-31T23:01:37.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Analiza vs. intuicja - bardzo proste rozróżnienie",
+    "description": "Intuicja to dar, który posiadamy wszyscy. Nie wszyscy jednak są na jej obecność równie wrażliwi. Bez względu na przyczyny, dla których oduczyliśmy się słuchać głosu intuicji, powrót do jej podszeptów jest jeden - poprzez ciało.\n\nKto słucha ciała ten czuje, a kto czuje, ten jest bliżej prawdy. Jakiej prawdy?, można zapytać. Prawdy subiektywnej, własnej. A to oznacza, że idąc za tym głosem przestajesz wypierać odczucia i emocje, grać  i udawać (nawet przed sobą).\n\nIntuicja jest niezbędna aby tworzyć, wybrać właściwy związek czy przyjaźń, aby zrobić dobry biznes...\n\nTo za pomocą intuicji a nie analizy (gdyż ta dopiero wtórnie służyła tej pierwszej) dokonano największych odkryć i wynalazków. Historia potwierdza powyższe zdanie.\n\nW tym filmiku podaję najbardziej esencjonalne rozróżnienie pomiędzy głosem umysłu (kompulsywnego gadacza) a głosem intuicji.\n\n--------------------\n\nwww.nelumbo.eu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EB_xOT5gimA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EB_xOT5gimA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EB_xOT5gimA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 73,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "EB_xOT5gimA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "EB_xOT5gimA",
+    "videoPublishedAt": "2018-01-31T23:01:37.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/2UgBByLl8bL2iFopoZpgIkE3634\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLlZieHdySVVLUTJN",
+   "snippet": {
+    "publishedAt": "2018-01-17T00:14:18.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Alfa&Theta Trainings Benefits",
+    "description": "Temat filmu: Mój film 1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VbxwrIUKQ2M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VbxwrIUKQ2M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VbxwrIUKQ2M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 74,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "VbxwrIUKQ2M"
+    }
+   },
+   "contentDetails": {
+    "videoId": "VbxwrIUKQ2M",
+    "videoPublishedAt": "2018-01-17T00:14:18.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/l9qiEA-nj8SeYOmUTXm6STEZNT4\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmM0aXpJenVYRlE4",
+   "snippet": {
+    "publishedAt": "2018-01-10T18:15:37.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Umieranie bliskich i rodziców, towarzyszenie innym w przechodzeniu na drugą stronę",
+    "description": "Śmierć bliskich to temat rzadko poruszany, można śmiało powiedzieć, że temat tabu. \n\nNapisałam (wspomniany w filmie) artykuł, którego tematem jest wzajemna relacja trzech tabuizowanych obszarów: śmierci, odmiennych stanów świadomości i seksu. \nOto link:\nhttp://www.taraka.pl/eros_thanatos_smierc_ekstaza\n\nW tym filmie mówię o towarzyszeniu naszym bliskim w tej podróży. O tym jak poradzić sobie z potrzebą utrzymywania przy życiu za wszelką cenę kogoś, kto już wybrał odejść. W takiej sytuacji nic, nawet najlepszy lekarz i najwspanialsza metoda nie zatrzyma człowieka, który nie widzi powodów, by zostać.\n\nWyparcie śmierci, uznanie jej za \"zło\" powoduje wiele nieporozumień i niewyobrażalnie utrudnia ludziom odchodzenie.\n\nMożesz jednak wiele zrobić. Możesz wesprzeć bliską CI osobę w tych najważniejszych w jej życiu chwilach.\n\n---------------\n\nwww.nelumbo.eu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/c4izIzuXFQ8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/c4izIzuXFQ8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/c4izIzuXFQ8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 75,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "c4izIzuXFQ8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "c4izIzuXFQ8",
+    "videoPublishedAt": "2018-01-10T18:15:37.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Ck7GFMZtw1gM_rcHrXy7-imHH8U\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLjZpcjJiZklWQmQw",
+   "snippet": {
+    "publishedAt": "2018-01-09T12:31:16.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Szkoła dla ludzi nowego świata",
+    "description": "Ten filmik jest skróconym nagraniem, stworzonym na podstawie rozmowy z Januszem Zagórskim z NTV. Przedstawiam w zarysie koncepcję transpersonalnego podejścia i rozwoju w tym kierunku. Zapraszam do udziału w Holistycznych Studiach Transpersonalnych on-line i w Portugalii.\n\nMożesz wziąć udział w tym projekcie na 3 różne sposoby:\n1. w pełnym zakresie, zdając egzamin końcowy (jako osoba profesjonalnie pomagająca ludziom)\n2. w zakresie niepełnym (jako wolny słuchacz) dla własnego rozwoju\n3. tylko w kursie on-line\n\nDla osób biorących udział w kursie on-line zniżka 50 E, tylko przez 24 godziny od opublikowania strony kursu!\n\nZjazdy odbywają się 2-3 razy w roku w Portugalii. Poza zjazdami reszta zajęć przebiega za pośrednictwem Internetu.\n\n-----\n\nWięcej informacji na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6ir2bfIVBd0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6ir2bfIVBd0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6ir2bfIVBd0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 76,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "6ir2bfIVBd0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "6ir2bfIVBd0",
+    "videoPublishedAt": "2018-01-09T12:31:16.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/1b1xEr0XKSj_EHWfBrEp1s1OgGg\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmVNTGlhWHk5Ujc4",
+   "snippet": {
+    "publishedAt": "2018-01-15T19:31:38.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Narcyzm w praktyce - instrukcja obsługi",
+    "description": "Tematem tego filmiku jest obserwowanie przejawów narcyzmu i osoby narcystycznej w życiu codziennym. Jak rozpoznać wzorce i schematy, które obowiązują w relacjach z narcyzami i jakie stosować sposoby obrony przed byciem wciągniętym w jego/jej gry?\n\nMożesz wyjść z gry, możesz zadbać o siebie tam, gdzie zrobi tego twój narcyz. Potrzebujesz tylko wiedzieć jak.\n\nCzęść tych technik podpowiadam w tym filmiku, w kolejnych powiem jeszcze szerzej o tym jak stosować metody, które tu wymieniam oraz jakich możesz się spodziewać odpowiedzi.\n\nJeżeli jesteś ofiarą narcystycznego zawłaszczenia, wiedz, że masz obowiązek zacząć troszczyć się o siebie i przestać oczekiwać, że twój narcyz się zmieni.\n\nSzukaj pomocy u psychoterapeutów (niekoniecznie psychologów) i coachów doświadczonych w pracy z ofiarami przemocy oraz z narcystycznym zawłaszczeniem.\n\nJeżeli czytasz w języku angielskim, polecam Ci książkę \"The Human Magnet Syndrom\" Rossa Rosenberga.\n\nZapraszam na sesje Restartingu®, Frameworkingu® oraz Ayahuasca w Portugalii lub we Włoszech.\n\nUstawienia metodą Hellingera: w Polsce, w Portugalii, w Anglii i we Włoszech: nelumbo.institute@gmail.com\n\nSesje skype: nelumbo.institute@gmail.com\n\nJeśli chcesz wiedzieć jak działa najpotężniejszy system zawłaszczenia w Twojej głowie - zamów moją książkę: „Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka…” - zamówienia przez: nelumbo.institute@gmail.com\n\nPozostańmy w kontakcie:\n\nWWW - www.nelumbo.eu\nFACEBOOK -https://www.facebook.com/Dr-Izabela-Ewa-Kopaniszyn-Nelumbo-Institute-1167181570046405/?ref=bookmarks\nBLOG - http://strazniczkakwiatu.blogspot.com\nEMAIL – nelumbo.institute@gmail.com\nWSPÓŁPRACA: nelumbo.institute@gmail.com\nGRUPA NA FB: https://www.facebook.com/search/top/?q=nelumbo%20institute%20fb%20group\n\nJeśli ten filmik Ci się podobał, daj mi proszę lajka, pomaga to innym dotrzeć do tych informacji!\n\nJeśli chcesz być na bieżąco ze wszystkim co publikuję, subskrybuj mój kanał i bądź automatycznie powiadamiany o nowych filmach :)\n\nJeżeli chcesz być na bieżąco w wydarzeniami Nelumbo Institute wejdź na stronę www.nelumbo.eu i jednym kliknięciem zamów newsletter :)\n\nO mnie\n\nDr Izabela Kopaniszyn (Easy Grace) – psycholog transpersonalna, socjolog, coach, trener rozwoju osobistego, pisarka. Autorka książki „Ja czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka i o kilku prostych metodach wyleczenia się z choroby 'ja'” oraz pracy doktorskiej „Podmiot a sacrum”.\n\nZajmuje się odczytywaniem i zmianą obciążającego „oprogramowania” pola świadomości poprzez stosowanie krótkoterminowych metod  tworzenia nowych wzorców, nawyków i ścieżek neuronalnych.\n\nRegularnie prowadzi w różnych miejscach na świecie warsztaty rozwojowe, m.in. ustawienia inspirowane pracą Berta Hellingera. Jest autorką metody osiągania ekstremalnie szybkich zmian (porównywanej do skoku ze spadochronem), zwanej Restartingiem®. Założycielka Instytutu Nelumbo True Self Inquiry (www.nelumbo.eu).",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/eMLiaXy9R78/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/eMLiaXy9R78/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/eMLiaXy9R78/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/eMLiaXy9R78/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/eMLiaXy9R78/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 77,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "eMLiaXy9R78"
+    }
+   },
+   "contentDetails": {
+    "videoId": "eMLiaXy9R78",
+    "videoPublishedAt": "2018-01-15T19:31:38.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/iF__X48_yknxZHfdSVaWkLQQ3S4\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLjFnbmx5a05PR1hj",
+   "snippet": {
+    "publishedAt": "2018-01-16T16:12:20.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Narcyzm ukryty - jak rozpoznać narcyza, którego nie widać",
+    "description": "Osoba narcystyczna kojarzy się zwykle z kimś, kto zabiega o poklask i kto stoi na świeczniku, z kimś kto przechwala się swoimi (nie zawsze prawdziwymi) dokonaniami i kogo trzeba podziwiać albo zejść mu z drogi. Tak bywa. Ale niekoniecznie.\n\nIstnieje bowiem rzadziej omawiana, niewidoczna, choć częściej spotykana forma narcyzmu - narcyzm ukryty. Taki osobnik upatruje sobie zwykle jedną \"ofiarę\" jako źródło życiodajnych soków (narcisstic supply) i owija wokół niej swą pajęczą sieć uroku osobistego po to, by następnie grać w swoją grę degradacji, podważania kompetencji i zdrowia psychicznego oraz wszelkich pozytywnych cech swej ofiary.\nNierzadko doprowadzając ją faktycznie do granic szaleństwa.\n\nW tym filmie mówię o tym jak rozpoznać, że masz do czynienia z ukrytą formą narcyzmu i co możesz z tym zrobić.\n\n-------------------\nZapraszam na sesje Restartingu®, Frameworkingu® oraz Ayahuasca w Portugalii lub we Włoszech.\n\nUstawienia metodą Hellingera: w Polsce, w Portugalii, w Anglii i we Włoszech: nelumbo.institute@gmail.com\n\nSesje skype: nelumbo.institute@gmail.com\n\nJeśli chcesz wiedzieć jak działa najpotężniejszy system zawłaszczenia w Twojej głowie - zamów moją książkę: „Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka…” - zamówienia przez: nelumbo.institute@gmail.com\n\nPozostańmy w kontakcie:\n\nWWW - www.nelumbo.eu\nFACEBOOK -https://www.facebook.com/Dr-Izabela-Ewa-Kopaniszyn-Nelumbo-Institute-1167181570046405/?ref=bookmarks\nBLOG - http://strazniczkakwiatu.blogspot.com\nEMAIL – nelumbo.institute@gmail.com\nWSPÓŁPRACA: nelumbo.institute@gmail.com\nGRUPA NA FB: https://www.facebook.com/search/top/?q=nelumbo%20institute%20fb%20group\n\nJeśli ten filmik Ci się podobał, daj mi proszę lajka, pomaga to innym dotrzeć do tych informacji!\n\nJeśli chcesz być na bieżąco ze wszystkim co publikuję, subskrybuj mój kanał i bądź automatycznie powiadamiany o nowych filmach :)\n\nJeżeli chcesz być na bieżąco w wydarzeniami Nelumbo Institute wejdź na stronę www.nelumbo.eu i jednym kliknięciem zamów newsletter :)\n\nO mnie\n\nDr Izabela Kopaniszyn (Easy Grace) – psycholog transpersonalna, socjolog, coach, trener rozwoju osobistego, pisarka. Autorka książki „Ja czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka i o kilku prostych metodach wyleczenia się z choroby 'ja'” oraz pracy doktorskiej „Podmiot a sacrum”.\n\nZajmuje się odczytywaniem i zmianą obciążającego „oprogramowania” pola świadomości poprzez stosowanie krótkoterminowych metod  tworzenia nowych wzorców, nawyków i ścieżek neuronalnych.\n\nRegularnie prowadzi w różnych miejscach na świecie warsztaty rozwojowe, m.in. ustawienia inspirowane pracą Berta Hellingera. Jest autorką metody osiągania ekstremalnie szybkich zmian (porównywanej do skoku ze spadochronem), zwanej Restartingiem®. Założycielka Instytutu Nelumbo True Self Inquiry (www.nelumbo.eu).",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1gnlykNOGXc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1gnlykNOGXc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1gnlykNOGXc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1gnlykNOGXc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 78,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1gnlykNOGXc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "1gnlykNOGXc",
+    "videoPublishedAt": "2018-01-16T16:12:20.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ABoCeUj9FMWEmCdhTiKO6cc1btI\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLnZ4NHMtVDBjVkxB",
+   "snippet": {
+    "publishedAt": "2018-01-02T21:19:57.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Duchowość a narcyzm",
+    "description": "Narcystyczne zachowania i cechy charakteru to duże wyzwanie dla osób szczerych lecz naiwnych. Tym bardziej, że brakuje w obiegowych dyskusjach rzetelnych informacji na ten temat.\n\nTymczasem, tak jak w życiu osobistym czy zawodowym, tak i na drodze rozwoju duchowego czycha wiele pułapek zastawionych przez narcystyczne ego własne lub innych ludzi.\n\nObjawy narcystycznego zawłaszczenia bywają często ignorowane przez same ofiary i ukrywane pod myśleniem życzeniowym, naiwną dobrodusznością oraz ignorowane z powodu niezrozumienia stojących za nimi mechanizmów.\n\nJedną z najlepszych metafor określających postępowanie procesu narcystycznego uwiedzenia jest \"gotowanie żaby\". Żaba wyskoczy z wody, jeśli włożyć ją do wrzątku. Natomiast gdy wodę się stopniowo podgrzewa, żaba zostaje ugotowana. \n\nWielu guru i duchowych nauczycieli wykorzystuje swoją pozycję oraz uległość i bezkrytyczność wyznawców, nadużywając władzy i iluzorycznych \"mocy\".\n\nOto linki do artykułów poszerzających informacje na temat ukrytych działań i nadużyć dwu znanych duchowych nauczycieli, które pozwolą zaobserwować narcystyczne skłonności u innych, których być może znacie.\n\nBentinho Massaro:\n\nhttps://medium.com/@bescofield/tech-bro-guru-inside-the-sedona-cult-of-bentinho-massaro-a56314f830ef\n\nAndrew Cohen:\n\nhttp://hinessight.blogs.com/church_of_the_churchless/2009/12/andrew-cohen-an-abusive-american-guru.html\n\n----------------\n\nJeżeli uważasz, że jesteś ofiarą guru, sekty lub innego kultu religijnego albo masz do czynienia z narcystycznym partnerem - napisz do mnie i umów się na sesję skype.\n\nwww.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vx4s-T0cVLA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vx4s-T0cVLA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vx4s-T0cVLA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/vx4s-T0cVLA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 79,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "vx4s-T0cVLA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "vx4s-T0cVLA",
+    "videoPublishedAt": "2018-01-02T21:19:57.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/AmDLzcYKME2-UEXsb4qvVIRj7cY\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLnFaX1VWeVJuZ05v",
+   "snippet": {
+    "publishedAt": "2018-01-01T22:34:36.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Osobista wolność zamiast guru",
+    "description": "Wolność od i wolność do to nie tylko pradawny temat rozpraw filozoficznych ale także i przede wszystkim pragmatyczne zagadnienie dla osób świadomych i gotowych, by żyć prawdziwie.\n\nCo to znaczy: prawdziwe życie? Dla mnie to życie oparte na \n1. rozpoznaniu ograniczających nas programów\n2. odkryciu co jest nasze albo co wybieramy jako \"nasze\" na dany moment\n3.określeniu celu głównego (wolność) i celów szczegółowych, takich jak uwolnienie z toksycznej relacji, uzdrowienie, praca dla siebie itp.\n\nZauważyłam, że często ludzie uciekają w duchowość zamiast autentycznie się rozwijać. Z wieloletniej praktyki terapeutycznej i coachingowej wiem natomiast, że nikt nie zrobi naprawdę ani kroku ku prawdziwej wolności, jeżeli najpierw nie \"posprząta\" w sferze cienia, nie porzuci (wraz z wszystkimi korzyściami) wszystkiego, co go trzyma.\n\nZobacz wspomniany artykuł na temat Bentinho Massaro:\n\nhttps://medium.com/@bescofield/tech-bro-guru-inside-the-sedona-cult-of-bentinho-massaro-a56314f830ef\n------------\nwww.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qZ_UVyRngNo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qZ_UVyRngNo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qZ_UVyRngNo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 80,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qZ_UVyRngNo"
+    }
+   },
+   "contentDetails": {
+    "videoId": "qZ_UVyRngNo",
+    "videoPublishedAt": "2018-01-01T22:34:36.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/2h_sLsNWm8Md80R1MrB4wjcOgKc\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLllBR2daNDJ3YllR",
+   "snippet": {
+    "publishedAt": "2017-12-30T14:46:35.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "JESTEM KTÓRY JESTEM - medytacja",
+    "description": "Połączenie z pustym wnętrzem naszego Istnienia jest pięknym doświadczeniem, do którego nawiązywali mistycy wszystkich czasów. Jednak - aby możliwe było doświadczenie tej esencji połączenia z sacrum - konieczne jest, aby w naszej wewnętrznej świątyni \"posprzątać\", dokładnie tak samo jak sprząta się w domu.\n\nDom Boga (którego rozumiem nie-osobowo i a-religijnie, jako odczucie połączenia z wszystkim-co-jest) to szczególne miejsce w centrum serca. To tutaj znajduje się fraktalne odbicie całego wszechświata, to tutaj odczytujemy Kroniki Akashy.\n\nTa medytacja uczy wytwarzania świętej przestrzeni, wiru, próżni czy też punktu kreacji.\n\nTo właśnie z próżni w nas wyłania się największa kreatywność, ekspansja i rozwój. A także pewność, zaufanie, pozwalanie. \nPowodzenia w odkrywaniu Kim Jesteś!\n__________\n\nwww.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YAGgZ42wbYQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YAGgZ42wbYQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YAGgZ42wbYQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/YAGgZ42wbYQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/YAGgZ42wbYQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 81,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "YAGgZ42wbYQ"
+    }
+   },
+   "contentDetails": {
+    "videoId": "YAGgZ42wbYQ",
+    "videoPublishedAt": "2017-12-30T14:46:35.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/lMeQulPm7piMxYEf82tl8X24TSU\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLlc4RTFUbnVpcV84",
+   "snippet": {
+    "publishedAt": "2018-01-01T22:31:17.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Miłość do siebie - nie czekaj na innych",
+    "description": "Miłość do siebie bywa rozumiana zupełnie błędnie jako posiadanie wystarczająco dobrych powodów do bycia kochanym. Ta gra może nigdy się nie skończyć, gdyż wtedy wciąż poszukujemy \"dowodów\" i \"powodów\" na zewnątrz.\n\nZwrot w odczuwaniu siebie jako istoty godnej miłości odbywa się właśnie paradoksalnie poprzez dawanie miłości, kochanie. Kochaj i bądź miłością zawsze najlepiej jak potrafisz.\n\nWtedy wiesz kim jesteś od środka i nie potrzebujesz już więcej aby ktokolwiek inny okazywał ci, że zasługujesz na miłość.\n\nWówczas wszyscy, których spotykasz będą czuli się w twoim towarzystwie dobrze, bo będą bezwarunkowo akceptowani i widziani.\n\n----------------\nwww.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/W8E1Tnuiq_8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/W8E1Tnuiq_8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/W8E1Tnuiq_8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/W8E1Tnuiq_8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/W8E1Tnuiq_8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 82,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "W8E1Tnuiq_8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "W8E1Tnuiq_8",
+    "videoPublishedAt": "2018-01-01T22:31:17.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/JaEyXE01MkSo6SNAiug09JMBp7Y\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLno2TkZTYTVZdllR",
+   "snippet": {
+    "publishedAt": "2017-12-17T17:28:09.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Lęk przed bogactwem i posiadaniem",
+    "description": "To Twoja reakcja na domniemaną i wyobrażoną (i tu zupełnie nie ma znaczenia czy realną) stratę jest kluczem do faktycznej i realnej obfitości w Twoim życiu.\n\nOdradzam Ci wierzyć w metody i techniki oszczędzania, gromadzenia, \"robienia biznesu\", technik wpływu czy organizowania planu dnia zanim nie odkryjesz i nie zlikwidujesz podświadomych blokad!\n\nCzęsto powtarzam, że aby rozwinąć skrzydła trzeba najpierw odciąć łańcuchy. Jeżeli nie widzisz co cię trzyma w strefie komfortu - nie będziesz w stanie polecieć. Kropka.\n\nTutaj link do mojego artykułu o działaniu pól (matryc) morfogenetycznych:\n\nhttp://www.taraka.pl/o_czym_wie_pole\n___________\n\nJeżeli chcesz zajrzeć w te podświadome przekonania i blokady, zmierzyć się w bezpiecznych warunkach ze swoim lękiem - zapraszam na sesję skype a najlepiej - na grupę Restartingową w Portugalii, we Włoszech lub w Polsce.\n---------------\nWięcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/z6NFSa5YvYQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/z6NFSa5YvYQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/z6NFSa5YvYQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 83,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "z6NFSa5YvYQ"
+    }
+   },
+   "contentDetails": {
+    "videoId": "z6NFSa5YvYQ",
+    "videoPublishedAt": "2017-12-17T17:28:09.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/B8GV6ZHXATLodl2_ll8QDuas1Zw\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLnF5QldlcUVTWlZV",
+   "snippet": {
+    "publishedAt": "2017-12-15T23:19:29.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Obawa przed proszeniem",
+    "description": "Bardzo często boimy się poprosić wprost.\nPod wymijającymi formami proszenia, takimi jak: \"czy mógłbym\", \"czy mógłbyś\", \"trzeba by...\" kryje się obawa przed byciem zranionym odmową.\n\nTakie nieuświadomione lęki wynosimy wraz z traumatycznymi przeżyciami z dzieciństwa. Często prosiliśmy i nikt nawet nie słyszał. Lub byliśmy karani za proszenie o to, co \"nam nie przysługiwało\".\n\nInną formą unikania proszenia jest tryb rozkazujący z dodanym na końcu słowem \"proszę\", który nie pozostawia miejsca na dyskusję a tym bardziej na odmowę. \n\nJeżeli ktoś tak komunikuje się z Tobą, masz obowiązek postawić granice. Możesz to zrobić uprzejmie, bez wchodzenia w otwartą konfrontację.\n\n-------------------------\n\nwww.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qyBWeqESZVU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qyBWeqESZVU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qyBWeqESZVU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 84,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qyBWeqESZVU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "qyBWeqESZVU",
+    "videoPublishedAt": "2017-12-15T23:19:29.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/JzqQ-KWjlRFoFOc2Esh4kkgqRYg\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLlhZdzBfU0FpdENB",
+   "snippet": {
+    "publishedAt": "2017-12-14T23:45:07.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Depresja - najszybsza droga do wyjścia z ciemności",
+    "description": "Jak najszybciej poradzić sobie z depresją, niskim poczuciem własnej wartości a nawet z myślami samobójczymi? Czy musisz brać \"prochy\"  aby poczuć się lepiej? Nie. Możesz udać się tam, gdzie prowadzi Twoje samopoczucie - do kontrolowanej izolacji pod superwizją. W odosobnieniu i w ciemności możesz w szybkim czasie zobaczyć swoje demony i ostatecznie je wyśmiać/ zdekonstruować.\n\n---------------------\n\nwww.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XYw0_SAitCA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XYw0_SAitCA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XYw0_SAitCA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 85,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "XYw0_SAitCA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "XYw0_SAitCA",
+    "videoPublishedAt": "2017-12-14T23:45:07.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/4VVo3-ug4ewJvWinqpfTqI3QN6k\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmRGM3hxYTE3X01z",
+   "snippet": {
+    "publishedAt": "2017-12-21T19:10:47.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Bezkompromisowe TAK dla osobistej wolności",
+    "description": "Temat filmu to: Bezkompromisowe 'tak' dla wolności! Jeżeli już wiesz, że strefa komfortu nie zawsze pozwala ci na pójście dalej, ku większej wolności i ekspansji do tego, kim naprawdę jesteś, czas zrewidować małe \"ja\". \n\nJest wiele metod i sposobów na to, aby samemu siebie \"kopnąć w tyłek\". W tym filmiku mówię o tym, że nikt nie zrobi tego za ciebie i że zawsze warto sprawdzić gdzie jest granica twojego komfortu z wyboru lub z przyzwyczajenia i zacząć tworzyć dobry nawyk przekraczania tych granic w stronę rozwoju.\n\nTo zupełnie inna sytuacja, kiedy sam/a przekraczasz własne granice. To nie to samo, co kiedy ktoś je przekracza, wbrew tobie. Choć ta druga sytuacja bywa rozwijająca. Jednak tego rodzaju \"rozwój\" wymuszony gwałtem, niesie ze sobą także traumy i (może niepotrzebne?) cierpienia.\n\n-----------------------\n\nwww.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dF3xqa17_Ms/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dF3xqa17_Ms/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dF3xqa17_Ms/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/dF3xqa17_Ms/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/dF3xqa17_Ms/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 86,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "dF3xqa17_Ms"
+    }
+   },
+   "contentDetails": {
+    "videoId": "dF3xqa17_Ms",
+    "videoPublishedAt": "2017-12-21T19:10:47.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ccU5dOGisWJb9jVI85Z5DDybsZM\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmphMnlIT0JFcXFz",
+   "snippet": {
+    "publishedAt": "2017-11-08T22:42:31.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Związki i kłótnie - jak nie kłócić się przynajmniej z sobą samym?",
+    "description": "Jak nie kłócić się z sobą nawzajem a przede wszystkim z sobą samym? Czy sprzeczki są nieodłączną częścią związków? Jak rozwija się relacja kiedy akceptujemy naszego partnera jako najlepszy swój wybór i jak wpływa na nasze rozmowy fakt podtrzymywania w pamięci obrazu \"matki doskonałej\"?",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ja2yHOBEqqs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ja2yHOBEqqs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ja2yHOBEqqs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ja2yHOBEqqs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ja2yHOBEqqs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 87,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ja2yHOBEqqs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ja2yHOBEqqs",
+    "videoPublishedAt": "2017-11-08T22:42:31.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/KP7VlD8EAVfMQt6VoSbDY0XixdM\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmlKcTVFRDY4bkpj",
+   "snippet": {
+    "publishedAt": "2017-09-28T14:19:48.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "FRUSTRACJA - komu się to przydarza?",
+    "description": "Witaj, nazywam się Izabela Kopaniszyn. Jestem psychologiem transpersonalnym, ze stopniem doktora socjologii. \n\nOpracowałam autorską metodę szybkich zmian, zwaną Restartingiem®. Pracuję także od wielu lat metodą ustawień hellingerowskich, które nazywam Mandalami Systemowymi. Jestem autorką książki \"Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka (...)\" oraz założycielką Nelumbo Institute. Mieszkam w Portugalii.\n\nW tym filmiku proponuję Ci uważność na codzienne mini-frustracje. Jak akceptować to, co dzieje się nie po naszej myśli? Jak nie pozwolić umknąć pięknu chwili obecnej tylko dlatego, że coś idzie nie po naszej myśli?\n\nProwadzę regularnie zajęcia w wielu miejscach na świecie, między innymi w Portugalii, Polsce, Włoszech i Anglii. \n\nZapraszam Cię na sesje w Portugalii a także na sesje skype, na które możesz się umawiać pod adresem nelumbo.institute@gmail.com. Więcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/iJq5ED68nJc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/iJq5ED68nJc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/iJq5ED68nJc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/iJq5ED68nJc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/iJq5ED68nJc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 88,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "iJq5ED68nJc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "iJq5ED68nJc",
+    "videoPublishedAt": "2017-09-28T14:19:48.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/5sFnghyUxO6znD4OVSz2hxRJb8E\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLjlXek1KQUVzdkNj",
+   "snippet": {
+    "publishedAt": "2017-09-19T15:46:15.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Zdrowie, życie i śmierć a pola morficzne",
+    "description": "Wykład dr Izabeli Kopaniszyn na Festiwalu Alternatywnym w Krakowie w maju 2027 roku: \"Zdrowie a pola morficzne\". O samouzdrawianiu, uzdrawianiu, zdrowiu, chorobie i wielopoziomowości człowieka. O życiu, śmierci, lęku, poddaniu i wyborze. Medycyna konwencjonalna i medycyna alternatywna. Instytut Nelumbo True Self Inquiry prowadzi uzdrawiające sesje terapeutyczne i ceremonie Ayahuasca w Portugalii. Więcej informacji na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9WzMJAEsvCc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9WzMJAEsvCc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9WzMJAEsvCc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/9WzMJAEsvCc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 89,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "9WzMJAEsvCc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "9WzMJAEsvCc",
+    "videoPublishedAt": "2017-09-19T15:46:15.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/_-d6fROe21X5AzM1hxiVKH-baUQ\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLlAxN2w3X3lMQ3o4",
+   "snippet": {
+    "publishedAt": "2017-07-13T15:05:51.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Nelumbo Combo - po wolność do Portugalii :)",
+    "description": "Witaj, zapraszamy do wakacyjnego zagłębienia się z Instytutem Nelumbo w odkrywaniu Kim Jesteś. Intensivy odbywają się w Portugalii, zwanej \"balkonem Europy\", gdzie przez dziesięć pełnych dni uczestnicy zażywają głębokiego relaksu, jednocześnie ucząc się intensywnie user friendly \"obsługi siebie samego\". \n\nZamiast kupować kolejną wycieczkę w centrum greckiego kurortu przyleć do nas na Nelumbo Combo Intensive!\n\nW ramach tego pobytu oferujemy każdemu uczestnikowi NCI:\n- komfortowy pobyt z wyżywieniem\n- intensywny trening uważności\n- własne ustawienie metodą B. Hellingera\n- restarting grupowy z indywidualnymi wskazaniami do pracy na czas pobytu\n- sesję indywidualną, zwaną \"czytaniem duszy\"\n- pracę z ciałem\n- medytacje (statyczne i dynamiczne)\n- zwiedzanie miejsc mocy w Portugalii\n- inicjację w studni inicjacyjnej w Quinta da Regaleira\n- spotkanie ludzi, których się nie zapomina\n\nA także, opcjonalnie:\n- własna sesja Recall Healing\n- masaże\n- inne atrakcje\n\nPolecamy zapytać uczestników poprzednich edycji naszych wczasów na grupie nelumbo na Facebooku.\n\n-------\n\nO mnie\n\nDr Izabela Kopaniszyn (Easy Grace) – psycholog transpersonalna, socjolog, coach, trener rozwoju osobistego, pisarka. Autorka książki „Ja czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka i o kilku prostych metodach wyleczenia się z choroby 'ja'” oraz pracy doktorskiej „Podmiot a sacrum”.\n\nZajmuje się odczytywaniem i zmianą obciążającego „oprogramowania” pola świadomości poprzez stosowanie krótkoterminowych metod  tworzenia nowych wzorców, nawyków i ścieżek neuronalnych.\n\nRegularnie prowadzi w różnych miejscach na świecie warsztaty rozwojowe, m.in. ustawienia inspirowane pracą Berta Hellingera. Jest autorką metody osiągania ekstremalnie szybkich zmian (porównywanej do skoku ze spadochronem), zwanej Restartingiem®. Założycielka Instytutu Nelumbo True Self Inquiry (www.nelumbo.eu). \n--------------\nZapraszam na sesje Restartingu®, Frameworkingu® oraz Ayahuasca w Portugalii lub we Włoszech.\n\nUstawienia metodą Hellingera: w Polsce, w Portugalii, w Anglii i we Włoszech: nelumbo.institute@gmail.com\n\nSesje skype: nelumbo.institute@gmail.com\n\nJeśli chcesz wiedzieć jak działa najpotężniejszy system zawłaszczenia w Twojej głowie, zamów moją książkę: „Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka…” - zamówienia przez: nelumbo.institute@gmail.com\n\nPozostańmy w kontakcie:\n\nWWW - www.nelumbo.eu\nFACEBOOK -https://www.facebook.com/Dr-Izabela-Ewa-Kopaniszyn-Nelumbo-Institute-1167181570046405/?ref=bookmarks\nBLOG - http://strazniczkakwiatu.blogspot.com\nEMAIL – nelumbo.institute@gmail.com\nWSPÓŁPRACA: nelumbo.institute@gmail.com\nGRUPA NA FB: https://www.facebook.com/search/top/?q=nelumbo%20institute%20fb%20group\n\nJeśli ten filmik Ci się podobał, daj mi proszę lajka, pomaga to innym dotrzeć do tych informacji!\n\nJeśli chcesz być na bieżąco ze wszystkim co publikuję, subskrybuj mój kanał i bądź automatycznie powiadamiany o nowych filmach :)\n\nJeżeli chcesz być na bieżąco w wydarzeniami Nelumbo Institute wejdź na stronę www.nelumbo.eu i jednym kliknięciem zamów newsletter :)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/P17l7_yLCz8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/P17l7_yLCz8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/P17l7_yLCz8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/P17l7_yLCz8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/P17l7_yLCz8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 90,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "P17l7_yLCz8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "P17l7_yLCz8",
+    "videoPublishedAt": "2017-07-13T15:05:51.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/B-y0RvlzXDoI3OUzUbJr8EIcIdg\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmVQQTlyNm9HV2x3",
+   "snippet": {
+    "publishedAt": "2017-12-10T23:43:21.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Samobójstwo - przyczyny i pomoc",
+    "description": "Samobójstwo obciążone jest wieloma mitami i otoczone nimbem tajemnicy. Niesłusznie. Edukacja i znajomość sygnałów poprzedzających je mogą być pomocą dla potencjalnych ofiar.\n\nZ perspektywy Samritans, organizacji odszukującej samobójców na dachach, mostach i w innych miejscach, które zgłoszono - samobójca jest ofiarą własnego urojenia i dysocjacji. Po odratowaniu z miejsca \"zbrodni\" około 80-90% samobójców nie wraca do zamiaru odebrania sobie życia.\n\nNiedoszli lub przyszli samobójcy nie zawsze mówią wprost o swoich zamiarach. Ponadto samobójstwo częściej popełniane jest w manii niż w depresji. Dobrze jest wiedzieć jak zachowują się ludzie w stanach depresyjnych oraz w maniakalnych.\n\nZawsze warto zapytać czy osoba, którą znamy:\n\n- ma już za sobą próby samobójcze lub miewa myśli samobójcze\n- w rodzinie ktoś już popełnił samobójstwo (szczególnie, gdy byli to ojciec lub matka!)\n- jest nietypowo \"wyciszona\" a jednocześnie nienaturalnie \"obecna\" (intensywne patrzenie w oczy, wpatrywanie się, \"szukanie czegoś\" w naszych oczach)\n- zajęta wciąż myślami, nieobecna\n- porzuca swoje pasje, hobby, zainteresowania\n- rozdaje swoje rzeczy\n- nie dba o siebie ale dba o innych\n- chętnie zgadza się na wszystko (nawet tam, gdzie kiedyś oporowała)\n- nie miewa \"gorszych dni\", zmęczenia, znużenia (zwłaszcza po wcześniejszym załamaniu lub kryzysie)\n- podsumowuje sprawy globalnymi zdaniami lub cytując filozofów, mistrzów, znanych pisarzy itp.\n- znika na dłużej i nie wiemy gdzie wtedy jest (może to być badanie miejsca przyszłego samobójstwa, planowanie)\n- żegna się z nami w specyficzny sposób, zwykle dziękując \"za wszystko\" lub dając do zrozumienia, że nas kocha (zwłaszcza jeśli wychodzi tylko \"do sklepu') - ten ostatni sygnał powinien zawsze być znakiem ostrzegawczym!!!, może to być ostatnia chwila, aby pójść za tą osobą lub w inny sposób zatrzymać ją lub zapytać wprost.\n\nJeżeli dodatkowo osoba taka ma zdiagnozowaną np. schizofrenię, dwubiegunowość, depresję lub przechodzi kryzys albo ogólnie jest niestabilna emocjonalnie, nadwrażliwa -  warto wyostrzyć swoją uwagę.\n\nPolecam zapoznanie się z treściami na stronie Samarytan:\n\nhttps://www.samaritans.org/how-we-can-help-you/what-speak-us-about/i-want-kill-myself\n\nMożecie zachęcić waszych bliskich lub znajomych do poczytania tej strony, skontaktowania się ze specjalistami lub poczytać ją wspólnie.\n\nTakże w Nelumbo Institute stosujemy krótkoterminowe metody, które pozwalają zobaczyć życie (i śmierć) z szerszej perspektywy i uzdrowić te obszary, które popychają do decyzji ostatecznej. Należą do nich ustawienia, ceremonie ayahuasca, restarting, Nelumbo Combo Intensive i inne.\n\nNa filmie poniżej min. wypowiada się osoba, która w ostatniej chwili przyjechała do mnie aby nie popełnić samobójstwa. Obecnie ten człowiek żyje już 5 lat po tym spotkaniu, jest zadowolony z życia i pomaga innym:\n\nhttps://www.youtube.com/watch?v=Yi0LJZ9g3dE\n\nWięcej na stronie:\nwww.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ePA9r6oGWlw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ePA9r6oGWlw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ePA9r6oGWlw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ePA9r6oGWlw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ePA9r6oGWlw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 91,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ePA9r6oGWlw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ePA9r6oGWlw",
+    "videoPublishedAt": "2017-12-10T23:43:21.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/BzWFmenTQNqjKVKrKiU7rGSlrks\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmoxREh2cWdOMmdR",
+   "snippet": {
+    "publishedAt": "2017-04-21T19:01:07.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Jednosekundowa MEDYTACJA bezruchu",
+    "description": "Witaj, nazywam się Izabela Kopaniszyn. Jestem psychologiem transpersonalnym, ze stopniem doktora socjologii. Opracowałam autorską metodę szybkich zmian, zwaną Restartingiem®. Pracuję także od wielu lat metodą ustawień hellingerowskich, które nazywam Mandalami Systemowymi. Jestem autorką książki \"Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka (...)\" oraz założycielką Nelumbo Institute. Mieszkam w Portugalii.\n\nW tym filmiku proponuję Ci proste ćwiczenie medytacyjne na każdą okazję: zatrzymaj się tam, gdzie właśnie jesteś i zapytaj: \"komu to się przydarza?\".\n\nProwadzę regularnie zajęcia w wielu miejscach na świecie, między innymi w Portugalii, Polsce, Włoszech i Anglii. \n\nZapraszam także na sesje skype, na które możesz się umawiać pod adresem nelumbo.institute@gmail.com. Więcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/j1DHvqgN2gQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/j1DHvqgN2gQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/j1DHvqgN2gQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/j1DHvqgN2gQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/j1DHvqgN2gQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 92,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "j1DHvqgN2gQ"
+    }
+   },
+   "contentDetails": {
+    "videoId": "j1DHvqgN2gQ",
+    "videoPublishedAt": "2017-04-21T19:01:07.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Hfx3B0O7QA9XMpRrfhKV0g8Xz7A\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLnpLVTQ4dlg3YU1J",
+   "snippet": {
+    "publishedAt": "2017-04-15T20:22:27.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "PARADOKS AKCEPTACJI jako niezbędny warunek zmiany",
+    "description": "Witaj, nazywam się Izabela Kopaniszyn. Jestem psychologiem transpersonalnym, ze stopniem doktora socjologii. Opracowałam autorską metodę szybkich zmian, zwaną Restartingiem®. Pracuję także od wielu lat metodą ustawień hellingerowskich, które nazywam Mandalami Systemowymi. Jestem autorką książki \"Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka (...)\" oraz założycielką Nelumbo Institute. Mieszkam w Portugalii.\n\nW tym filmiku wyjaśniam dlaczego paradoks zmiany jest najważniejszym krokiem, aby zakończyć daną lekcję. Akceptacja pozwala na zmianę prawdziwą, nie poprzez walkę, ale przez przejście w inny obszar rezonansu, przekierowanie uwagi. Tak można uzdrowić chorobę, związek, pracę...Wszystko, co stanowi \"problem\" lub wyzwanie jest w istocie lekcją, której potrzebujemy aby znaleźć się gdzie indziej. \n\nProwadzę regularnie zajęcia w wielu miejscach na świecie, między innymi w Portugalii, Polsce, Włoszech i Anglii. \n\nZapraszam także na sesje skype, na które możesz się umawiać pod adresem nelumbo.institute@gmail.com. Więcej na www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zKU48vX7aMI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zKU48vX7aMI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zKU48vX7aMI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/zKU48vX7aMI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/zKU48vX7aMI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 93,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "zKU48vX7aMI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "zKU48vX7aMI",
+    "videoPublishedAt": "2017-04-15T20:22:27.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gUARlaKkVvKo0rcHHj43XT4MRvI\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLlVVUDg1dkRmMk1V",
+   "snippet": {
+    "publishedAt": "2017-04-15T18:17:48.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "RESTARTING® - pełna realcja Moniki",
+    "description": "Oto relacja uczestniczki Restartingu®, Moniki. Restarting® jest autorską metodą szybkich zmian autorstwa dr Izabeli Kopaniszyn. Poprzez wgląd w myśli, przekonania i emocje, które opierają się na programach pozwala on przekroczyć te nawykowe wzorce. Nie-swoje programy powodują powielanie sytuacji cierpienia i autodestrukcji. Można je łatwo odkryć i \"skasować\", zastępując nowymi. Restarting® jest prowadzony przez dr Izabelę Kopaniszyn, założycielkę Instytutu Nelumbo True Self Inquiry, między innymi w okolicach Lizbony, w Warszawie, w Krakowie, w Londynie oraz pod Rzymem.\n\nWięcej o Restartingu® na stronie www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UUP85vDf2MU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UUP85vDf2MU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UUP85vDf2MU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/UUP85vDf2MU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 94,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UUP85vDf2MU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "UUP85vDf2MU",
+    "videoPublishedAt": "2017-04-15T18:17:48.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Zv6nCL_slJ2gD6zR4V-YOp0sGjM\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLkhCekZwUlpvSmRj",
+   "snippet": {
+    "publishedAt": "2017-04-12T17:34:37.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Restarting®, moje doświadczenie  - pełna relacja Agnieszki",
+    "description": "Oto relacja uczestniczki Restartingu®, Agnieszki. Restarting® jest autorską metodą szybkich zmian autorstwa dr Izabeli Kopaniszyn. Poprzez wgląd w myśli, przekonania i emocje, które opierają się na programach pozwala on przekroczyć te nawykowe wzorce. Nie-swoje programy powodują powielanie sytuacji cierpienia i autodestrukcji. Można je łatwo odkryć i \"skasować\", zastępując nowymi. Restarting® jest prowadzony przez dr Izabelę Kopaniszyn, założycielkę Instytutu Nelumbo True Self Inquiry, między innymi w okolicach Lizbony, w Warszawie, w Krakowie, w Londynie oraz pod Rzymem.\n\nWięcej o Restartingu® na stronie www.nelumbo.pl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HBzFpRZoJdc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HBzFpRZoJdc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HBzFpRZoJdc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/HBzFpRZoJdc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/HBzFpRZoJdc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 95,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "HBzFpRZoJdc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "HBzFpRZoJdc",
+    "videoPublishedAt": "2017-04-12T17:34:37.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/LeqWd57Z1umiyaUQoOm-hrIJqdY\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmd3el9RY1JoQWZ3",
+   "snippet": {
+    "publishedAt": "2017-03-12T23:43:48.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "FALE ALFA, FALE THETA - trening metodą neurofeedbacku",
+    "description": "Witaj, nazywam się Izabela Kopaniszyn. Jestem psychologiem transpersonalnym, ze stopniem doktora socjologii. Założyłam Nelumbo Institute True Self Inquiry. Jestem też autorką książki \"Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka (...)\". Opracowałam autorską metodę szybkich zmian, zwaną Restartingiem®. Pracuję także od wielu lat metodą ustawień hellingerowskich, które nazywam Mandalami Systemowymi. \n\nW tym filmiku przedstawiam relację z mojego treningu fal mózgowych metodą neurofeedbacku, który odbyłam w lutym 2017.\n\nFale alfa, theta, gamma i delta to fale których ćwiczenie przynosi wymierne, długotrwałe i pozytywne rezultaty w zakresie kreatywności, relaksu, poprawy jakości życia, w tym snu, świadomego śnienia, wyższego IQ, szybszego uczenia się nowych umiejętności, zdolności uwalniania traum i wielu innych parametrów składających się na tak zwane wellbeing. \n\nZ treningu u Jima Hardta skorzystali m.in: coach Tonny Robins, Zen Master Ryuho Yamada Roshi, Bill Harris, Creator of Holosync Meditation, James Cammeron i wielu innych.\n\nJeśli zainteresował Cię trening neurofeedbacku i chcesz dowiedzieć się więcej albo sprawdzić czy jest możliwe uzyskanie zniżki lub skorzystanie z promocji na ten trening napisz do mnie na nelumbo.institute@gmail.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gwz_QcRhAfw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gwz_QcRhAfw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gwz_QcRhAfw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/gwz_QcRhAfw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/gwz_QcRhAfw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 96,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "gwz_QcRhAfw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "gwz_QcRhAfw",
+    "videoPublishedAt": "2017-03-12T23:43:48.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/RAYPHc_w4XnwkC6dqRP_H_BouQw\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLkhnT3pHZTlZLWpV",
+   "snippet": {
+    "publishedAt": "2017-01-28T23:31:47.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Transformacja oporu - ćwiczenie",
+    "description": "Witaj, nazywam się Izabela Kopaniszyn. Jestem psychologiem transpersonalnym, ze stopniem doktora socjologii. Założyłam Nelumbo Institute True Self Inquiry. Jestem też autorką książki \"Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka (...)\". Opracowałam autorską metodę szybkich zmian, zwaną Restartingiem®. Pracuję także od wielu lat metodą ustawień hellingerowskich, które nazywam Mandalami Systemowymi. \n_______________\n\nW tym filmiku wyjaśniam dlaczego opór jest podstawową przyczyną cierpienia. Jeśli nie ma oporu - naturalnie wlewa się w to miejsce akceptacja. Co zrobić, kiedy odczuwasz frustrację związaną z niezgodą na to, co jest? Polecam proste ćwiczenie, opracowane w oparciu o doświadczenia w prowadzeniu sesji psychoterapii transpersonalnej. Więcej na www.nelumbo.pl\n\n------------------\nJeśli interesuje CIę udział w naszych warsztatach, ceremoniach ayahuasca lub w sesji skype to zapraszam do kontaktu na nelumbo.institute@gmail.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HgOzGe9Y-jU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HgOzGe9Y-jU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HgOzGe9Y-jU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/HgOzGe9Y-jU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/HgOzGe9Y-jU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 97,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "HgOzGe9Y-jU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "HgOzGe9Y-jU",
+    "videoPublishedAt": "2017-01-28T23:31:47.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/3lno4N6MMzHD891v_wL5Qk7HODw\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLlhSV3JOakhKVV9R",
+   "snippet": {
+    "publishedAt": "2017-01-27T21:49:03.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "Słuchaj głosu zwierząt!",
+    "description": "Witaj, nazywam się Izabela Kopaniszyn. Jestem psychologiem transpersonalnym, ze stopniem doktora socjologii. Założyłam Nelumbo Institute True Self Inquiry. Jestem też autorką książki \"Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka (...)\". Opracowałam autorską metodę szybkich zmian, zwaną Restartingiem®. Pracuję także od wielu lat metodą ustawień hellingerowskich, które nazywam Mandalami Systemowymi. \n\n--------------------\nW tym filmiku dzielę się swoim doświadczeniem w kontakcie ze zwierzątkami. Zwierzęta to Anioły, które mają nam wiele do powiedzenia. Wystarczy przestać o nich myśleć i zacząć słuchać ich głosu sercem, intuicją, czuciem. Już czas by stały się naszymi przyjaciółmi zamiast być żywymi zabawkami, mięsem, reprezentantami chorób i zastępcami członków rodziny...\nKochając zwierzęta, kochamy swoją wrażliwą, pozbawioną tożsamości część, pozwalamy sobie zobaczyć jak bardzo one są tutaj dla nas, jak wiele nas uczą o tym Kim Jesteśmy.\n------------------\nJeżeli chcesz wziąć udział w prowadzonych przez Nelumbo Institute sesjach, ceremoniach Ayahuasca lub warsztatach napisz na nelumbo.institute@gmail.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XRWrNjHJU_Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XRWrNjHJU_Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XRWrNjHJU_Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/XRWrNjHJU_Q/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/XRWrNjHJU_Q/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 98,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "XRWrNjHJU_Q"
+    }
+   },
+   "contentDetails": {
+    "videoId": "XRWrNjHJU_Q",
+    "videoPublishedAt": "2017-01-27T21:49:03.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/9I9HrHERN8BxnSGSshmhnsHONhM\"",
+   "id": "VVVBTWx6YkhUUjZDTVpmSVpVanFzcDhBLmRlNUYzRzRGZ3hr",
+   "snippet": {
+    "publishedAt": "2016-12-19T00:08:36.000Z",
+    "channelId": "UCAMlzbHTR6CMZfIZUjqsp8A",
+    "title": "LĘK - rozmawiaj z nim",
+    "description": "Witaj, nazywam się Izabela Kopaniszyn. Jestem psychologiem transpersonalnym, ze stopniem doktora socjologii. Założyłam Nelumbo Institute True Self Inquiry. Jestem też autorką książki \"Ja, czyli kto? O ego i superego jako wirusach systemu operacyjnego człowieka (...)\". Opracowałam autorską metodę szybkich zmian, zwaną Restartingiem®. Pracuję także od wielu lat metodą ustawień hellingerowskich, które nazywam Mandalami Systemowymi. \n--------------------\nW tym filmiku podaję kilka prostych rad na temat radzenia sobie z lękiem. Lęk często paraliżuje i blokuje nasz potencjał. Do czasu aż będziesz zupełnie pozbawioną lęku wielką Istotą, którą naprawdę Jesteś, zrodzona z dualnego umysłu emocja może od czasu do czasu pojawić się w Twoim doświadczeniu. Te informacje mogą pomóc opanować sytuację na tyle, by nie odprowadzała ona Twojej energii w mało konstruktywne rejony.\n------------------\nJeżeli chcesz wziąć udział w prowadzonych przez Nelumbo Institute sesjach, ceremoniach Ayahuasca lub warsztatach albo zamówić sesję skype, napisz do mnie na nelumbo.institute@gmail.com\n\n--------------------------------------www.nelumbo.pl---------------------------------------------------------------------------------www.totalhealing.com------------------------------------------",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/de5F3G4Fgxk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/de5F3G4Fgxk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/de5F3G4Fgxk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/de5F3G4Fgxk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/de5F3G4Fgxk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jesteś Mistrzem/ Master Your Life",
+    "playlistId": "UUAMlzbHTR6CMZfIZUjqsp8A",
+    "position": 99,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "de5F3G4Fgxk"
+    }
+   },
+   "contentDetails": {
+    "videoId": "de5F3G4Fgxk",
+    "videoPublishedAt": "2016-12-19T00:08:36.000Z"
+   }
+  }
+ ]
+}

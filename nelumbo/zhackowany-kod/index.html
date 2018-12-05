@@ -1,0 +1,140 @@
+<!doctype html>
+<html>
+  <head>
+<!-- x -->
+
+
+    <script src="lib/jquery.min.js"></script>
+    <script src='lib/angular.min.js'></script>
+
+    <script>
+      var app = angular.module("app", []);
+
+      var APIkey = "AIzaSyBuu0MNJxSakeNXYzMO1TtLfZJ0QA5hoEw"
+
+
+      app.service("youtube", function($http) {
+
+        var service = {}
+
+
+        service.getPlaylistPart = function() {
+
+        }
+
+        return service;
+
+      });
+
+
+      app.controller("ctrl", function($scope, $http) {
+        $scope.message = "It works!";
+
+        $scope.channel = "https://www.youtube.com/channel/UCAMlzbHTR6CMZfIZUjqsp8A";
+
+        $scope.scrape = function() {
+          console.log($scope.channel);
+          var id = "UCAMlzbHTR6CMZfIZUjqsp8A";
+          var requestURL = "https://www.googleapis.com/youtube/v3/channels?part=snippet,contentDetails,statistics&id=" + id + "&key=" + APIkey;
+
+          $http.get(requestURL).then(function(response) {
+
+            var uploadsId = response.data.items[0].contentDetails.relatedPlaylists.uploads;
+
+            var uploadsId = "UUAMlzbHTR6CMZfIZUjqsp8A";
+
+
+            var requestURL = "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails&maxResults=50&playlistId=" + uploadsId + "&key=" + APIkey;
+
+            $http.get(requestURL).then(function(response) {
+
+              x = response.data;
+              console.log(x);
+
+
+            });
+
+          })
+        }
+
+        videoIDs = [];
+
+        $http.get("resp1.json").then(function(response) {
+          videoIDs = videoIDs.concat(response.data.items.map(function(item) { return item.contentDetails.videoId; }));
+        });
+
+        setTimeout(function() {
+          $http.get("resp2.json").then(function(response) {
+            videoIDs = videoIDs.concat(response.data.items.map(function(item) { return item.contentDetails.videoId; }));
+          });
+        }, 1000);        
+
+        setTimeout(function() {
+          $http.get("resp3.json").then(function(response) {
+            videoIDs = videoIDs.concat(response.data.items.map(function(item) { return item.contentDetails.videoId; }));
+          });
+        }, 2000);        
+
+        setTimeout(function() {
+          $http.get("resp4.json").then(function(response) {
+            videoIDs = videoIDs.concat(response.data.items.map(function(item) { return item.contentDetails.videoId; }));
+          });
+        }, 3000);
+
+
+        things = [];
+
+        setTimeout(function() {
+
+          console.log(videoIDs);
+
+          for (var i=0; i<videoIDs.length; i++) {
+
+            var requestURL = "https://www.googleapis.com/youtube/v3/videos?id=" + videoIDs[i] + "&part=snippet,statistics&key=AIzaSyBuu0MNJxSakeNXYzMO1TtLfZJ0QA5hoEw"
+            $http.get(requestURL).then(function(response) {
+              var d = response.data.items[0];
+
+              // https://www.youtube.com/watch?v=aquom-WTiLw
+
+              var t = {
+                id: d.id,
+                title: d.snippet.title,
+                thumbnail: d.snippet.thumbnails.default.url,
+                comment: d.statistics.commentCount,
+                dislike: d.statistics.dislikeCount,
+                // favorite: d.statistics.favoriteCount,
+                like: d.statistics.likeCount,
+                view: d.statistics.viewCount
+              };
+
+              things.push(t);
+
+              console.log(t.id + "\t" + t.thumbnail + "\t" + t.title + "\t" + t.view + "\t" + t.comment + "\t" + t.like + "\t" + t.dislike);
+
+            })
+
+          }
+
+
+        }, 5000);
+
+
+        "https://www.googleapis.com/youtube/v3/videos?id=YwYIU5wyr6g&part=snippet,statistics&key=AIzaSyBuu0MNJxSakeNXYzMO1TtLfZJ0QA5hoEw"
+
+
+
+      });
+
+    </script>
+  </head>
+  <body ng-app="app" ng-controller="ctrl">
+    {{ message }}
+
+    <form ng-submit="scrape()">
+      <input type="text" ng-model="channel">
+      <input type="submit">
+    </form>
+
+
+  </body>
+</html>
