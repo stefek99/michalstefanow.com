@@ -60,6 +60,32 @@ I've literally made a copy of an existing website because it was a simple, decen
       <title>Michal Stefanow</title>
       <link rel="stylesheet" href="./files_files/scss.419d326c.css">
       <script src="./files_files/js.1299c28b.js"></script>  
+
+      <script>
+      
+         // This is the "Offline page" service worker
+
+         // Add this below content to your HTML page, or add the js file to your page at the very top to register service worker
+
+         // Check compatibility for the browser we're running this in
+         if ("serviceWorker" in navigator) {
+            if (navigator.serviceWorker.controller) {
+               console.log("[PWA Builder] active service worker found, no need to register");
+            } else {
+               // Register the service worker
+               navigator.serviceWorker
+                  .register("pwabuilder-sw.js", {
+                     scope: "./"
+                  })
+                  .then(function (reg) {
+                     console.log("[PWA Builder] Service worker has been registered for scope: " + reg.scope);
+                  });
+            }
+         }
+
+      </script>
+
+
       <meta property="og:site_name" content="Michal Stefanow">
       <meta property="og:title" content="Michal Stefanow - Full Stack Developer">
       <meta property="og:description" content="Home page of a software developer, living in London">
@@ -67,6 +93,7 @@ I've literally made a copy of an existing website because it was a simple, decen
       <meta property="og:image" content="/Love-Coding.01efcd23.jpg">
       <meta property="og:url" content="https://michalstefanow.com/">
       <meta property="article:author" content="https://michalstefanow.com/">
+      <link rel='manifest' href='/manifest.webmanifest'>
    </head>
    <body data-gr-c-s-loaded="true" cz-shortcut-listen="true">
       <div class="video-hero hello-world is-fullscreen is-valign-middle hello-world--transparent">
@@ -80,8 +107,8 @@ I've literally made a copy of an existing website because it was a simple, decen
          </div>
          <div class="container hello-world__bg is-valign-middle">
             <div class="col-lg-7">
-               <div class="hello-world__my-photo hello-world__my-photo--small is-image-circle is-hidden is-visible-landscape-xs is-visible-landscape-sm"></div>
-               <h1 class="title hello-world__my-name">Hi, I'm Michal Stefanow</h1>
+               <!-- <div class="hello-world__my-photo hello-world__my-photo--small is-image-circle is-hidden is-visible-landscape-xs is-visible-landscape-sm"></div> -->
+               <!-- <h1 class="title hello-world__my-name">Hi, I'm Michal Stefanow</h1> -->
                <h2 class="subtitle hello-world__my-title is-uppercase has-separator">Front-End, Full-Stack and Blockchain Developer based in London</h2>
                <div class="separator"></div>
 
@@ -109,9 +136,9 @@ I've literally made a copy of an existing website because it was a simple, decen
                </ul>
             </div>
             <div class="column col-md-1 col-lg-1 is-hidden-landscape-xs is-hidden-landscape-sm hello-world__margin"></div>
-            <div class="col-lg-4 is-hidden-landscape-xs is-hidden-landscape-sm">
+            <!-- <div class="col-lg-4 is-hidden-landscape-xs is-hidden-landscape-sm">
                <div class="hello-world__my-photo is-image-circle"></div>
-            </div>
+            </div> -->
             <div class="is-clearfix"></div>
          </div>
       </div>
